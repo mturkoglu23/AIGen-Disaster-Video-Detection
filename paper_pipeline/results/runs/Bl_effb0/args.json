@@ -1,0 +1,18 @@
+{
+  "model": "frame_efficientnet_b0",
+  "data": "clean_pairs",
+  "split": "group",
+  "recipe": "generic",
+  "tag": "Bl_effb0",
+  "folds": "all",
+  "robust": true,
+  "epochs": 0,
+  "bs": 0,
+  "streams": "sem,for,tmp",
+  "stream_drop": 0.2,
+  "aux_w": 0.3,
+  "no_jpeg_aug": false,
+  "sem_backbone": "vit_base_patch14_dinov2.lvd142m",
+  "sem_unfreeze_last": 0,
+  "seed": 42
+}

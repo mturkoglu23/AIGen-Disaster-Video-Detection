@@ -1,0 +1,20 @@
+{
+  "model": "tristream",
+  "data": "clean_pairs",
+  "split": "group",
+  "recipe": "proposed",
+  "tag": "P_clip_semtmp_s2",
+  "folds": "all",
+  "robust": true,
+  "epochs": 0,
+  "bs": 0,
+  "streams": "sem,tmp",
+  "stream_drop": 0.2,
+  "aux_w": 0.3,
+  "no_jpeg_aug": false,
+  "sem_backbone": "vit_large_patch14_clip_224.openai",
+  "sem_unfreeze_last": 0,
+  "sem2_backbone": "vit_base_patch14_dinov2.lvd142m",
+  "seed": 2,
+  "adv_w": 0.0
+}

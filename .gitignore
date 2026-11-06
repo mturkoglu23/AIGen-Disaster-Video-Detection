@@ -1,0 +1,14 @@
+# data and caches (large)
+class_dataset/
+dataset/
+paper_pipeline/cache/
+*.npy
+*.npz
+*.pt
+*.pth
+*.keras
+*.mp4
+*.log
+__pycache__/
+*.pyc
+paper_pipeline/results/stdout_*.txt

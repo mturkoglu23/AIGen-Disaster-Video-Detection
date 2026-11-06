@@ -1,0 +1,15 @@
+{
+ "n": 522,
+ "n_fake": 261,
+ "n_real": 261,
+ "res_rf_acc": 0.5383141762452107,
+ "res_rf_acc_all": 0.822140221402214,
+ "Proposed": 0.9731800766283525,
+ "CLIP linear probe (UnivFD)": 0.9655172413793104,
+ "DINOv2 linear probe": 0.9501915708812261,
+ "VideoMAE-B": 0.9348659003831418,
+ "Xception (frame-level)": 0.9444444444444444,
+ "ResNet50-SE-BiLSTM-MHA": 0.9367816091954023,
+ "Metadata RF (8 features)": 0.9674329501915708,
+ "Metadata RF (aspect ratio only)": 0.8946360153256705
+}

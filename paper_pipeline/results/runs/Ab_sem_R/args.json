@@ -1,0 +1,19 @@
+{
+  "model": "tristream",
+  "data": "clean_pairs",
+  "split": "group",
+  "recipe": "proposed",
+  "tag": "Ab_sem_R",
+  "folds": "all",
+  "robust": true,
+  "epochs": 0,
+  "bs": 0,
+  "streams": "sem",
+  "stream_drop": 0.2,
+  "aux_w": 0.3,
+  "no_jpeg_aug": false,
+  "sem_backbone": "vit_base_patch14_dinov2.lvd142m",
+  "sem_unfreeze_last": 0,
+  "seed": 42,
+  "adv_w": 0.0
+}

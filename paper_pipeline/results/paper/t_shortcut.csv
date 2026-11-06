@@ -1,0 +1,7 @@
+setting,acc,f1
+"Metadata RF, 8 features",0.9830258302583026,0.9840830449826989
+"Metadata RF, aspect ratio only",0.9306273062730628,0.9356164383561644
+"ResNet50-SE-BiLSTM-MHA, raw frames, random split, original recipe",0.9453874538745387,0.9497282608695652
+"ResNet50-SE-BiLSTM-MHA, raw frames, group split, original recipe",0.940959409594096,0.9451303155006858
+"ResNet50-SE-BiLSTM-MHA, clean frames, group split, original recipe",0.9298892988929889,0.9348869088416724
+"ResNet50-SE-BiLSTM-MHA, clean frames, group split, revised recipe",0.9416974169741698,0.9462219196732471

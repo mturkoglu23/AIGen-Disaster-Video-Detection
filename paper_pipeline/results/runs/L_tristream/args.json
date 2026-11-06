@@ -1,0 +1,18 @@
+{
+  "model": "tristream",
+  "data": "clean_pairs",
+  "split": "lodo",
+  "recipe": "proposed",
+  "tag": "L_tristream",
+  "folds": "all",
+  "robust": false,
+  "epochs": 0,
+  "bs": 0,
+  "streams": "sem,for,tmp",
+  "stream_drop": 0.2,
+  "aux_w": 0.3,
+  "no_jpeg_aug": false,
+  "sem_backbone": "vit_base_patch14_dinov2.lvd142m",
+  "sem_unfreeze_last": 0,
+  "seed": 42
+}

@@ -1,0 +1,1356 @@
+id,rel,label,y,disaster,group,md5,drop_exact_dup,fold
+16866e6b8893,fake/Avalanche_Video_Dataset/Fake_Avalanche_Video (1).mp4,fake,0,Avalanche,0,5abc8d0264e7c5fd0d2e00635d7d0f4e,False,1
+78f4706863a1,fake/Avalanche_Video_Dataset/Fake_Avalanche_Video (10).mp4,fake,0,Avalanche,1,0e7779125e4bf934997df9225b694231,False,1
+998dfaf5bcd8,fake/Avalanche_Video_Dataset/Fake_Avalanche_Video (11).mp4,fake,0,Avalanche,2,d7e2fc82d39bfa172c908d48c8528c45,False,2
+f65a79e7f22a,fake/Avalanche_Video_Dataset/Fake_Avalanche_Video (12).mp4,fake,0,Avalanche,3,1249027c0a798195766a6549a0db6d07,False,3
+41ad1c947e47,fake/Avalanche_Video_Dataset/Fake_Avalanche_Video (13).mp4,fake,0,Avalanche,4,169a817a30ea5aa1aa9658b8175a54b1,False,1
+e30e0a5fc601,fake/Avalanche_Video_Dataset/Fake_Avalanche_Video (14).mp4,fake,0,Avalanche,5,535630a62f3735873cb8667badefe492,False,4
+9030ea3e8cd0,fake/Avalanche_Video_Dataset/Fake_Avalanche_Video (15).mp4,fake,0,Avalanche,6,71270e3c7cd590c29ab15e6e67bf10a4,False,2
+f99ffdb5335f,fake/Avalanche_Video_Dataset/Fake_Avalanche_Video (16).mp4,fake,0,Avalanche,7,3e736553dad55fb8c8137ceb6d3cdec2,False,3
+7d6efeedd705,fake/Avalanche_Video_Dataset/Fake_Avalanche_Video (17).mp4,fake,0,Avalanche,8,fed7531fd15fed18eb0487103b16fe3f,False,3
+ce6a384e94d6,fake/Avalanche_Video_Dataset/Fake_Avalanche_Video (18).mp4,fake,0,Avalanche,9,5a25f7de0ea168551533d4acd02dbad4,False,0
+c8d7d2a66764,fake/Avalanche_Video_Dataset/Fake_Avalanche_Video (19).mp4,fake,0,Avalanche,10,2560e8b424d6d452035a6a8b1ceb3c78,False,1
+1743120f271a,fake/Avalanche_Video_Dataset/Fake_Avalanche_Video (2).mp4,fake,0,Avalanche,11,91059ee643878cc54422d7c7d8c9d64b,False,1
+d5b14af373d3,fake/Avalanche_Video_Dataset/Fake_Avalanche_Video (20).mp4,fake,0,Avalanche,12,c7d13c454aa0caf486418f0c562719ee,False,2
+84093ceecd55,fake/Avalanche_Video_Dataset/Fake_Avalanche_Video (21).mp4,fake,0,Avalanche,13,49a22ca8d190d09c21e29a2c60eba18b,False,1
+975336f8eb17,fake/Avalanche_Video_Dataset/Fake_Avalanche_Video (22).mp4,fake,0,Avalanche,14,1ca7c55206915bb8247c179f71f004da,False,2
+7b7ba2e5863c,fake/Avalanche_Video_Dataset/Fake_Avalanche_Video (23).mp4,fake,0,Avalanche,15,a5bef6dfce9bfb07a6e83ea88d8ea771,False,4
+54920ce91343,fake/Avalanche_Video_Dataset/Fake_Avalanche_Video (24).mp4,fake,0,Avalanche,16,047666d7e41c12ca83c3a1f353964c56,False,3
+5148a7ff8de3,fake/Avalanche_Video_Dataset/Fake_Avalanche_Video (25).mp4,fake,0,Avalanche,17,3266db8f7e4af086c28cd00b8a4a0e8b,False,3
+d11d74e23300,fake/Avalanche_Video_Dataset/Fake_Avalanche_Video (26).mp4,fake,0,Avalanche,18,04cc8f29ed8190707b466a1cf65afaf5,False,1
+33ff82aa543a,fake/Avalanche_Video_Dataset/Fake_Avalanche_Video (27).mp4,fake,0,Avalanche,19,3f18c329ff5bfda8b83ddcac4c9ad3a7,False,2
+7194d18bf004,fake/Avalanche_Video_Dataset/Fake_Avalanche_Video (28).mp4,fake,0,Avalanche,20,e6ea87e363da85892e3f97618fe3e751,False,0
+e5ed0f41397b,fake/Avalanche_Video_Dataset/Fake_Avalanche_Video (29).mp4,fake,0,Avalanche,21,b4a3b1ccf137fea18b21811f1c3e07c8,False,4
+bf79d76abbd5,fake/Avalanche_Video_Dataset/Fake_Avalanche_Video (3).mp4,fake,0,Avalanche,22,0b551187b68417cfdb83412820beb19c,False,4
+c93b27dd6748,fake/Avalanche_Video_Dataset/Fake_Avalanche_Video (30).mp4,fake,0,Avalanche,23,36f2d00e16f30fc2d3bf4878d0572b2c,False,1
+b361fcf8a14a,fake/Avalanche_Video_Dataset/Fake_Avalanche_Video (31).mp4,fake,0,Avalanche,24,bdaa8a2c6a3c6bcba73a82754d67c823,False,3
+6e47454bf51b,fake/Avalanche_Video_Dataset/Fake_Avalanche_Video (32).mp4,fake,0,Avalanche,15,92762d059b2e16b4d7312f8fcae3ec2a,False,4
+c3e9edc97496,fake/Avalanche_Video_Dataset/Fake_Avalanche_Video (33).mp4,fake,0,Avalanche,19,98b3f19b6783689c2497f424a3d12004,False,2
+50968caff04e,fake/Avalanche_Video_Dataset/Fake_Avalanche_Video (34).mp4,fake,0,Avalanche,25,abf35405f562aa726e1ce2116685aa97,False,2
+bdcfc94a4d70,fake/Avalanche_Video_Dataset/Fake_Avalanche_Video (36).mp4,fake,0,Avalanche,26,c39ee861dd329f90d7269a12189a856a,False,1
+ec3d84047bd1,fake/Avalanche_Video_Dataset/Fake_Avalanche_Video (37).mp4,fake,0,Avalanche,27,416489a2c1b9cb0e47de4c3cef726df9,False,3
+8c57c9f030e9,fake/Avalanche_Video_Dataset/Fake_Avalanche_Video (38).mp4,fake,0,Avalanche,28,4762e6e51762f51141e4c8b2e2809910,False,4
+01783f1f9171,fake/Avalanche_Video_Dataset/Fake_Avalanche_Video (4).mp4,fake,0,Avalanche,29,b6f7a356c8eef988aa11de5f9c723967,False,2
+4d2704850298,fake/Avalanche_Video_Dataset/Fake_Avalanche_Video (5).mp4,fake,0,Avalanche,30,9fae3bc434c60870af8d7f746c1ed027,False,3
+75e142bacac3,fake/Avalanche_Video_Dataset/Fake_Avalanche_Video (6).mp4,fake,0,Avalanche,31,cc75c15431de075e1409071379ba486b,False,0
+5bfeb9b6a579,fake/Avalanche_Video_Dataset/Fake_Avalanche_Video (7).mp4,fake,0,Avalanche,32,f86053dc7b84fa18483d8f2c00d0b19c,False,4
+eaddc48a9a2d,fake/Avalanche_Video_Dataset/Fake_Avalanche_Video (8).mp4,fake,0,Avalanche,33,49b33feed7958f86633694cb9d0cfe96,False,1
+ce8976fccd7f,fake/Avalanche_Video_Dataset/Fake_Avalanche_Video (9).mp4,fake,0,Avalanche,34,ecfa3c3eb834c309ab8a22498aab9d26,False,1
+3a5e02cee87a,fake/Earthquake_Video_Dataset/Fake_Earthquake_Video (1).mp4,fake,0,Earthquake,35,60c6b1de604b6cda1c167157df95a5a3,False,3
+f803359ce650,fake/Earthquake_Video_Dataset/Fake_Earthquake_Video (100).mp4,fake,0,Earthquake,36,42b8a10986ebf83b83bd7a99dfee6caf,False,2
+5da132090400,fake/Earthquake_Video_Dataset/Fake_Earthquake_Video (101).mp4,fake,0,Earthquake,37,f49fbc7bba4c5d9294170a41b9af9d25,False,4
+c75aa298bf56,fake/Earthquake_Video_Dataset/Fake_Earthquake_Video (102).mp4,fake,0,Earthquake,38,d5aa93a5d70b2b78d9319aa94522cf1f,False,0
+e38d67941139,fake/Earthquake_Video_Dataset/Fake_Earthquake_Video (103).mp4,fake,0,Earthquake,39,2ee1bfb6d8a39fc7af33e02690612581,False,1
+fc8e90dada00,fake/Earthquake_Video_Dataset/Fake_Earthquake_Video (104).mp4,fake,0,Earthquake,40,037135f299a1b55d720cec51bd660697,False,3
+d7a37a4f001a,fake/Earthquake_Video_Dataset/Fake_Earthquake_Video (105).mp4,fake,0,Earthquake,41,c02b9737124a39470086e9bb273cfd59,False,2
+f32d68a83d85,fake/Earthquake_Video_Dataset/Fake_Earthquake_Video (106).mp4,fake,0,Earthquake,42,23e73d3de8a74e1a3d86f595992e9cb4,False,4
+7ad315fcb298,fake/Earthquake_Video_Dataset/Fake_Earthquake_Video (11).mp4,fake,0,Earthquake,43,82cb75884b9ac357b4a8c63831ef1733,False,2
+3a302178ff7c,fake/Earthquake_Video_Dataset/Fake_Earthquake_Video (12).mp4,fake,0,Earthquake,44,8d267d583179aa7d95c14c9573aa9660,False,0
+160a36ea3a33,fake/Earthquake_Video_Dataset/Fake_Earthquake_Video (13).mp4,fake,0,Earthquake,45,72693faf240e921f32b596019ca36512,False,1
+b534ed1ff499,fake/Earthquake_Video_Dataset/Fake_Earthquake_Video (14).mp4,fake,0,Earthquake,46,fc9012cbbbaa5e68b56ca4b226619c09,False,3
+8c11e1932cee,fake/Earthquake_Video_Dataset/Fake_Earthquake_Video (15).mp4,fake,0,Earthquake,47,c0097e6fb482a9d243c7732d122e3aa0,False,4
+9bd22b6df46f,fake/Earthquake_Video_Dataset/Fake_Earthquake_Video (16).mp4,fake,0,Earthquake,48,8d44dddbac0d930762af24100cf0e7cc,False,0
+c27ff55e37eb,fake/Earthquake_Video_Dataset/Fake_Earthquake_Video (17).mp4,fake,0,Earthquake,49,92619aed4ef775a281241a0647323225,False,4
+77ed3b3c0c25,fake/Earthquake_Video_Dataset/Fake_Earthquake_Video (18).mp4,fake,0,Earthquake,50,fbdb143b36ee50f8dd21549ba875d83d,False,1
+203b647d8327,fake/Earthquake_Video_Dataset/Fake_Earthquake_Video (19).mp4,fake,0,Earthquake,51,704bec36afa78b86179d24d1626e2b9e,False,2
+3782fa57f1ce,fake/Earthquake_Video_Dataset/Fake_Earthquake_Video (2).mp4,fake,0,Earthquake,52,37ee74d26d44d88fd81236adb3f577eb,False,3
+632a7822f792,fake/Earthquake_Video_Dataset/Fake_Earthquake_Video (20).mp4,fake,0,Earthquake,53,b4f39e34088f657b1458ac94ac2df0a2,False,4
+022a7627ef35,fake/Earthquake_Video_Dataset/Fake_Earthquake_Video (21).mp4,fake,0,Earthquake,54,5c061671a9bfd261ac7908e44f1ac2c1,False,0
+1adffc2e8648,fake/Earthquake_Video_Dataset/Fake_Earthquake_Video (22).mp4,fake,0,Earthquake,55,2550fc589578af59fb0dfb4a98da1917,False,1
+78116990242f,fake/Earthquake_Video_Dataset/Fake_Earthquake_Video (23).mp4,fake,0,Earthquake,56,92ae3c00f0013552e9758638d747a683,False,3
+7fe664ddc252,fake/Earthquake_Video_Dataset/Fake_Earthquake_Video (25).mp4,fake,0,Earthquake,57,cafb9570fe0f49102f597e412f85b7ae,False,2
+0b9573b5516a,fake/Earthquake_Video_Dataset/Fake_Earthquake_Video (26).mp4,fake,0,Earthquake,58,780c400e6637ac07d2da6629723cc62d,False,0
+23c9cfcf339c,fake/Earthquake_Video_Dataset/Fake_Earthquake_Video (27).mp4,fake,0,Earthquake,59,16e07368e9ad3b8d9ebb18309e523e44,False,2
+035c78d77537,fake/Earthquake_Video_Dataset/Fake_Earthquake_Video (28).mp4,fake,0,Earthquake,60,a9f14e696c48c837f605cb7674514954,False,1
+6b91124c46e1,fake/Earthquake_Video_Dataset/Fake_Earthquake_Video (29).mp4,fake,0,Earthquake,61,0b86c4bae69b9fe71e7fb5075125dc06,False,3
+075ea678ac1d,fake/Earthquake_Video_Dataset/Fake_Earthquake_Video (3).mp4,fake,0,Earthquake,62,a5d5aae26d28f5fda35aee0c6083fc16,False,4
+12b558507539,fake/Earthquake_Video_Dataset/Fake_Earthquake_Video (30).mp4,fake,0,Earthquake,63,db81a14c7c1c44b2de64b7548be02425,False,1
+c74d72e33139,fake/Earthquake_Video_Dataset/Fake_Earthquake_Video (31).mp4,fake,0,Earthquake,64,11d1bcb4468d8701bc019cbaf26b2087,False,0
+a0b3a86ae379,fake/Earthquake_Video_Dataset/Fake_Earthquake_Video (32).mp4,fake,0,Earthquake,65,743208de964d8115e0e2570121b9ba5c,False,3
+28b1430db443,fake/Earthquake_Video_Dataset/Fake_Earthquake_Video (34).mp4,fake,0,Earthquake,66,231e5a5198fa10a1eec7ee6fdd7a6114,False,4
+846673dea57c,fake/Earthquake_Video_Dataset/Fake_Earthquake_Video (35).mp4,fake,0,Earthquake,67,537818efc72981f60c13462da4eef7bb,False,2
+d20183e64666,fake/Earthquake_Video_Dataset/Fake_Earthquake_Video (37).mp4,fake,0,Earthquake,68,295781ac7c219e0ad770a4507ef84e63,False,0
+9c58469c6006,fake/Earthquake_Video_Dataset/Fake_Earthquake_Video (38).mp4,fake,0,Earthquake,69,e8783c768a4967946057601015cbce4c,False,3
+537eb36237b4,fake/Earthquake_Video_Dataset/Fake_Earthquake_Video (39).mp4,fake,0,Earthquake,70,251ab3d8e3f04d773384155698dd440c,False,1
+946ec94a6884,fake/Earthquake_Video_Dataset/Fake_Earthquake_Video (4).mp4,fake,0,Earthquake,71,ad6ee23eba06633f05aa6eabffc6cd95,False,2
+646359c2823f,fake/Earthquake_Video_Dataset/Fake_Earthquake_Video (40).mp4,fake,0,Earthquake,72,29500134551d4fb157ecd4af016bcda1,False,4
+ce3f7ad7ee6c,fake/Earthquake_Video_Dataset/Fake_Earthquake_Video (41).mp4,fake,0,Earthquake,73,8319088b7ffad0f24e01bc9e906d88e7,False,2
+f230ff6a5c83,fake/Earthquake_Video_Dataset/Fake_Earthquake_Video (42).mp4,fake,0,Earthquake,74,bc3fcf9222bec8eb5eff35000f8b1123,False,4
+042a2db7e802,fake/Earthquake_Video_Dataset/Fake_Earthquake_Video (43).mp4,fake,0,Earthquake,75,2f5bbbd827e9048b428a0eeb4fe1a167,False,0
+ad88529555c7,fake/Earthquake_Video_Dataset/Fake_Earthquake_Video (44).mp4,fake,0,Earthquake,76,5ed8da2333f88e8977700294489e6797,False,1
+8a17a2062c59,fake/Earthquake_Video_Dataset/Fake_Earthquake_Video (45).mp4,fake,0,Earthquake,77,c56b499936bfc0ab1f29d047763c10a0,False,3
+775e04ea046c,fake/Earthquake_Video_Dataset/Fake_Earthquake_Video (46).mp4,fake,0,Earthquake,78,69ca2cee253d4cca4e4f565203792292,False,0
+8e0b43b9cd82,fake/Earthquake_Video_Dataset/Fake_Earthquake_Video (48).mp4,fake,0,Earthquake,79,8b5ad3c86bd4f6664e8e5376403b6f9f,False,3
+f09cd52d3fb3,fake/Earthquake_Video_Dataset/Fake_Earthquake_Video (49).mp4,fake,0,Earthquake,80,c16cb690dc209d75c5d14556ee1215a7,False,1
+654079d8816a,fake/Earthquake_Video_Dataset/Fake_Earthquake_Video (5).mp4,fake,0,Earthquake,81,0005ab3587a96dd2489b686d99516ee9,False,2
+dcb01ff6ef61,fake/Earthquake_Video_Dataset/Fake_Earthquake_Video (50).mp4,fake,0,Earthquake,82,a997660f3db6bd2a14efb31846b4f2d0,False,3
+a8db239fc615,fake/Earthquake_Video_Dataset/Fake_Earthquake_Video (52).mp4,fake,0,Earthquake,83,7c850fb0f49188e852855e78057e6316,False,4
+c6f9000b5801,fake/Earthquake_Video_Dataset/Fake_Earthquake_Video (53).mp4,fake,0,Earthquake,84,a9ac6cc464278c387a4212b5a4dffd82,False,2
+8c407bd6a807,fake/Earthquake_Video_Dataset/Fake_Earthquake_Video (54).mp4,fake,0,Earthquake,85,ec7b7d603da94d708b24e3bfc5e7d69c,False,0
+70f633318cb6,fake/Earthquake_Video_Dataset/Fake_Earthquake_Video (55).mp4,fake,0,Earthquake,86,9acfb3ad71351e180a9bb5f444f2b376,False,1
+2aa157a8f202,fake/Earthquake_Video_Dataset/Fake_Earthquake_Video (57).mp4,fake,0,Earthquake,87,fe342205a7fc9c89dca299947322b3d8,False,4
+30f9fc3206df,fake/Earthquake_Video_Dataset/Fake_Earthquake_Video (58).mp4,fake,0,Earthquake,88,c22c9ffb3817c38880a91de7d4250e51,False,3
+3e0dee748550,fake/Earthquake_Video_Dataset/Fake_Earthquake_Video (59).mp4,fake,0,Earthquake,89,83cefbfb18ccf5359de8b01ced286cd8,False,3
+ff4055f23f70,fake/Earthquake_Video_Dataset/Fake_Earthquake_Video (6).mp4,fake,0,Earthquake,90,d0202760b4a085df42785de41a2a62f8,False,0
+f7d48a29284a,fake/Earthquake_Video_Dataset/Fake_Earthquake_Video (60).mp4,fake,0,Earthquake,91,02f3b0e6740e3575323839f01071a4eb,False,1
+502ddc10d71d,fake/Earthquake_Video_Dataset/Fake_Earthquake_Video (61).mp4,fake,0,Earthquake,92,7c3fb694d136a7e4f26a41aac52f5012,False,2
+0b21eea02ac3,fake/Earthquake_Video_Dataset/Fake_Earthquake_Video (62).mp4,fake,0,Earthquake,93,8df8989fd42609997f5dd68526c21cb1,False,4
+ae82ac259d41,fake/Earthquake_Video_Dataset/Fake_Earthquake_Video (63).mp4,fake,0,Earthquake,94,a2c373665db57872de2756f4c12c9e10,False,4
+bf07459a88f7,fake/Earthquake_Video_Dataset/Fake_Earthquake_Video (64).mp4,fake,0,Earthquake,95,93a13085f573455d9c6d9a109b9ffefc,False,2
+8fafb01c0d9a,fake/Earthquake_Video_Dataset/Fake_Earthquake_Video (65).mp4,fake,0,Earthquake,96,582e339361cf6877059963e0f183c955,False,3
+891833162ccc,fake/Earthquake_Video_Dataset/Fake_Earthquake_Video (66).mp4,fake,0,Earthquake,97,8a174de8e1dc0a8e59969ba3b0e011f0,False,0
+0c9ade40bce6,fake/Earthquake_Video_Dataset/Fake_Earthquake_Video (67).mp4,fake,0,Earthquake,98,f0ca63d2f548ea64cb20ab74b9d40783,False,1
+ee82ea795107,fake/Earthquake_Video_Dataset/Fake_Earthquake_Video (68).mp4,fake,0,Earthquake,99,4e2aa82b73ca2f4517edc457380612ce,False,4
+d26621041d11,fake/Earthquake_Video_Dataset/Fake_Earthquake_Video (69).mp4,fake,0,Earthquake,100,c5f316ab6d266e013125f583f7c39215,False,1
+fc4c0b1ea406,fake/Earthquake_Video_Dataset/Fake_Earthquake_Video (7).mp4,fake,0,Earthquake,101,3ff9fe14923e5926f04501f0d4ad396a,False,0
+b37daf12ee86,fake/Earthquake_Video_Dataset/Fake_Earthquake_Video (70).mp4,fake,0,Earthquake,102,f78fc49a81e2df234e894e0e9f521000,False,2
+2b5afa1ecbb0,fake/Earthquake_Video_Dataset/Fake_Earthquake_Video (71).mp4,fake,0,Earthquake,103,1c6704bd60130b0c3b8a5d2f0dbe9e4e,False,4
+bc5a759e7cbd,fake/Earthquake_Video_Dataset/Fake_Earthquake_Video (72).mp4,fake,0,Earthquake,104,fb2b3ad7ca3263d5680a08e337d45373,False,3
+ade5cd257ce1,fake/Earthquake_Video_Dataset/Fake_Earthquake_Video (73).mp4,fake,0,Earthquake,105,cb45986907fdf0a08933f2d070ba07da,False,0
+83d4c7f039a5,fake/Earthquake_Video_Dataset/Fake_Earthquake_Video (74).mp4,fake,0,Earthquake,106,06d34286f937eb15e0706f972fef6092,False,1
+199204a768be,fake/Earthquake_Video_Dataset/Fake_Earthquake_Video (75).mp4,fake,0,Earthquake,107,e6fe7f157c6879fffb1383e5cd94d34c,False,2
+08377fc38331,fake/Earthquake_Video_Dataset/Fake_Earthquake_Video (76).mp4,fake,0,Earthquake,108,03e9fd6a8f2b60c7d0afb32054e8d930,False,3
+39b7b72aa8b6,fake/Earthquake_Video_Dataset/Fake_Earthquake_Video (77).mp4,fake,0,Earthquake,109,175fb8d1cb1628d8ad92413e961f8f3d,False,4
+dae10b0d32a9,fake/Earthquake_Video_Dataset/Fake_Earthquake_Video (78).mp4,fake,0,Earthquake,110,f0e55e360b113f22525a54246ec3463d,False,0
+687d34d79ff1,fake/Earthquake_Video_Dataset/Fake_Earthquake_Video (79).mp4,fake,0,Earthquake,111,66ad5f801b905a89a994276f3197c587,False,1
+e60a21af66f3,fake/Earthquake_Video_Dataset/Fake_Earthquake_Video (8).mp4,fake,0,Earthquake,112,59a37befe41fb214a480d29f463b01f2,False,3
+9af9175c6a45,fake/Earthquake_Video_Dataset/Fake_Earthquake_Video (80).mp4,fake,0,Earthquake,113,8b09e17732a8e05905869bae71eb3ceb,False,4
+596b46f53493,fake/Earthquake_Video_Dataset/Fake_Earthquake_Video (81).mp4,fake,0,Earthquake,114,43b44fec503659734783dcedc143308b,False,2
+b987aedc3de5,fake/Earthquake_Video_Dataset/Fake_Earthquake_Video (82).mp4,fake,0,Earthquake,115,8d35ed7294f994d5deebbd3dbd1378c5,False,0
+0300fa3e620c,fake/Earthquake_Video_Dataset/Fake_Earthquake_Video (83).mp4,fake,0,Earthquake,116,024c8305c825ba95300f4e33ef9bdf35,False,1
+a713ee17442f,fake/Earthquake_Video_Dataset/Fake_Earthquake_Video (84).mp4,fake,0,Earthquake,117,afaea66c626fd400179ab862a69ecd6f,False,2
+80764a75fe76,fake/Earthquake_Video_Dataset/Fake_Earthquake_Video (85).mp4,fake,0,Earthquake,118,b5acb871dd2872a5c54f941355da7719,False,3
+66bd3f6e9567,fake/Earthquake_Video_Dataset/Fake_Earthquake_Video (86).mp4,fake,0,Earthquake,119,7bc8555e4e3b40d4c5808285c3cf8120,False,4
+aa6e22594c04,fake/Earthquake_Video_Dataset/Fake_Earthquake_Video (87).mp4,fake,0,Earthquake,120,d0f27eab5ce76120e4a737a1520dad83,False,0
+24aa775273c7,fake/Earthquake_Video_Dataset/Fake_Earthquake_Video (88).mp4,fake,0,Earthquake,121,1e1d372e165a8ecc0938ce328940e5f9,False,2
+c05d5b265b40,fake/Earthquake_Video_Dataset/Fake_Earthquake_Video (89).mp4,fake,0,Earthquake,102,a129ba9cd5a05193decfcbea34ca27ee,False,2
+50bd8c0f5e27,fake/Earthquake_Video_Dataset/Fake_Earthquake_Video (9).mp4,fake,0,Earthquake,122,8e50b875e6ac7eae081542c82b3dfa0d,False,3
+dc02b3eeebc7,fake/Earthquake_Video_Dataset/Fake_Earthquake_Video (90).mp4,fake,0,Earthquake,123,46816f4ad5e411c565d189fc5dcbfb8b,False,1
+5ea1975ffd3e,fake/Earthquake_Video_Dataset/Fake_Earthquake_Video (91).mp4,fake,0,Earthquake,124,7032421297fc32a832fd59cae94215ff,False,4
+af51ea6c4241,fake/Earthquake_Video_Dataset/Fake_Earthquake_Video (92).mp4,fake,0,Earthquake,125,2724d8e7414264cd5ea0ef8a37c0c138,False,0
+7adfd0c4a494,fake/Earthquake_Video_Dataset/Fake_Earthquake_Video (93).mp4,fake,0,Earthquake,126,c9b8b22fa99b2bfde4e2a1d4d1321879,False,1
+9e34a67045c5,fake/Earthquake_Video_Dataset/Fake_Earthquake_Video (94).mp4,fake,0,Earthquake,127,af984d59937fac906c4cf0efe2b514c1,False,2
+c862782bed7f,fake/Earthquake_Video_Dataset/Fake_Earthquake_Video (95).mp4,fake,0,Earthquake,128,2bea4c6be32db7aadde8edab33ddb9d7,False,3
+921fd00b4daa,fake/Earthquake_Video_Dataset/Fake_Earthquake_Video (96).mp4,fake,0,Earthquake,129,80b54a9cfb94dcf4ee2c900943e4d776,False,4
+0755b5dafe9d,fake/Earthquake_Video_Dataset/Fake_Earthquake_Video (97).mp4,fake,0,Earthquake,130,767d6db289f96c0be1f43bbf5e851b7e,False,3
+00e3249d2b04,fake/Earthquake_Video_Dataset/Fake_Earthquake_Video (98).mp4,fake,0,Earthquake,131,9ab3f6ee36971e2c15a86ac67ee6fb06,False,0
+cc0c0355fd0e,fake/Earthquake_Video_Dataset/Fake_Earthquake_Video (99).mp4,fake,0,Earthquake,132,39aa4714a2b725847982efa6d37e03f4,False,3
+bf078230dabf,fake/Hurricane_Video_Dataset/Fake_Hurricane_Video (1).mp4,fake,0,Hurricane,133,4e9ac80a1762140e76544af4f6c8a1be,False,1
+d4a33a5199ed,fake/Hurricane_Video_Dataset/Fake_Hurricane_Video (10).mp4,fake,0,Hurricane,134,198e8399ebcef17c91eb076ffc4d6251,False,2
+277fc7dfe8c5,fake/Hurricane_Video_Dataset/Fake_Hurricane_Video (11).mp4,fake,0,Hurricane,135,3a4dc313cb0e0d3940a7faeb934df595,False,4
+665c4c520671,fake/Hurricane_Video_Dataset/Fake_Hurricane_Video (2).mp4,fake,0,Hurricane,136,44070c1e42fa70507cd33de4257ac7d1,False,0
+0226fdc54ae6,fake/Hurricane_Video_Dataset/Fake_Hurricane_Video (3).mp4,fake,0,Hurricane,137,2d6b788c1837850d8b82452dd7da0231,False,1
+60680cfec2ee,fake/Hurricane_Video_Dataset/Fake_Hurricane_Video (4).mp4,fake,0,Hurricane,138,3cca81b283457b4b0851f4472d49ff05,False,2
+1b389bc32ad7,fake/Hurricane_Video_Dataset/Fake_Hurricane_Video (5).mp4,fake,0,Hurricane,139,9fa6a5f4aa870519093b6e140197d269,False,4
+1c628b1860b2,fake/Hurricane_Video_Dataset/Fake_Hurricane_Video (7).mp4,fake,0,Hurricane,140,60d5f54dc0a61c9a844632af3fd66310,False,3
+81951532b8c9,fake/Hurricane_Video_Dataset/Fake_Hurricane_Video (8).mp4,fake,0,Hurricane,141,6196d68d131cb688ac3b4be872c1dfd1,False,2
+0f43321b1f89,fake/Hurricane_Video_Dataset/Fake_Hurricane_Video (9).mp4,fake,0,Hurricane,142,d970ce0d3c8c2667aff5ccc8bc39e4c8,False,4
+559a5285c577,fake/Hurricane_Video_Dataset/WhatsApp Video 2026-03-25 at 12.58.19.mp4,fake,0,Hurricane,143,e95149b923b0a6e8c1aa8133e6fe79a4,False,0
+51fd726a8563,fake/Hurricane_Video_Dataset/WhatsApp Video 2026-03-25 at 12.58.192.mp4,fake,0,Hurricane,144,a109c6ce25b1995d169efae3c5aadb91,False,1
+14082912f1e0,fake/Hurricane_Video_Dataset/WhatsApp Video 2026-03-25 at 12.58.193.mp4,fake,0,Hurricane,145,71d92ef71ec0a68230eb720cd96c4cab,False,2
+e746e0d14f95,fake/Hurricane_Video_Dataset/WhatsApp Video 2026-03-25 at 12.58.194.mp4,fake,0,Hurricane,146,7959329a2e29c4992d04de5114b0e898,False,3
+2ab43f5df69c,fake/Hurricane_Video_Dataset/WhatsApp Video 2026-03-25 at 12.58.195.mp4,fake,0,Hurricane,147,b267d2aa44acc4b3de19d027ccbc4553,False,4
+3dd3e80836fc,fake/Hurricane_Video_Dataset/WhatsApp Video 2026-03-25 at 12.58.19aa.mp4,fake,0,Hurricane,148,6949c24c3edfcdb6fb1f04f2cbad61b2,False,3
+5e0d181548ad,fake/Hurricane_Video_Dataset/WhatsApp Video 2026-03-25 at 14.56.226.mp4,fake,0,Hurricane,149,cdd1b94162bce62a4c683e5373d0820d,False,0
+aed1839fd45c,fake/Hurricane_Video_Dataset/WhatsApp Video 2026-03-25 at 14.56.227.mp4,fake,0,Hurricane,150,f3dd1541e78acdb43ab8d525ee46d640,False,1
+387fe0695043,fake/Landslide_Video_Dataset/Fake_Earthquake_Video (56).mp4,fake,0,Landslide,151,4a374721d01a23980be1c602d6010c8b,False,2
+e136221a4c2d,fake/Landslide_Video_Dataset/Fake_Landslide_Video (1).mp4,fake,0,Landslide,152,495e92a741f89fea8745e9c4a05f386c,False,4
+a650e93e4287,fake/Landslide_Video_Dataset/Fake_Landslide_Video (10).mp4,fake,0,Landslide,153,c5922c38d30e50f113687aa2be360411,False,0
+0e15d46fbe70,fake/Landslide_Video_Dataset/Fake_Landslide_Video (11).mp4,fake,0,Landslide,154,64b63e5b53267f86d8d50b9974b31898,False,0
+38e5b6784f90,fake/Landslide_Video_Dataset/Fake_Landslide_Video (12).mp4,fake,0,Landslide,155,fb7468b484da08a3a1b04596fbf5325f,False,1
+ca6a71ae405f,fake/Landslide_Video_Dataset/Fake_Landslide_Video (13).mp4,fake,0,Landslide,156,cf4b826a5c19edd6e6f0e5975dc1b99f,False,3
+43d2031fd2d1,fake/Landslide_Video_Dataset/Fake_Landslide_Video (14).mp4,fake,0,Landslide,157,5aa6f9e279a3cda3990672b5cd1594e0,False,4
+1152a946417b,fake/Landslide_Video_Dataset/Fake_Landslide_Video (15).mp4,fake,0,Landslide,158,efd8090f770f7ed4d7bb764e6e937d3a,False,2
+d59e585947fd,fake/Landslide_Video_Dataset/Fake_Landslide_Video (16).mp4,fake,0,Landslide,159,18ec28a27540f0806ddabd8feca20a91,False,0
+dc4571845f99,fake/Landslide_Video_Dataset/Fake_Landslide_Video (17).mp4,fake,0,Landslide,158,6c47874943fc17fe1b9c87fee6b92936,False,2
+8a71d70bcb79,fake/Landslide_Video_Dataset/Fake_Landslide_Video (18).mp4,fake,0,Landslide,160,ad8aa30ce17b99b4bb72d6576d9eafdd,False,1
+8a71f08ee251,fake/Landslide_Video_Dataset/Fake_Landslide_Video (19).mp4,fake,0,Landslide,161,da71652f135c4a41ad60b5bf86f68a83,False,2
+3736993042e6,fake/Landslide_Video_Dataset/Fake_Landslide_Video (2).mp4,fake,0,Landslide,162,c631991bc3737a1dc86e203cfed0e42c,False,4
+0e91e2cf5944,fake/Landslide_Video_Dataset/Fake_Landslide_Video (20).mp4,fake,0,Landslide,163,4e231ace0f8efd6156509f38db500b97,False,3
+e76df33c71cb,fake/Landslide_Video_Dataset/Fake_Landslide_Video (21).mp4,fake,0,Landslide,164,18aeaecc44ecd2a47eec9939c66b6fbb,False,0
+7e8683862f52,fake/Landslide_Video_Dataset/Fake_Landslide_Video (22).mp4,fake,0,Landslide,165,885d9dc6cad45afdad3782a91636c57a,False,2
+adb73887d446,fake/Landslide_Video_Dataset/Fake_Landslide_Video (23).mp4,fake,0,Landslide,166,cfb2a71cc4fe1ef05b7af6258fce26bc,False,1
+ba709c6dadd1,fake/Landslide_Video_Dataset/Fake_Landslide_Video (24).mp4,fake,0,Landslide,167,fce089bb43bffeb7eee6136f1a57fa5a,False,3
+73b447877f39,fake/Landslide_Video_Dataset/Fake_Landslide_Video (25).mp4,fake,0,Landslide,168,46d54e31af2f1e0b17f46eea6f7398c0,False,4
+97eaa4d3281f,fake/Landslide_Video_Dataset/Fake_Landslide_Video (26).mp4,fake,0,Landslide,169,121e0f902165fdcaa12111d56e55927c,False,3
+3e9edcf1a63e,fake/Landslide_Video_Dataset/Fake_Landslide_Video (27).mp4,fake,0,Landslide,170,0bb0191d65d64acdce76bb738dba11fd,False,0
+35997051246f,fake/Landslide_Video_Dataset/Fake_Landslide_Video (28).mp4,fake,0,Landslide,171,a20e91680ffd2a33369f2028682be64a,False,1
+ca11dc4fb6ef,fake/Landslide_Video_Dataset/Fake_Landslide_Video (29).mp4,fake,0,Landslide,172,a76994f40f39e06bd5d2262ca92c1580,False,2
+1c7cb9a08e29,fake/Landslide_Video_Dataset/Fake_Landslide_Video (3).mp4,fake,0,Landslide,173,5c69f1387f371c28c15133e221635af2,False,4
+d70aee855338,fake/Landslide_Video_Dataset/Fake_Landslide_Video (30).mp4,fake,0,Landslide,174,720dc324519f4640c77d0649b035dea7,False,4
+4de43671dacd,fake/Landslide_Video_Dataset/Fake_Landslide_Video (31).mp4,fake,0,Landslide,175,e0e60c2624ea8f13bebe1d5b7d69a8ae,False,1
+68501c343732,fake/Landslide_Video_Dataset/Fake_Landslide_Video (32).mp4,fake,0,Landslide,176,85f354c27ebbefc50327bf25b15840cb,False,3
+56f7b37657cf,fake/Landslide_Video_Dataset/Fake_Landslide_Video (33).mp4,fake,0,Landslide,177,824d938799e000f7cd2609e38f048384,False,0
+e8a3bcc93650,fake/Landslide_Video_Dataset/Fake_Landslide_Video (34).mp4,fake,0,Landslide,178,1fc8959fa6a3dcb52c8c95c5c2646c48,False,2
+9cb4819524c4,fake/Landslide_Video_Dataset/Fake_Landslide_Video (35).mp4,fake,0,Landslide,179,f62334ef7e358a56b27c51fc13700e85,False,4
+22dcc6a17a19,fake/Landslide_Video_Dataset/Fake_Landslide_Video (36).mp4,fake,0,Landslide,180,07325c902ff2be87bbe646eaa9e701ac,False,0
+f5271ea3f87c,fake/Landslide_Video_Dataset/Fake_Landslide_Video (37).mp4,fake,0,Landslide,181,ac88492ebefc5b093e2bf14c7562361c,False,2
+f9042ce1f8de,fake/Landslide_Video_Dataset/Fake_Landslide_Video (38).mp4,fake,0,Landslide,182,4cfffd6b5d7a516a0d2cfa07320a49d1,False,1
+314fa4283f7c,fake/Landslide_Video_Dataset/Fake_Landslide_Video (39).mp4,fake,0,Landslide,183,fdcc310bec2fee9cc64f6bb292a15945,False,4
+39305f20e696,fake/Landslide_Video_Dataset/Fake_Landslide_Video (4).mp4,fake,0,Landslide,184,f999d2202fcf575111090253ca4accde,False,1
+4fab6dbad82f,fake/Landslide_Video_Dataset/Fake_Landslide_Video (40).mp4,fake,0,Landslide,177,dcea45b7123b5fbb8dba1db9fd6d5272,False,0
+22d2d30ce191,fake/Landslide_Video_Dataset/Fake_Landslide_Video (41).mp4,fake,0,Landslide,185,360bfab7c393a15c3b1570ca3ea07e72,False,3
+c65932a89a17,fake/Landslide_Video_Dataset/Fake_Landslide_Video (42).mp4,fake,0,Landslide,186,01d44e2ec705b5d04d849408b2247aa7,False,3
+0780321469b4,fake/Landslide_Video_Dataset/Fake_Landslide_Video (43).mp4,fake,0,Landslide,187,24e8d1d5e0a666969091c32af8f5bf88,False,0
+bff9f2e5bdcf,fake/Landslide_Video_Dataset/Fake_Landslide_Video (44).mp4,fake,0,Landslide,188,8fa32d1f88ef6a0964b4d1eaf285fd27,False,1
+fd915a4bcc42,fake/Landslide_Video_Dataset/Fake_Landslide_Video (45).mp4,fake,0,Landslide,189,e877f256c8dbdc65832ca5a5e0b8a710,False,2
+fdbb6f0e469d,fake/Landslide_Video_Dataset/Fake_Landslide_Video (46).mp4,fake,0,Landslide,190,e1034239ab3d18793a24585f0dff1fab,False,4
+41ceb09504fb,fake/Landslide_Video_Dataset/Fake_Landslide_Video (47).mp4,fake,0,Landslide,191,ebc6782b8203118b912bf7378191901b,False,1
+5347416dab46,fake/Landslide_Video_Dataset/Fake_Landslide_Video (48).mp4,fake,0,Landslide,192,c97ecb48b01951cdbe0150d8f28b74c0,False,0
+c98d8aff9e81,fake/Landslide_Video_Dataset/Fake_Landslide_Video (49).mp4,fake,0,Landslide,193,14b784e40bcae75fc4422f79865b98c7,False,2
+7b39878edf4b,fake/Landslide_Video_Dataset/Fake_Landslide_Video (5).mp4,fake,0,Landslide,194,cbd31946e5f5cc34787402fc7dbb16fb,False,3
+ceb3288ae541,fake/Landslide_Video_Dataset/Fake_Landslide_Video (6).mp4,fake,0,Landslide,195,7cda8dfec7f0499bd9dd84c0c347ece2,False,4
+51af82c8a20b,fake/Landslide_Video_Dataset/Fake_Landslide_Video (7).mp4,fake,0,Landslide,196,9c033f89a3e9832e39d04a7093221f69,False,0
+d2e68fab4b07,fake/Landslide_Video_Dataset/Fake_Landslide_Video (8).mp4,fake,0,Landslide,197,6d3c3b889de64477b6d6e32eb859c4d6,False,1
+2aa2b6527d8b,fake/Landslide_Video_Dataset/Fake_Landslide_Video (9).mp4,fake,0,Landslide,198,f5f273c79aa55c7d0b77a46e7c2001db,False,3
+75933f6c27f0,fake/Volcanic_Eruption_Video_Dataset/Fake_Volcanic_Eruption_Video (1).mp4,fake,0,Volcanic,199,cb3afeebdffba4b242fb1d614c8bfd94,False,2
+e370ee39d91e,fake/Volcanic_Eruption_Video_Dataset/Fake_Volcanic_Eruption_Video (10).mp4,fake,0,Volcanic,200,fdc24af125d2cdad765bd961d0b64672,False,3
+5fdc072adbbe,fake/Volcanic_Eruption_Video_Dataset/Fake_Volcanic_Eruption_Video (11).mp4,fake,0,Volcanic,201,8917529905df8edd4c11142ef043e419,False,4
+2e2e45fcd03a,fake/Volcanic_Eruption_Video_Dataset/Fake_Volcanic_Eruption_Video (12).mp4,fake,0,Volcanic,202,2410736abac8ed1f59ed9b49ce3b9f95,False,0
+fa885d53631e,fake/Volcanic_Eruption_Video_Dataset/Fake_Volcanic_Eruption_Video (13).mp4,fake,0,Volcanic,203,861d3f3afea2d4f334c4fb224fe01cda,False,1
+cca610a3e5a5,fake/Volcanic_Eruption_Video_Dataset/Fake_Volcanic_Eruption_Video (14).mp4,fake,0,Volcanic,204,935a5c1d0325a93be5c403f9ea14ea8a,False,4
+20f77a50b643,fake/Volcanic_Eruption_Video_Dataset/Fake_Volcanic_Eruption_Video (15).mp4,fake,0,Volcanic,205,2fdbcd96e4efb8f9249da6a2c417f2db,False,2
+e9c933e68ea8,fake/Volcanic_Eruption_Video_Dataset/Fake_Volcanic_Eruption_Video (16).mp4,fake,0,Volcanic,206,8ddc94b329c242c6a42b5e13c5d4ec07,False,4
+6c632552f277,fake/Volcanic_Eruption_Video_Dataset/Fake_Volcanic_Eruption_Video (2).mp4,fake,0,Volcanic,207,b6bfc476a714c4227e8601c7c1922010,False,3
+e8af8b9fb00f,fake/Volcanic_Eruption_Video_Dataset/Fake_Volcanic_Eruption_Video (3).mp4,fake,0,Volcanic,208,d24de30f72376296727e4a0002ca4f69,False,1
+6819d1bfd60b,fake/Volcanic_Eruption_Video_Dataset/Fake_Volcanic_Eruption_Video (4).mp4,fake,0,Volcanic,209,07e5c7492dedba6dc8a709fde0a4a4a2,False,3
+b90063512b91,fake/Volcanic_Eruption_Video_Dataset/Fake_Volcanic_Eruption_Video (5).mp4,fake,0,Volcanic,210,1dda57b4b6b5934a23196184e5ae6f30,False,0
+9137bef4e5ac,fake/Volcanic_Eruption_Video_Dataset/Fake_Volcanic_Eruption_Video (6).mp4,fake,0,Volcanic,211,d7df8ca1b304a7e5fe89f7eeaae89c7e,False,2
+679e4d1f088f,fake/Volcanic_Eruption_Video_Dataset/Fake_Volcanic_Eruption_Video (7).mp4,fake,0,Volcanic,212,afd638631d3cb7e512baf1a2ef9bb5e8,False,4
+7d9fa15a74c0,fake/Volcanic_Eruption_Video_Dataset/Fake_Volcanic_Eruption_Video (8).mp4,fake,0,Volcanic,213,7c14a5ccec772c96c1c14c7ccd673e04,False,2
+48cc6728d6ee,fake/Volcanic_Eruption_Video_Dataset/Fake_Volcanic_Eruption_Video (9).mp4,fake,0,Volcanic,214,fea11a447d73d3c59c55b1544648722c,False,0
+e196f824bffe,fake/Water_Disaster_Dataset/Fake_Water_Disaster_Video (1).mp4,fake,0,Water,215,7bf4bb8ea6de9ab821543c475a29a4e9,False,1
+3433b87c3a19,fake/Water_Disaster_Dataset/Fake_Water_Disaster_Video (10).mp4,fake,0,Water,216,128c92e9307aa0ec300f450da36c77fa,False,2
+a2e4282449c7,fake/Water_Disaster_Dataset/Fake_Water_Disaster_Video (100).mp4,fake,0,Water,217,6f9dc60d38f1b711cb14e7fe2f818df0,False,3
+3dc502dbaa76,fake/Water_Disaster_Dataset/Fake_Water_Disaster_Video (101).mp4,fake,0,Water,218,a5e221d65a99686ed7c121f9d7b303ec,False,4
+524e65214bc6,fake/Water_Disaster_Dataset/Fake_Water_Disaster_Video (102).mp4,fake,0,Water,219,eb275ff881b191e4844bdb22490e918e,False,0
+dcaa58b0c7f8,fake/Water_Disaster_Dataset/Fake_Water_Disaster_Video (103).mp4,fake,0,Water,217,d02a6d7e8f3372476dad38a4d1556253,False,3
+f7daf6bd29c6,fake/Water_Disaster_Dataset/Fake_Water_Disaster_Video (104).mp4,fake,0,Water,217,839c1c15e8f324c539aa27c7b1da4222,False,3
+a011e7c10c24,fake/Water_Disaster_Dataset/Fake_Water_Disaster_Video (105).mp4,fake,0,Water,220,5dc0b80ced211eece6722a7fe78b6770,False,1
+56a9f10e1954,fake/Water_Disaster_Dataset/Fake_Water_Disaster_Video (106).mp4,fake,0,Water,217,75a6204e7225dce7e5ac1101883e095c,False,3
+ec3f172034a4,fake/Water_Disaster_Dataset/Fake_Water_Disaster_Video (107).mp4,fake,0,Water,221,01eb8059a781d58e05d906ece8635dfb,False,2
+6ec11c4f5c19,fake/Water_Disaster_Dataset/Fake_Water_Disaster_Video (108).mp4,fake,0,Water,222,49ab55cb742adf9b02bed1e1feb0e8a2,False,3
+c28ea2f8d299,fake/Water_Disaster_Dataset/Fake_Water_Disaster_Video (109).mp4,fake,0,Water,217,449c1c5693f8ed408c1097808931e4aa,False,3
+83f69e1c5870,fake/Water_Disaster_Dataset/Fake_Water_Disaster_Video (11).mp4,fake,0,Water,223,8ccb9e9eae4326ece10b063774345a23,False,4
+bb4a0d627f2d,fake/Water_Disaster_Dataset/Fake_Water_Disaster_Video (110).mp4,fake,0,Water,224,1d289fefd9861b8dbe423241a5a57a2c,False,0
+718ef1079221,fake/Water_Disaster_Dataset/Fake_Water_Disaster_Video (111).mp4,fake,0,Water,225,eb2d90bd9252f0496c18b5c5bb5e8ab1,False,4
+1b17223e4ea6,fake/Water_Disaster_Dataset/Fake_Water_Disaster_Video (112).mp4,fake,0,Water,217,ea5163878881305d78627c7db8937c38,False,3
+c6871a107616,fake/Water_Disaster_Dataset/Fake_Water_Disaster_Video (113).mp4,fake,0,Water,217,c01bd7a2c3637ace1ef67a2bd4db4c50,False,3
+a32a3a41ee8a,fake/Water_Disaster_Dataset/Fake_Water_Disaster_Video (114).mp4,fake,0,Water,226,fe58f27e5232410629d91b30f5965b2c,False,1
+15e5be82ec28,fake/Water_Disaster_Dataset/Fake_Water_Disaster_Video (115).mp4,fake,0,Water,227,4d0455f201c146cceeb1fe084e52c412,False,2
+97380a6535bc,fake/Water_Disaster_Dataset/Fake_Water_Disaster_Video (116).mp4,fake,0,Water,228,782159c105b7b42fad52ebc5f461e276,False,3
+e5d65ea65d4a,fake/Water_Disaster_Dataset/Fake_Water_Disaster_Video (117).mp4,fake,0,Water,217,62a6b295e3072295f32e0f69d0009c20,False,3
+f5ed72da563d,fake/Water_Disaster_Dataset/Fake_Water_Disaster_Video (118).mp4,fake,0,Water,229,68d8807ee192fc5fa8520d13741cf170,False,2
+bef90a9e9da2,fake/Water_Disaster_Dataset/Fake_Water_Disaster_Video (119).mp4,fake,0,Water,217,65631059a9d12ecf42e131230331b501,False,3
+6d71624cb318,fake/Water_Disaster_Dataset/Fake_Water_Disaster_Video (12).mp4,fake,0,Water,230,b07ecacba5e361b8dd3dede95527762d,False,3
+8c759bd0b299,fake/Water_Disaster_Dataset/Fake_Water_Disaster_Video (120).mp4,fake,0,Water,219,eb51a1016e283caa39298c4c790ed105,False,0
+6ba5d1e267e0,fake/Water_Disaster_Dataset/Fake_Water_Disaster_Video (121).mp4,fake,0,Water,231,acfaee5cf82c2c1c43931bb17170eade,False,4
+0ca435bcbcc1,fake/Water_Disaster_Dataset/Fake_Water_Disaster_Video (122).mp4,fake,0,Water,219,11eecffef7230e652d8644b4809d8a93,False,0
+4b6b07f267af,fake/Water_Disaster_Dataset/Fake_Water_Disaster_Video (123).mp4,fake,0,Water,232,6f98ca96d42049583fe627ff3f3a4fa4,False,0
+be530c5e2b65,fake/Water_Disaster_Dataset/Fake_Water_Disaster_Video (124).mp4,fake,0,Water,233,b1cf5d5ee06e26e6897474c1ae47086d,False,1
+95d5f740e26a,fake/Water_Disaster_Dataset/Fake_Water_Disaster_Video (125).mp4,fake,0,Water,217,58ac819f7c76a44732a1204518baa8de,False,3
+1d6c7593d5e1,fake/Water_Disaster_Dataset/Fake_Water_Disaster_Video (126).mp4,fake,0,Water,234,1f20a13189841ba3cdddd046c6964dd9,False,0
+9ee24a6bd1ba,fake/Water_Disaster_Dataset/Fake_Water_Disaster_Video (127).mp4,fake,0,Water,235,68a9455e7720de508681e8c36e403608,False,1
+f83972cd11c3,fake/Water_Disaster_Dataset/Fake_Water_Disaster_Video (128).mp4,fake,0,Water,236,d1cdd428f5f86c9cb119fbf6e04f0ab3,False,3
+b685a63a7ac2,fake/Water_Disaster_Dataset/Fake_Water_Disaster_Video (129).mp4,fake,0,Water,237,129fa08e89fa5ae2df5c52131e8fdc55,False,2
+137fc5c37ce4,fake/Water_Disaster_Dataset/Fake_Water_Disaster_Video (13).mp4,fake,0,Water,238,ac16e899ba8c8cf73e6deaa381c5f5c2,False,0
+a864f34d6f97,fake/Water_Disaster_Dataset/Fake_Water_Disaster_Video (130).mp4,fake,0,Water,217,cca439eaa518f40fb04040f6162492ef,False,3
+968355670c0a,fake/Water_Disaster_Dataset/Fake_Water_Disaster_Video (131).mp4,fake,0,Water,239,20d1b171898f375d56b79a368e925fc3,False,4
+fe90623c3e07,fake/Water_Disaster_Dataset/Fake_Water_Disaster_Video (132).mp4,fake,0,Water,240,96ea90af8ab64db18ab702fae202e305,False,1
+c7c1ff374aa2,fake/Water_Disaster_Dataset/Fake_Water_Disaster_Video (133).mp4,fake,0,Water,241,f3fea6c3cb4743c103930179db12bbb9,False,0
+e83936c48789,fake/Water_Disaster_Dataset/Fake_Water_Disaster_Video (134).mp4,fake,0,Water,242,44d9fd454548b515d8443f9e6fc89988,False,1
+1b0152e02449,fake/Water_Disaster_Dataset/Fake_Water_Disaster_Video (135).mp4,fake,0,Water,243,169d84b26b338222d4cd726ea3393734,False,4
+a804e810caaa,fake/Water_Disaster_Dataset/Fake_Water_Disaster_Video (136).mp4,fake,0,Water,244,57044cecb90eb17fdc8ba65036d3722a,False,2
+eca095ef762d,fake/Water_Disaster_Dataset/Fake_Water_Disaster_Video (137).mp4,fake,0,Water,245,3f53af2c254715a651ace8ca18c824bc,False,3
+f99b633f72f6,fake/Water_Disaster_Dataset/Fake_Water_Disaster_Video (138).mp4,fake,0,Water,246,df9002883fcbc1a17c4446154673e144,False,1
+0240316241af,fake/Water_Disaster_Dataset/Fake_Water_Disaster_Video (139).mp4,fake,0,Water,247,190e29b813142a20f1f59f671c875cd9,False,4
+131378cb9d21,fake/Water_Disaster_Dataset/Fake_Water_Disaster_Video (14).mp4,fake,0,Water,248,ac89e1b81f00f6b345471e25687cea7f,False,2
+e61d7ed3aea7,fake/Water_Disaster_Dataset/Fake_Water_Disaster_Video (140).mp4,fake,0,Water,249,e72771e09a812d434ef7627f1bb3865e,False,0
+673a36e995d2,fake/Water_Disaster_Dataset/Fake_Water_Disaster_Video (141).mp4,fake,0,Water,250,bd10c37f080f227877585c7267496c46,False,3
+8fd97949170b,fake/Water_Disaster_Dataset/Fake_Water_Disaster_Video (142).mp4,fake,0,Water,251,3b77cf5d4f3c959f5aa86cd655fe2506,False,3
+3b551683477e,fake/Water_Disaster_Dataset/Fake_Water_Disaster_Video (143).mp4,fake,0,Water,252,528f9eb4c37945bd19cd59c5d89f8465,False,0
+14aa55ba508d,fake/Water_Disaster_Dataset/Fake_Water_Disaster_Video (144).mp4,fake,0,Water,253,2e3357c0ec5f1949b198bb99f16554ff,False,1
+87cb966a9fa7,fake/Water_Disaster_Dataset/Fake_Water_Disaster_Video (145).mp4,fake,0,Water,254,05d0a65237be894e5072b956e52e08f2,False,2
+9214172e3e6d,fake/Water_Disaster_Dataset/Fake_Water_Disaster_Video (146).mp4,fake,0,Water,255,c11daf1f935c17e9d8c3c766a6759924,False,4
+94e6c626d610,fake/Water_Disaster_Dataset/Fake_Water_Disaster_Video (147).mp4,fake,0,Water,256,182b1a6cd4c481a1c38619f1deb08490,False,0
+1e427a864b6b,fake/Water_Disaster_Dataset/Fake_Water_Disaster_Video (148).mp4,fake,0,Water,257,8d6a9f5ac01f6d6a32d213d0ec4433eb,False,1
+ba3834ff2917,fake/Water_Disaster_Dataset/Fake_Water_Disaster_Video (149).mp4,fake,0,Water,258,d9202f902f935e6593a58136ed6edd03,False,2
+2feddb5b1076,fake/Water_Disaster_Dataset/Fake_Water_Disaster_Video (15).mp4,fake,0,Water,219,8a4cdf4d4b7674a363b1791a8e756cb5,False,0
+dc158e6c257a,fake/Water_Disaster_Dataset/Fake_Water_Disaster_Video (150).mp4,fake,0,Water,259,5dd6b94492bce69d5963ac58a9aa91bd,False,3
+7730f7324bc8,fake/Water_Disaster_Dataset/Fake_Water_Disaster_Video (151).mp4,fake,0,Water,260,ee0aa6c0416440b118677daab9b9eff0,False,4
+09df57550c9a,fake/Water_Disaster_Dataset/Fake_Water_Disaster_Video (152).mp4,fake,0,Water,261,8f9231f3ad7dfdde0190eb0f05841965,False,4
+991739908449,fake/Water_Disaster_Dataset/Fake_Water_Disaster_Video (153).mp4,fake,0,Water,262,ff96efb68f51c2fe02498541c85521f2,False,0
+e9e6a8f30165,fake/Water_Disaster_Dataset/Fake_Water_Disaster_Video (154).mp4,fake,0,Water,263,faa4900f4f2f1204cd3e2bd9780276b5,False,1
+f2bc1a44448c,fake/Water_Disaster_Dataset/Fake_Water_Disaster_Video (155).mp4,fake,0,Water,264,ab3d5674cbe72c3f282744d6795eb2d0,False,2
+6a71b87cd035,fake/Water_Disaster_Dataset/Fake_Water_Disaster_Video (156).mp4,fake,0,Water,265,8079819698b56b96e107ba071a4dc8fa,False,3
+4ccfd5ec8b87,fake/Water_Disaster_Dataset/Fake_Water_Disaster_Video (157).mp4,fake,0,Water,266,ed27e518dd857bdb308913da059afbeb,False,3
+1775588b5163,fake/Water_Disaster_Dataset/Fake_Water_Disaster_Video (158).mp4,fake,0,Water,267,e1257f52924ba9e624c3bcffa5b79692,False,0
+cdbf9fbe5a66,fake/Water_Disaster_Dataset/Fake_Water_Disaster_Video (159).mp4,fake,0,Water,268,eec4291454b10d3a552ea87dcd2b7321,False,1
+1a48a151c961,fake/Water_Disaster_Dataset/Fake_Water_Disaster_Video (16).mp4,fake,0,Water,269,512f963df9fd0a6c4b30a692da7b6bbd,False,2
+d2f942697382,fake/Water_Disaster_Dataset/Fake_Water_Disaster_Video (160).mp4,fake,0,Water,217,fd93c17a7761d1d91465357292584904,False,3
+12a5a4f2f132,fake/Water_Disaster_Dataset/Fake_Water_Disaster_Video (161).mp4,fake,0,Water,270,ebc2d6ccebf9e87e7888065e601e7ba0,False,3
+02c938cc43a9,fake/Water_Disaster_Dataset/Fake_Water_Disaster_Video (162).mp4,fake,0,Water,271,a9ac8fd69f82e762e164afc3aa019097,False,4
+93abafac85f4,fake/Water_Disaster_Dataset/Fake_Water_Disaster_Video (163).mp4,fake,0,Water,217,2f5e1b409f7f6817aa3f84941fac78aa,False,3
+eeb624b17cb1,fake/Water_Disaster_Dataset/Fake_Water_Disaster_Video (164).mp4,fake,0,Water,272,0a989e21f067fce4b7bb6704a58df3ab,False,4
+de83fa4305bb,fake/Water_Disaster_Dataset/Fake_Water_Disaster_Video (165).mp4,fake,0,Water,273,e705b03daa0e641dc534810826decd9e,False,2
+aaf69bcde940,fake/Water_Disaster_Dataset/Fake_Water_Disaster_Video (166).mp4,fake,0,Water,217,797d7196d2417246cd009ab7818420cc,False,3
+6cd979ed7afe,fake/Water_Disaster_Dataset/Fake_Water_Disaster_Video (167).mp4,fake,0,Water,274,39fa5d65b4061c0aa8a7e279291ea44b,False,0
+1b3071ff1ee0,fake/Water_Disaster_Dataset/Fake_Water_Disaster_Video (168).mp4,fake,0,Water,275,b6a85f99bf43370b185e978b052504b9,False,1
+3bb98f1c3684,fake/Water_Disaster_Dataset/Fake_Water_Disaster_Video (169).mp4,fake,0,Water,219,3b87354479a120605e037e4c63bd5c71,False,0
+aa2d8c885662,fake/Water_Disaster_Dataset/Fake_Water_Disaster_Video (17).mp4,fake,0,Water,276,a4ab827cf8565775b2159c7123ecab99,False,4
+f0910dd50c2a,fake/Water_Disaster_Dataset/Fake_Water_Disaster_Video (170).mp4,fake,0,Water,277,562e59f599d900492d9ebf3e59689262,False,3
+3e5022a3c7ae,fake/Water_Disaster_Dataset/Fake_Water_Disaster_Video (171).mp4,fake,0,Water,278,4fa9c833893e635044c9556ae334cff7,False,0
+a99197885daa,fake/Water_Disaster_Dataset/Fake_Water_Disaster_Video (172).mp4,fake,0,Water,239,2e4e8cc86231986f2ae6e5fc12350dbb,False,4
+8d02ca98fc52,fake/Water_Disaster_Dataset/Fake_Water_Disaster_Video (173).mp4,fake,0,Water,279,39e3eaa9f33ef9cbce1526d3355280c6,False,1
+4a358721e5f2,fake/Water_Disaster_Dataset/Fake_Water_Disaster_Video (174).mp4,fake,0,Water,229,4257be47488766ea9b40dfe5eeebd4af,False,2
+322b63649437,fake/Water_Disaster_Dataset/Fake_Water_Disaster_Video (175).mp4,fake,0,Water,280,3c3caf24448033550b969680287411bf,False,2
+e30e787dcf7c,fake/Water_Disaster_Dataset/Fake_Water_Disaster_Video (176).mp4,fake,0,Water,281,ab9c568f9d6a3f019476f16f3b961bf5,False,3
+75c97f7a5eda,fake/Water_Disaster_Dataset/Fake_Water_Disaster_Video (177).mp4,fake,0,Water,282,b6c5b651a953f6c0f061f3fda7c95c49,False,4
+51f541855dfc,fake/Water_Disaster_Dataset/Fake_Water_Disaster_Video (178).mp4,fake,0,Water,264,9bfdf66d2ea0590e15e0637907d9f27d,False,2
+4f62aff803db,fake/Water_Disaster_Dataset/Fake_Water_Disaster_Video (179).mp4,fake,0,Water,257,a29011a25abb66bac1d16fcc786bcedb,False,1
+fe23e91bda36,fake/Water_Disaster_Dataset/Fake_Water_Disaster_Video (18).mp4,fake,0,Water,283,84e961a80796e8c9bbb17c547b2079f0,False,0
+0823846ae3d8,fake/Water_Disaster_Dataset/Fake_Water_Disaster_Video (180).mp4,fake,0,Water,257,c66b6bfa3b4753190d4f73e0fe447da0,False,1
+6f54223cc0df,fake/Water_Disaster_Dataset/Fake_Water_Disaster_Video (181).mp4,fake,0,Water,284,f770a1862f76dd41a5f3cd128584b14d,False,1
+7d3ca45601a6,fake/Water_Disaster_Dataset/Fake_Water_Disaster_Video (182).mp4,fake,0,Water,285,438c87d35db1a7fb1732730ffc882ee6,False,2
+aa6462ef9c8b,fake/Water_Disaster_Dataset/Fake_Water_Disaster_Video (183).mp4,fake,0,Water,286,e301feaa6743774c6c719e3614f8809a,False,3
+3fe1e588dcbd,fake/Water_Disaster_Dataset/Fake_Water_Disaster_Video (184).mp4,fake,0,Water,287,0c5acc1a6a79c62df109c79d19013220,False,4
+80b6a3d42edd,fake/Water_Disaster_Dataset/Fake_Water_Disaster_Video (185).mp4,fake,0,Water,288,9a25c8c0e0a241f861d07dcd72d4f740,False,0
+e8fe075335d5,fake/Water_Disaster_Dataset/Fake_Water_Disaster_Video (186).mp4,fake,0,Water,257,6a13ec53ca50a501921b82660d4ba991,False,1
+b62307e0f6be,fake/Water_Disaster_Dataset/Fake_Water_Disaster_Video (187).mp4,fake,0,Water,289,c8198c50be7b87a50cea76a5c94fda5a,False,2
+24211895c486,fake/Water_Disaster_Dataset/Fake_Water_Disaster_Video (188).mp4,fake,0,Water,217,e4ab54499dca7da96a1adbd0cd4cc7ba,False,3
+8560f0bab48d,fake/Water_Disaster_Dataset/Fake_Water_Disaster_Video (189).mp4,fake,0,Water,290,0bf7d485fac3750cc9df177718f7bcd6,False,3
+25d08eb7fc10,fake/Water_Disaster_Dataset/Fake_Water_Disaster_Video (19).mp4,fake,0,Water,291,6f16cafa6310273b7a5923fbf9b7a88c,False,1
+2b909cceff10,fake/Water_Disaster_Dataset/Fake_Water_Disaster_Video (190).mp4,fake,0,Water,292,0061c2fbc3606eb809feb7c9a0e24f10,False,4
+5b3e3a98b088,fake/Water_Disaster_Dataset/Fake_Water_Disaster_Video (191).mp4,fake,0,Water,293,619448379dc1c7d27dd5d3297ae218d6,False,0
+31ea0c7079b8,fake/Water_Disaster_Dataset/Fake_Water_Disaster_Video (192).mp4,fake,0,Water,294,e45711ebed735b433a8024be50953715,False,2
+23680943128f,fake/Water_Disaster_Dataset/Fake_Water_Disaster_Video (193).mp4,fake,0,Water,295,71ba0365f23d4cfd8d27bdc625995d9e,False,1
+bdebb515ce1f,fake/Water_Disaster_Dataset/Fake_Water_Disaster_Video (194).mp4,fake,0,Water,296,88d6c61b8e138d4123011892b73afd3c,False,4
+d39ed16d98d4,fake/Water_Disaster_Dataset/Fake_Water_Disaster_Video (195).mp4,fake,0,Water,297,fe9fc6da39e95167003941f8b3b9087d,False,3
+2430fa697938,fake/Water_Disaster_Dataset/Fake_Water_Disaster_Video (196).mp4,fake,0,Water,298,b436aadbd496892d0d4d680898e7a969,False,0
+562691a689fc,fake/Water_Disaster_Dataset/Fake_Water_Disaster_Video (197).mp4,fake,0,Water,299,42add42f76d62f8015a980c1ce8e3d44,False,1
+57810426dd63,fake/Water_Disaster_Dataset/Fake_Water_Disaster_Video (198).mp4,fake,0,Water,299,04e3959a952f010a55722c077a590cbc,False,1
+4cc482a30b24,fake/Water_Disaster_Dataset/Fake_Water_Disaster_Video (199).mp4,fake,0,Water,300,e5267233cad7a54419b26d97b36dd764,False,3
+c20d8421cc9d,fake/Water_Disaster_Dataset/Fake_Water_Disaster_Video (2).mp4,fake,0,Water,301,a46f998fd4790a61080018478d444b4d,False,2
+d7526aebaa7c,fake/Water_Disaster_Dataset/Fake_Water_Disaster_Video (20).mp4,fake,0,Water,302,d57260e8062c44dc274ed8576d7bcaa0,False,4
+10067e186878,fake/Water_Disaster_Dataset/Fake_Water_Disaster_Video (200).mp4,fake,0,Water,303,a062506937fe5be86c624aa6efbd0f60,False,0
+198a7a21d4cf,fake/Water_Disaster_Dataset/Fake_Water_Disaster_Video (201).mp4,fake,0,Water,304,919e5421b6d3f82e59b4373f1caa0fe2,False,1
+b20c687ac656,fake/Water_Disaster_Dataset/Fake_Water_Disaster_Video (202).mp4,fake,0,Water,305,359090448b2e35cea6c77e32222e93e3,False,1
+04c53676c403,fake/Water_Disaster_Dataset/Fake_Water_Disaster_Video (203).mp4,fake,0,Water,306,6b3172ada4022243314f438425e4b2d7,False,2
+3b148ac4b6be,fake/Water_Disaster_Dataset/Fake_Water_Disaster_Video (204).mp4,fake,0,Water,307,2ed3090b99833aa9781fc6356bf01f3a,False,2
+750aa26ed566,fake/Water_Disaster_Dataset/Fake_Water_Disaster_Video (205).mp4,fake,0,Water,308,19be11dc9120ee6f88eb4e4819c4f173,False,3
+cab296d8354d,fake/Water_Disaster_Dataset/Fake_Water_Disaster_Video (206).mp4,fake,0,Water,309,0ff41744b4dfc468c72c24cd46d76d40,False,4
+53c38af4097e,fake/Water_Disaster_Dataset/Fake_Water_Disaster_Video (207).mp4,fake,0,Water,310,a8b535af390a9ba11563a34d740db5fd,False,0
+43c1672e4d9f,fake/Water_Disaster_Dataset/Fake_Water_Disaster_Video (208).mp4,fake,0,Water,311,302eb6a7b944cab2231d8cb33da8ef82,False,4
+8bf3a6534916,fake/Water_Disaster_Dataset/Fake_Water_Disaster_Video (209).mp4,fake,0,Water,312,3264e433604421a3c15b48315b594990,False,1
+96705fb45f29,fake/Water_Disaster_Dataset/Fake_Water_Disaster_Video (21).mp4,fake,0,Water,313,c67f541a3b03e4fb50049015a6ebe51b,False,2
+22337bc22ff6,fake/Water_Disaster_Dataset/Fake_Water_Disaster_Video (210).mp4,fake,0,Water,314,e80700c9b04c9c03d606e4b13e1915fe,False,3
+4c44f3f29472,fake/Water_Disaster_Dataset/Fake_Water_Disaster_Video (211).mp4,fake,0,Water,315,103826227de43af35c926da5842cd131,False,0
+cdb0195ce813,fake/Water_Disaster_Dataset/Fake_Water_Disaster_Video (212).mp4,fake,0,Water,316,a8d329cd3096b587ac85889fd1f2ea06,False,1
+f895810e8f33,fake/Water_Disaster_Dataset/Fake_Water_Disaster_Video (213).mp4,fake,0,Water,317,c7bd0b6a5cd76366a683e38956ecb586,False,2
+a7d0351cd792,fake/Water_Disaster_Dataset/Fake_Water_Disaster_Video (214).mp4,fake,0,Water,318,2e667dff8457717854de3944a16c37fb,False,3
+b2fd208b33e7,fake/Water_Disaster_Dataset/Fake_Water_Disaster_Video (215).mp4,fake,0,Water,319,1dac4533719425297e76a9f62c498e02,False,4
+003f45213dc5,fake/Water_Disaster_Dataset/Fake_Water_Disaster_Video (216).mp4,fake,0,Water,320,7a171a5ebe5c871d18fecae9c3c1b517,False,0
+b062c0ee89be,fake/Water_Disaster_Dataset/Fake_Water_Disaster_Video (217).mp4,fake,0,Water,321,7f8357818f6f75236f089c75f0c880d3,False,1
+abcf8af30e23,fake/Water_Disaster_Dataset/Fake_Water_Disaster_Video (218).mp4,fake,0,Water,322,ba3a70cdfbb36582d248a95cf6fc5f41,False,2
+94a62bfeea89,fake/Water_Disaster_Dataset/Fake_Water_Disaster_Video (219).mp4,fake,0,Water,323,333bc5a65ecbc1e0856b24aabe82717f,False,3
+97c06b0ea52a,fake/Water_Disaster_Dataset/Fake_Water_Disaster_Video (22).mp4,fake,0,Water,324,b33b4f9aa8ccc604ebee443aad2823af,False,4
+8e201f537595,fake/Water_Disaster_Dataset/Fake_Water_Disaster_Video (220).mp4,fake,0,Water,325,fd9bbd59b715b9ddcb4edb1e6272898e,False,3
+6ceb714eeb5d,fake/Water_Disaster_Dataset/Fake_Water_Disaster_Video (221).mp4,fake,0,Water,326,65045c69fbd7def645bae1e82ca1a24b,False,0
+d9d43544f0c5,fake/Water_Disaster_Dataset/Fake_Water_Disaster_Video (222).mp4,fake,0,Water,327,0efd0aedb93bd82033e2f90e332c6876,False,1
+268d82c0cd03,fake/Water_Disaster_Dataset/Fake_Water_Disaster_Video (223).mp4,fake,0,Water,328,5957d85074163fd480cf4f5a0628f002,False,2
+1d674d0d3102,fake/Water_Disaster_Dataset/Fake_Water_Disaster_Video (224).mp4,fake,0,Water,329,bb797329ea79a962ee5270f7ddceb4c7,False,4
+8cac50fccf73,fake/Water_Disaster_Dataset/Fake_Water_Disaster_Video (225).mp4,fake,0,Water,330,0259ce1bd5106bbc46252f46b546ec09,False,0
+b449fe7d3af5,fake/Water_Disaster_Dataset/Fake_Water_Disaster_Video (226).mp4,fake,0,Water,331,36f3410f89e729a9f5f34e5a5d5bdb39,False,1
+213a1ae62c98,fake/Water_Disaster_Dataset/Fake_Water_Disaster_Video (227).mp4,fake,0,Water,332,0c9954873c77add103633ffb981472fb,False,2
+19d7b5c530f2,fake/Water_Disaster_Dataset/Fake_Water_Disaster_Video (228).mp4,fake,0,Water,333,346851c0b856d5d0b10c9a2cadafa33e,False,4
+74f1b1bb9312,fake/Water_Disaster_Dataset/Fake_Water_Disaster_Video (229).mp4,fake,0,Water,334,a31c7eec8940e43e9cd40a6caefeef19,False,3
+63a55a6aa0ae,fake/Water_Disaster_Dataset/Fake_Water_Disaster_Video (23).mp4,fake,0,Water,335,bc9951d722ae7373dbe742e6f8008078,False,0
+260d916ee62c,fake/Water_Disaster_Dataset/Fake_Water_Disaster_Video (230).mp4,fake,0,Water,336,8cee1b5017796e5a91226070e251a0ec,False,2
+83517ea87709,fake/Water_Disaster_Dataset/Fake_Water_Disaster_Video (231).mp4,fake,0,Water,337,48fdb32128ab9239d9e85fa1e2c1a068,False,4
+384acaaf822f,fake/Water_Disaster_Dataset/Fake_Water_Disaster_Video (232).mp4,fake,0,Water,338,470f398a99248dd31bb226aa107f836b,False,1
+7743054bd655,fake/Water_Disaster_Dataset/Fake_Water_Disaster_Video (233).mp4,fake,0,Water,339,44c61bd1feecf002ed442ca9a41acdf7,False,3
+c49f6ccdf4b3,fake/Water_Disaster_Dataset/Fake_Water_Disaster_Video (234).mp4,fake,0,Water,340,f2c55e276e1e6764bf74529f62212039,False,3
+82134cc693b3,fake/Water_Disaster_Dataset/Fake_Water_Disaster_Video (235).mp4,fake,0,Water,341,9d81675f2e948d7772b910ceb5db4c38,False,0
+1ec002fb8c3b,fake/Water_Disaster_Dataset/Fake_Water_Disaster_Video (236).mp4,fake,0,Water,342,25497a9cc6397db6ba4ac483c197b3ee,False,1
+afb47413d39d,fake/Water_Disaster_Dataset/Fake_Water_Disaster_Video (237).mp4,fake,0,Water,343,ca65de25b12a18f2f7daa38bad01a0ea,False,4
+85452233ee81,fake/Water_Disaster_Dataset/Fake_Water_Disaster_Video (238).mp4,fake,0,Water,344,f346a8a61b854e8b3896ff5e1e356973,False,2
+285ebfd87e3e,fake/Water_Disaster_Dataset/Fake_Water_Disaster_Video (239).mp4,fake,0,Water,345,4b99613d97b7904f9c3a21e5725d5d07,False,3
+673d64059255,fake/Water_Disaster_Dataset/Fake_Water_Disaster_Video (24).mp4,fake,0,Water,346,4b2b4e5afb0fefe6aef12aaac19b29f0,False,0
+c2976c24cf0b,fake/Water_Disaster_Dataset/Fake_Water_Disaster_Video (240).mp4,fake,0,Water,347,7d23d50eede8fcd424e670a92bf2f002,False,1
+6090c4171f3d,fake/Water_Disaster_Dataset/Fake_Water_Disaster_Video (241).mp4,fake,0,Water,348,50692619f1e2b1eaf41728d495cfae66,False,4
+1a0006ca654d,fake/Water_Disaster_Dataset/Fake_Water_Disaster_Video (242).mp4,fake,0,Water,349,44c3240d940371a9152cd06358ee54fe,False,2
+85f772c9b0a5,fake/Water_Disaster_Dataset/Fake_Water_Disaster_Video (243).mp4,fake,0,Water,350,5d9dcd126a8a9465fe47687f7a4495af,False,2
+eede7722472c,fake/Water_Disaster_Dataset/Fake_Water_Disaster_Video (244).mp4,fake,0,Water,351,aee99cc437ae349e2c9c51837093f3c4,False,0
+9ff72029370a,fake/Water_Disaster_Dataset/Fake_Water_Disaster_Video (245).mp4,fake,0,Water,352,11d532d82abbda557b1708599dff45d4,False,3
+ce5654b9ff67,fake/Water_Disaster_Dataset/Fake_Water_Disaster_Video (246).mp4,fake,0,Water,353,b90c494764a239bb7d85eaf00ecab7ce,False,1
+96957f733d23,fake/Water_Disaster_Dataset/Fake_Water_Disaster_Video (247).mp4,fake,0,Water,354,5554db6f305760505a15d07ea475f0fe,False,4
+bd36ed2a4908,fake/Water_Disaster_Dataset/Fake_Water_Disaster_Video (248).mp4,fake,0,Water,355,497a4c9580d4fc9ff2d959e6cadc7bdf,False,1
+018a76cf2f32,fake/Water_Disaster_Dataset/Fake_Water_Disaster_Video (249).mp4,fake,0,Water,356,850cc81b5720d776001ea062232f0ba9,False,0
+9cdf55ed5672,fake/Water_Disaster_Dataset/Fake_Water_Disaster_Video (25).mp4,fake,0,Water,217,b2a19698bf215ea7a9dc55ed79a58ab8,False,3
+6f41b898001b,fake/Water_Disaster_Dataset/Fake_Water_Disaster_Video (251).mp4,fake,0,Water,357,0628301ff4470edb84305d1731385b97,False,2
+8207736c1f4f,fake/Water_Disaster_Dataset/Fake_Water_Disaster_Video (252).mp4,fake,0,Water,358,13ecc169c10c9d8e0c014e607c9c05c4,False,4
+d74f08d83231,fake/Water_Disaster_Dataset/Fake_Water_Disaster_Video (253).mp4,fake,0,Water,359,1285e8deeb44fbc63ce69b1958da4818,False,2
+260f6ae23984,fake/Water_Disaster_Dataset/Fake_Water_Disaster_Video (254).mp4,fake,0,Water,360,58bbd78c5d3fe2d96ee0b0c4db9b55b2,False,3
+3088cac75353,fake/Water_Disaster_Dataset/Fake_Water_Disaster_Video (255).mp4,fake,0,Water,361,c149a3124287042acdc08f027d120496,False,0
+e1a6ec47e931,fake/Water_Disaster_Dataset/Fake_Water_Disaster_Video (256).mp4,fake,0,Water,362,121de516d0f8a0093795d458f42513cd,False,1
+20f8c6e86c91,fake/Water_Disaster_Dataset/Fake_Water_Disaster_Video (257).mp4,fake,0,Water,363,a2a97200db6bcf1aa227b3199db99edd,False,2
+e2d7ff45b314,fake/Water_Disaster_Dataset/Fake_Water_Disaster_Video (258).mp4,fake,0,Water,364,2fabd8a49c021a4141171b0222cd5e4b,False,3
+1e145028e184,fake/Water_Disaster_Dataset/Fake_Water_Disaster_Video (259).mp4,fake,0,Water,365,a3abb8cbe7c33795b93538c455618141,False,4
+2f5fdad73640,fake/Water_Disaster_Dataset/Fake_Water_Disaster_Video (26).mp4,fake,0,Water,366,0fd5a333f782863f5e6e1e6130c9d7d8,False,0
+77cecb5245fa,fake/Water_Disaster_Dataset/Fake_Water_Disaster_Video (260).mp4,fake,0,Water,367,cde821fb9848a892e48233ba5173cedb,False,4
+18c20370df71,fake/Water_Disaster_Dataset/Fake_Water_Disaster_Video (261).mp4,fake,0,Water,368,da648b6651c1930393d23c8b2b53a8b9,False,1
+6d5c8fea244f,fake/Water_Disaster_Dataset/Fake_Water_Disaster_Video (262).mp4,fake,0,Water,369,a6ca07f011f3eb9679bb42cd2e7579da,False,2
+290b2f011a52,fake/Water_Disaster_Dataset/Fake_Water_Disaster_Video (263).mp4,fake,0,Water,370,9abe6259763a9adc3a6f5b04e7b1cf0c,False,3
+59a87c58c0ff,fake/Water_Disaster_Dataset/Fake_Water_Disaster_Video (264).mp4,fake,0,Water,371,aa044a49b20d7b3f465276f89263d81b,False,0
+1324728c13a7,fake/Water_Disaster_Dataset/Fake_Water_Disaster_Video (265).mp4,fake,0,Water,372,48e3771bccf83ebde12097abc215bc60,False,4
+b653b0825df9,fake/Water_Disaster_Dataset/Fake_Water_Disaster_Video (266).mp4,fake,0,Water,373,9f97435db257940c33f3730911486f19,False,3
+d9352bdc5a9d,fake/Water_Disaster_Dataset/Fake_Water_Disaster_Video (267).mp4,fake,0,Water,374,5d92eec60bd98913ce1fdedb297ef854,False,4
+90015182c87d,fake/Water_Disaster_Dataset/Fake_Water_Disaster_Video (268).mp4,fake,0,Water,375,1536e83579790237fe07720e818ccb52,False,1
+8ea06c3f2b48,fake/Water_Disaster_Dataset/Fake_Water_Disaster_Video (269).mp4,fake,0,Water,376,2cf22cbc5f561777c051338fe775282f,False,2
+c4f39019c107,fake/Water_Disaster_Dataset/Fake_Water_Disaster_Video (27).mp4,fake,0,Water,377,3ff16ae72c47a4211c8183eb78cf4edc,False,0
+af3044c45fe0,fake/Water_Disaster_Dataset/Fake_Water_Disaster_Video (270).mp4,fake,0,Water,378,29a25fa8473614a67632fe21fa8c6df9,False,1
+646c67ed77dc,fake/Water_Disaster_Dataset/Fake_Water_Disaster_Video (271).mp4,fake,0,Water,379,cc55484bda922a2487eaf7a9676412d7,False,2
+855e02578d35,fake/Water_Disaster_Dataset/Fake_Water_Disaster_Video (272).mp4,fake,0,Water,380,141db98e242c7a85a67993e03cf6e1d5,False,3
+1e8bb6408269,fake/Water_Disaster_Dataset/Fake_Water_Disaster_Video (273).mp4,fake,0,Water,381,0879b6a24a1e09121c920a76e3120292,False,4
+ffb91ff68e81,fake/Water_Disaster_Dataset/Fake_Water_Disaster_Video (274).mp4,fake,0,Water,382,7b45e0f2aec855e6784545697530aeb4,False,1
+5be970de292c,fake/Water_Disaster_Dataset/Fake_Water_Disaster_Video (275).mp4,fake,0,Water,383,feebd60708b2b5b625636ad13565ee3a,False,0
+f46268efc8c0,fake/Water_Disaster_Dataset/Fake_Water_Disaster_Video (276).mp4,fake,0,Water,384,d19756f67839b711232ec3ceea1913bb,False,3
+3b9dc7463be3,fake/Water_Disaster_Dataset/Fake_Water_Disaster_Video (277).mp4,fake,0,Water,385,600dc06eb2b4ffe08ac62df55a1e86f5,False,4
+b8fc973ed6f2,fake/Water_Disaster_Dataset/Fake_Water_Disaster_Video (278).mp4,fake,0,Water,386,cf8d8ecc83e9b13517b1fd7c695c6f5f,False,2
+6c2f15102cc3,fake/Water_Disaster_Dataset/Fake_Water_Disaster_Video (279).mp4,fake,0,Water,387,25f2695ebfdc20e88cb6488bd3aebc90,False,0
+52754dc4397d,fake/Water_Disaster_Dataset/Fake_Water_Disaster_Video (28).mp4,fake,0,Water,388,183532d26723ef0d5a3828c67dfe47ec,False,4
+5f5a510d488a,fake/Water_Disaster_Dataset/Fake_Water_Disaster_Video (280).mp4,fake,0,Water,389,385fc135745804421f6c4bc07e19bc25,False,1
+1b4b08317856,fake/Water_Disaster_Dataset/Fake_Water_Disaster_Video (281).mp4,fake,0,Water,390,98067095c0037cee7ce17d1b0ee9b838,False,2
+3c34037cea7f,fake/Water_Disaster_Dataset/Fake_Water_Disaster_Video (282).mp4,fake,0,Water,391,e61d72e2a9765e921ca81e510a36d4c9,False,3
+b67faa79458f,fake/Water_Disaster_Dataset/Fake_Water_Disaster_Video (283).mp4,fake,0,Water,392,9caf7df008288a91e3a9d36ae5768c95,False,0
+a1dc065f31e7,fake/Water_Disaster_Dataset/Fake_Water_Disaster_Video (284).mp4,fake,0,Water,393,65badf7ad6a502c61df56d5900942ca4,False,1
+1aa855c3b059,fake/Water_Disaster_Dataset/Fake_Water_Disaster_Video (285).mp4,fake,0,Water,394,78171d548bde744b3d76f57c7d66f5cb,False,2
+01285063391c,fake/Water_Disaster_Dataset/Fake_Water_Disaster_Video (286).mp4,fake,0,Water,395,ce0c6fec3d60a61d862cca1491819d4d,False,4
+c8c98519e74a,fake/Water_Disaster_Dataset/Fake_Water_Disaster_Video (287).mp4,fake,0,Water,396,2fbce7f7ee13cd53e62dbe868095faef,False,3
+3a25ce4dc949,fake/Water_Disaster_Dataset/Fake_Water_Disaster_Video (288).mp4,fake,0,Water,397,f80d1ac8a4f895292eb4c50c05cd7351,False,3
+2a5ae42b9c47,fake/Water_Disaster_Dataset/Fake_Water_Disaster_Video (289).mp4,fake,0,Water,398,a0e88a64d280c08975849c6996813807,False,0
+be5fc9ba9b0e,fake/Water_Disaster_Dataset/Fake_Water_Disaster_Video (29).mp4,fake,0,Water,399,5ba7ad743a1270296c90c8729cfe9421,False,1
+52115891e954,fake/Water_Disaster_Dataset/Fake_Water_Disaster_Video (290).mp4,fake,0,Water,400,6b84c93ac7cb6615fca6ce14175f0f1f,False,2
+6cd22b2661d1,fake/Water_Disaster_Dataset/Fake_Water_Disaster_Video (291).mp4,fake,0,Water,401,e2aac6d24f6b057135dbec156e6ea806,False,0
+9052afbce4bd,fake/Water_Disaster_Dataset/Fake_Water_Disaster_Video (292).mp4,fake,0,Water,402,44b6b4ac2e9168c052c69534c5b71ff4,False,3
+385f3aba0e88,fake/Water_Disaster_Dataset/Fake_Water_Disaster_Video (293).mp4,fake,0,Water,403,2b170b1984f6ccad82434d44d3b99fc4,False,4
+b28806d5a862,fake/Water_Disaster_Dataset/Fake_Water_Disaster_Video (294).mp4,fake,0,Water,404,de869507f589734303c6a198223a1793,False,4
+d7c4503f17c7,fake/Water_Disaster_Dataset/Fake_Water_Disaster_Video (295).mp4,fake,0,Water,405,03c1576f4b665a2d3091c0ede01f94dd,False,2
+ee43adba73cf,fake/Water_Disaster_Dataset/Fake_Water_Disaster_Video (296).mp4,fake,0,Water,406,c49b4d79ead2f935151fce937c8d33a5,False,0
+17a55c324afc,fake/Water_Disaster_Dataset/Fake_Water_Disaster_Video (297).mp4,fake,0,Water,407,f2d6faaf614cb0a26b01c2421b3739c7,False,1
+785a0c61d16f,fake/Water_Disaster_Dataset/Fake_Water_Disaster_Video (298).mp4,fake,0,Water,408,430d87d1cb042a0b78b84bc5e799a292,False,3
+38a0a99167e4,fake/Water_Disaster_Dataset/Fake_Water_Disaster_Video (299).mp4,fake,0,Water,409,223cdd5835d712d7abf44e33fada5a42,False,0
+91ce2e6408c1,fake/Water_Disaster_Dataset/Fake_Water_Disaster_Video (3).mp4,fake,0,Water,410,fead22ff75d027eae1bdd5601fa56171,False,3
+9ca8b1807c6e,fake/Water_Disaster_Dataset/Fake_Water_Disaster_Video (30).mp4,fake,0,Water,411,77fbec865634b4a113edfc8a30ca2777,False,1
+4c4f6f0058e4,fake/Water_Disaster_Dataset/Fake_Water_Disaster_Video (300).mp4,fake,0,Water,412,6c4dbfc12b00de410378d996c6b6e1cf,False,2
+7f24a9bc36fb,fake/Water_Disaster_Dataset/Fake_Water_Disaster_Video (301).mp4,fake,0,Water,413,41deda1ef65ccfd46e735e2c4540b32a,False,0
+28735d7691f8,fake/Water_Disaster_Dataset/Fake_Water_Disaster_Video (302).mp4,fake,0,Water,414,14fe6aa5713d1bb34cda44a43a2b743a,False,4
+ff652394d15b,fake/Water_Disaster_Dataset/Fake_Water_Disaster_Video (303).mp4,fake,0,Water,415,3ede7f5422c661936cd67a56b0a2b46c,False,4
+2494039fdbaf,fake/Water_Disaster_Dataset/Fake_Water_Disaster_Video (304).mp4,fake,0,Water,416,8e19faf27bc54f41a3b7da06f7141828,False,0
+834ef3175061,fake/Water_Disaster_Dataset/Fake_Water_Disaster_Video (305).mp4,fake,0,Water,417,035cf8d5282945ce3a893900a9266aff,False,1
+1e4c352bd712,fake/Water_Disaster_Dataset/Fake_Water_Disaster_Video (306).mp4,fake,0,Water,418,d804a09fabb9bce2fe7b111880f47a68,False,2
+1b0864be715a,fake/Water_Disaster_Dataset/Fake_Water_Disaster_Video (307).mp4,fake,0,Water,419,d27e6c9dd445933c0bc992d7d79e4d0b,False,3
+2aed8dcccf82,fake/Water_Disaster_Dataset/Fake_Water_Disaster_Video (308).mp4,fake,0,Water,420,1148d59cc088db6ba6c36b56a199a775,False,0
+b22974e4d12e,fake/Water_Disaster_Dataset/Fake_Water_Disaster_Video (309).mp4,fake,0,Water,421,992c7d8ed56d61bcb336afee60611c34,False,1
+f62d5980920d,fake/Water_Disaster_Dataset/Fake_Water_Disaster_Video (31).mp4,fake,0,Water,422,88c3ee30a9d022c5baf9a4272a44ff62,False,2
+8337c9b4663d,fake/Water_Disaster_Dataset/Fake_Water_Disaster_Video (310).mp4,fake,0,Water,219,3e93392277f3b981e89af46f8884dc5f,False,0
+30574db10db0,fake/Water_Disaster_Dataset/Fake_Water_Disaster_Video (312).mp4,fake,0,Water,423,1708b533a870a669b9b40ef7765b1dee,False,3
+82a2c262e058,fake/Water_Disaster_Dataset/Fake_Water_Disaster_Video (313).mp4,fake,0,Water,424,e720f8f727326d8d4c7ec217d476bbdf,False,4
+772778c2caf8,fake/Water_Disaster_Dataset/Fake_Water_Disaster_Video (314).mp4,fake,0,Water,219,8b41b0f8fc537a7ce5be81d4652e2f4d,False,0
+0a7367a868e1,fake/Water_Disaster_Dataset/Fake_Water_Disaster_Video (315).mp4,fake,0,Water,425,1ce841a47044dd7339368df2ba214de7,False,0
+c83ede802d95,fake/Water_Disaster_Dataset/Fake_Water_Disaster_Video (316).mp4,fake,0,Water,426,56979d586c096d12e8530f9deecf9432,False,2
+86ab298e3bcb,fake/Water_Disaster_Dataset/Fake_Water_Disaster_Video (317).mp4,fake,0,Water,427,4bc0d2513ce518af807138c6891db470,False,1
+7da71d43694a,fake/Water_Disaster_Dataset/Fake_Water_Disaster_Video (318).mp4,fake,0,Water,428,3589a2d5dc6968676a9b5be854fdd4e9,False,3
+eb3b4c2a1491,fake/Water_Disaster_Dataset/Fake_Water_Disaster_Video (319).mp4,fake,0,Water,429,6f41680c43040f8205ec0dc6a73ca819,False,4
+e0d383ccf845,fake/Water_Disaster_Dataset/Fake_Water_Disaster_Video (32).mp4,fake,0,Water,430,bf2ce64595752df77d2257fc1ad2c7b2,False,0
+592a38c9a94f,fake/Water_Disaster_Dataset/Fake_Water_Disaster_Video (320).mp4,fake,0,Water,431,db9b60ba3ffd69c6d75b9fa98f24c0a7,False,1
+3bbca69e358d,fake/Water_Disaster_Dataset/Fake_Water_Disaster_Video (321).mp4,fake,0,Water,432,5b24b0fb9b05eee56e6b8d79d800a60a,False,2
+fdf5705dbfeb,fake/Water_Disaster_Dataset/Fake_Water_Disaster_Video (322).mp4,fake,0,Water,433,0293b7d65d90a78063ee0a47c1d85216,False,3
+10e58ea10251,fake/Water_Disaster_Dataset/Fake_Water_Disaster_Video (323).mp4,fake,0,Water,434,c68f9d5c71615dfa832eb08f29a379b3,False,4
+f84d5605d019,fake/Water_Disaster_Dataset/Fake_Water_Disaster_Video (324).mp4,fake,0,Water,435,4d7e56287ea17c001bfe3535d953027a,False,4
+411e5b860435,fake/Water_Disaster_Dataset/Fake_Water_Disaster_Video (325).mp4,fake,0,Water,436,ba8a892e1a28f1dfc6da3b35c04f7fbb,False,0
+da38513b664a,fake/Water_Disaster_Dataset/Fake_Water_Disaster_Video (326).mp4,fake,0,Water,437,50a36a8ceb4bd56b0a1d705d71503c2c,False,1
+57791479daa3,fake/Water_Disaster_Dataset/Fake_Water_Disaster_Video (327).mp4,fake,0,Water,438,11a327c534af0467f1730ca06fa85f27,False,2
+51a7382203aa,fake/Water_Disaster_Dataset/Fake_Water_Disaster_Video (328).mp4,fake,0,Water,439,64747632f3cd07cf5fc7e9daa525289b,False,3
+6a9124ad1794,fake/Water_Disaster_Dataset/Fake_Water_Disaster_Video (329).mp4,fake,0,Water,440,1255061ce7ac01c11adedae47e194a7b,False,4
+2645a822d268,fake/Water_Disaster_Dataset/Fake_Water_Disaster_Video (33).mp4,fake,0,Water,441,4a2e90158855171503d5af1346279f61,False,1
+24f00974fd15,fake/Water_Disaster_Dataset/Fake_Water_Disaster_Video (330).mp4,fake,0,Water,442,390e62de8a85622244f4648e23a46991,False,0
+0307d9b9d8c5,fake/Water_Disaster_Dataset/Fake_Water_Disaster_Video (331).mp4,fake,0,Water,443,159727e06c491bfd4e3ede3bc8d4d630,False,4
+8f7e3cfeea88,fake/Water_Disaster_Dataset/Fake_Water_Disaster_Video (332).mp4,fake,0,Water,444,5a52581d9f7a4c5fddcae5ef76b0b9e2,False,2
+73b018e014a1,fake/Water_Disaster_Dataset/Fake_Water_Disaster_Video (333).mp4,fake,0,Water,445,15f6aae8f0e834e3ea39f450f351bd14,False,3
+6e8405d6017d,fake/Water_Disaster_Dataset/Fake_Water_Disaster_Video (334).mp4,fake,0,Water,446,3887fa365bac28ea230bef3c250a8ebf,False,4
+08a766f3c7e7,fake/Water_Disaster_Dataset/Fake_Water_Disaster_Video (335).mp4,fake,0,Water,447,f98eec5f9447584edaa3646fa518f676,False,0
+ca17cf885e3d,fake/Water_Disaster_Dataset/Fake_Water_Disaster_Video (336).mp4,fake,0,Water,448,2ef2c1163dd6b446f2d3eb0b5120346f,False,3
+2b07a0136b02,fake/Water_Disaster_Dataset/Fake_Water_Disaster_Video (337).mp4,fake,0,Water,449,0cab727aa508f335f12c8d0f53ea98ca,False,4
+79b86fc98fe7,fake/Water_Disaster_Dataset/Fake_Water_Disaster_Video (338).mp4,fake,0,Water,450,9e447759ab1c11899b9f6b80c181cb01,False,1
+7d3c643d6bc6,fake/Water_Disaster_Dataset/Fake_Water_Disaster_Video (34).mp4,fake,0,Water,451,8c210e07cf0b483222119aa56df0f6ef,False,1
+ad67f75907c4,fake/Water_Disaster_Dataset/Fake_Water_Disaster_Video (340).mp4,fake,0,Water,452,b37e292a37aab5b32b1313ff8ec913d5,False,3
+01f54edc6f1d,fake/Water_Disaster_Dataset/Fake_Water_Disaster_Video (342).mp4,fake,0,Water,453,5583e08d9d3aa9b38ce2ac2bda375ef8,False,1
+f27d66fd247f,fake/Water_Disaster_Dataset/Fake_Water_Disaster_Video (343).mp4,fake,0,Water,454,60de19bc7034bfb27246000abcb6c444,False,2
+f677ceb4a593,fake/Water_Disaster_Dataset/Fake_Water_Disaster_Video (344).mp4,fake,0,Water,455,a3cf367401ee27ef920f3c97a114c724,False,0
+99f9a3d77286,fake/Water_Disaster_Dataset/Fake_Water_Disaster_Video (35).mp4,fake,0,Water,456,f5ad897ac92e1928de25b83073c77fbf,False,1
+26e4070e3d08,fake/Water_Disaster_Dataset/Fake_Water_Disaster_Video (36).mp4,fake,0,Water,457,b52006f48c41e989e63999f6e98f96eb,False,2
+ad030e9c5d9c,fake/Water_Disaster_Dataset/Fake_Water_Disaster_Video (37).mp4,fake,0,Water,458,99e36c5f021474aa2ccf68a1c2f92e49,False,1
+3fdc8440d32b,fake/Water_Disaster_Dataset/Fake_Water_Disaster_Video (38).mp4,fake,0,Water,459,08a84631e04a93fe4950a5511c588c72,False,3
+8e5195c8f92d,fake/Water_Disaster_Dataset/Fake_Water_Disaster_Video (39).mp4,fake,0,Water,460,0d7cc1427aa5a2559c9b7455ddac7fb6,False,4
+bfcba42a0e1a,fake/Water_Disaster_Dataset/Fake_Water_Disaster_Video (4).mp4,fake,0,Water,461,d66671cf4568fa771f463451fd19ff48,False,3
+8d22c56d859b,fake/Water_Disaster_Dataset/Fake_Water_Disaster_Video (40).mp4,fake,0,Water,219,aa516605259d6a9f97132cafc8c9a136,False,0
+89168a85d7ee,fake/Water_Disaster_Dataset/Fake_Water_Disaster_Video (41).mp4,fake,0,Water,462,518c6c1329e6eff191935f92d0ce9e3b,False,0
+542724d7d302,fake/Water_Disaster_Dataset/Fake_Water_Disaster_Video (42).mp4,fake,0,Water,463,4413e910ed67ffe4e3697988bbe8261b,False,4
+f9939dc82e1d,fake/Water_Disaster_Dataset/Fake_Water_Disaster_Video (43).mp4,fake,0,Water,388,63cb28ea3f59cc25ebdc5bc4c5c4a2e8,False,4
+9ce75c046602,fake/Water_Disaster_Dataset/Fake_Water_Disaster_Video (44).mp4,fake,0,Water,464,c2d050f41ad352292f7b1ba4d46df0a7,False,4
+38d39a6e3c7f,fake/Water_Disaster_Dataset/Fake_Water_Disaster_Video (45).mp4,fake,0,Water,465,79cd22c54cb0c3ac82782bee164b6a27,False,1
+be11f37a01ef,fake/Water_Disaster_Dataset/Fake_Water_Disaster_Video (46).mp4,fake,0,Water,466,d6e52d491ba76ab44badd75e152ccb54,False,2
+6de3e596600f,fake/Water_Disaster_Dataset/Fake_Water_Disaster_Video (47).mp4,fake,0,Water,467,612d4d68653522bc7a31eeae1998890f,False,0
+5eff6f667bdc,fake/Water_Disaster_Dataset/Fake_Water_Disaster_Video (48).mp4,fake,0,Water,468,85c4329cad5f57ade9f5efc80bea38d0,False,1
+7ddf5559df8d,fake/Water_Disaster_Dataset/Fake_Water_Disaster_Video (49).mp4,fake,0,Water,469,8a7dcb16f4155ea1f37696cc49f52159,False,2
+0b0e7d28bfd4,fake/Water_Disaster_Dataset/Fake_Water_Disaster_Video (5).mp4,fake,0,Water,470,639d9da5c87ba4bb4bc0e3d0e2e26748,False,3
+d8416772a2c6,fake/Water_Disaster_Dataset/Fake_Water_Disaster_Video (50).mp4,fake,0,Water,471,cc1ff478caca46528f33a4e93dfd9d23,False,4
+a02070a47333,fake/Water_Disaster_Dataset/Fake_Water_Disaster_Video (51).mp4,fake,0,Water,472,6181d10b238167833b5f64cb83222516,False,0
+1c3328ce1597,fake/Water_Disaster_Dataset/Fake_Water_Disaster_Video (52).mp4,fake,0,Water,473,b24c9bb74c57377cee7cd835af1e3ad4,False,1
+3a9f1d1b1577,fake/Water_Disaster_Dataset/Fake_Water_Disaster_Video (53).mp4,fake,0,Water,474,dfb5239335ca5bd8320a98a1fdd47ff1,False,2
+b14d0afc92b1,fake/Water_Disaster_Dataset/Fake_Water_Disaster_Video (54).mp4,fake,0,Water,475,e04038bb9b14b5e08c231ff67f6a794a,False,3
+aef83a185127,fake/Water_Disaster_Dataset/Fake_Water_Disaster_Video (55).mp4,fake,0,Water,476,375ef10ec320b2c26a1b1574a9ace552,False,4
+d962301e1e30,fake/Water_Disaster_Dataset/Fake_Water_Disaster_Video (56).mp4,fake,0,Water,477,076b383d61d2d8bf9c8205757d1af1c3,False,2
+83ab3fe85b31,fake/Water_Disaster_Dataset/Fake_Water_Disaster_Video (57).mp4,fake,0,Water,478,9fbfb2994a43e94a3ae08ed4d2382c8e,False,0
+89ea79aad69c,fake/Water_Disaster_Dataset/Fake_Water_Disaster_Video (58).mp4,fake,0,Water,479,d6a5c729b7c81df4dc60fa9d424108c6,False,3
+75b62d9e6bc7,fake/Water_Disaster_Dataset/Fake_Water_Disaster_Video (59).mp4,fake,0,Water,480,0c0de65d76d242cfab3d65ef1b178bcc,False,4
+e4181fd718ee,fake/Water_Disaster_Dataset/Fake_Water_Disaster_Video (6).mp4,fake,0,Water,481,7bd7f68b7c15a7cde2500bbfb9f8f290,False,1
+a3f391547b29,fake/Water_Disaster_Dataset/Fake_Water_Disaster_Video (60).mp4,fake,0,Water,219,9c50914e2c8cd4459fb0059e84ae8372,False,0
+d893e6f461ca,fake/Water_Disaster_Dataset/Fake_Water_Disaster_Video (61).mp4,fake,0,Water,482,1f4442ca0c6639f37e4d856436bdd496,False,0
+41dd8bd2fb4d,fake/Water_Disaster_Dataset/Fake_Water_Disaster_Video (62).mp4,fake,0,Water,483,07f45be03e729f6cdbb7871d3ab6e8ed,False,2
+5f31a42608be,fake/Water_Disaster_Dataset/Fake_Water_Disaster_Video (63).mp4,fake,0,Water,302,d6e2ea2ee62079c589eb397bba9dcd7c,False,4
+a20e9a2727e2,fake/Water_Disaster_Dataset/Fake_Water_Disaster_Video (64).mp4,fake,0,Water,484,ba06cfb3e7527348e4307a1e217c3887,False,1
+a20cea248d78,fake/Water_Disaster_Dataset/Fake_Water_Disaster_Video (65).mp4,fake,0,Water,485,3923d19e3dbc79812844643aab4bf8b3,False,2
+8bec211e02e5,fake/Water_Disaster_Dataset/Fake_Water_Disaster_Video (66).mp4,fake,0,Water,486,4ca430c1d17a317422233394890af964,False,3
+410d33684d17,fake/Water_Disaster_Dataset/Fake_Water_Disaster_Video (67).mp4,fake,0,Water,487,18f180eef42985bf58e0b1f2bf789b56,False,4
+d347a9832a83,fake/Water_Disaster_Dataset/Fake_Water_Disaster_Video (68).mp4,fake,0,Water,488,a7bbd117cfa8a2a41ec83ec792b32301,False,0
+0265284608c3,fake/Water_Disaster_Dataset/Fake_Water_Disaster_Video (69).mp4,fake,0,Water,489,14f8cc7e6d0f5d1bee48b72238d34220,False,3
+5a9ad6e753e4,fake/Water_Disaster_Dataset/Fake_Water_Disaster_Video (7).mp4,fake,0,Water,490,facd5eda25e8eafbe72bc0449604a575,False,1
+77ec09d1e359,fake/Water_Disaster_Dataset/Fake_Water_Disaster_Video (70).mp4,fake,0,Water,491,32cb3d0e11d953a590b9172e699d9ed7,False,3
+8fa16c761513,fake/Water_Disaster_Dataset/Fake_Water_Disaster_Video (71).mp4,fake,0,Water,217,733e81993a77d3cb5fc3ea344fce77d0,False,3
+ddf2b4fb9eb8,fake/Water_Disaster_Dataset/Fake_Water_Disaster_Video (72).mp4,fake,0,Water,217,67b36e2c48c37de2e7dbc5c915214268,False,3
+7019690db8e8,fake/Water_Disaster_Dataset/Fake_Water_Disaster_Video (73).mp4,fake,0,Water,492,937e073c82d2e804840bd5a39b1a25e5,False,2
+5984917af1e1,fake/Water_Disaster_Dataset/Fake_Water_Disaster_Video (74).mp4,fake,0,Water,493,8d1762cd3b2d36b9144eb36438743d8c,False,4
+d6110feb9ea3,fake/Water_Disaster_Dataset/Fake_Water_Disaster_Video (75).mp4,fake,0,Water,494,53520a5b9e00f90f6c241a81feaddde2,False,0
+6b3ca8a86506,fake/Water_Disaster_Dataset/Fake_Water_Disaster_Video (76).mp4,fake,0,Water,225,9c6ed4fac9c70c2b13c96d8d732f7389,False,4
+fb5b56feaa5c,fake/Water_Disaster_Dataset/Fake_Water_Disaster_Video (77).mp4,fake,0,Water,495,a91b3f4a730f264d0a388ce4c32c73aa,False,1
+50ec0c9aaf91,fake/Water_Disaster_Dataset/Fake_Water_Disaster_Video (78).mp4,fake,0,Water,496,44c98de656c2317f8ae51d1d709dfe64,False,0
+f39b0fade2c1,fake/Water_Disaster_Dataset/Fake_Water_Disaster_Video (79).mp4,fake,0,Water,217,70bbe6129b723f985e236d2f0f73bb7f,False,3
+004c4703d60b,fake/Water_Disaster_Dataset/Fake_Water_Disaster_Video (8).mp4,fake,0,Water,497,6a6f59676fdbce04b4406ce527456b96,False,2
+8d15f710d86e,fake/Water_Disaster_Dataset/Fake_Water_Disaster_Video (80).mp4,fake,0,Water,498,39d2c717f7c01a14862491b7807e6b31,False,3
+32440770ef9f,fake/Water_Disaster_Dataset/Fake_Water_Disaster_Video (81).mp4,fake,0,Water,499,0c702ec6ff2420e3a1ea0de09e6f67d3,False,4
+9bf2976079e1,fake/Water_Disaster_Dataset/Fake_Water_Disaster_Video (82).mp4,fake,0,Water,500,c211f53b295824bc2905304eb6b37fb1,False,4
+7bced343ebb3,fake/Water_Disaster_Dataset/Fake_Water_Disaster_Video (83).mp4,fake,0,Water,501,5f57f0e4774dee7537b1072481ee5f87,False,0
+c65339de0c39,fake/Water_Disaster_Dataset/Fake_Water_Disaster_Video (84).mp4,fake,0,Water,502,8a06441286f0c608e9b48ec859543ba4,False,1
+4efb54458951,fake/Water_Disaster_Dataset/Fake_Water_Disaster_Video (85).mp4,fake,0,Water,263,4b6d08c8a468199989810791536332c2,False,1
+8eaee093ee75,fake/Water_Disaster_Dataset/Fake_Water_Disaster_Video (86).mp4,fake,0,Water,503,4c50413d23f1b49046e6bd11e07050ca,False,2
+3e3f3c7219a7,fake/Water_Disaster_Dataset/Fake_Water_Disaster_Video (87).mp4,fake,0,Water,504,716771c6cd76a087a13e0887ca0780f1,False,3
+7af7128b2e50,fake/Water_Disaster_Dataset/Fake_Water_Disaster_Video (88).mp4,fake,0,Water,282,202270d378d962f6a1b558384570e87a,False,4
+a4ab85dc7071,fake/Water_Disaster_Dataset/Fake_Water_Disaster_Video (89).mp4,fake,0,Water,505,29afaea6291371181242d92aaf030f39,False,4
+466dcdd79637,fake/Water_Disaster_Dataset/Fake_Water_Disaster_Video (9).mp4,fake,0,Water,506,de7f06e11407fd39bbf582c1763de791,False,0
+8c9a22f38230,fake/Water_Disaster_Dataset/Fake_Water_Disaster_Video (90).mp4,fake,0,Water,507,e5c8e02f0b01ba48266f280e0ecf2790,False,1
+b81ac1758127,fake/Water_Disaster_Dataset/Fake_Water_Disaster_Video (91).mp4,fake,0,Water,508,624379b63a1e951fb90dcc967d588c19,False,2
+3cca8ce2260b,fake/Water_Disaster_Dataset/Fake_Water_Disaster_Video (92).mp4,fake,0,Water,509,35f5c96f3e94c678534466a1c1170a7e,False,4
+be74a4823822,fake/Water_Disaster_Dataset/Fake_Water_Disaster_Video (93).mp4,fake,0,Water,510,0ab8381fc9e88e01044290370477f397,False,3
+033c69011278,fake/Water_Disaster_Dataset/Fake_Water_Disaster_Video (94).mp4,fake,0,Water,511,b1d0fc4259f70c9d30e3a3a21e42d443,False,0
+535804be983c,fake/Water_Disaster_Dataset/Fake_Water_Disaster_Video (95).mp4,fake,0,Water,512,dd5080c9571be27c5b3f76699fcb82c3,False,1
+17497bc459b4,fake/Water_Disaster_Dataset/Fake_Water_Disaster_Video (96).mp4,fake,0,Water,513,a48effcf527994d802e86da3368ea70d,False,2
+ea94085cf76b,fake/Water_Disaster_Dataset/Fake_Water_Disaster_Video (97).mp4,fake,0,Water,514,84e5df6360c225ee1892d244d8eeb2ae,False,3
+b341647bd853,fake/Water_Disaster_Dataset/Fake_Water_Disaster_Video (98).mp4,fake,0,Water,219,78e030d78fd0f561737267f485254b20,False,0
+705317c14dbc,fake/Water_Disaster_Dataset/Fake_Water_Disaster_Video (99).mp4,fake,0,Water,515,79e868e6c7f45cf831e8a5ad1c1657c2,False,4
+6b2454679e7c,fake/Wildfire_Video_Dataset/Fake_Earthquake_Video (33).mp4,fake,0,Wildfire,516,d4b2bafef50f328f0d0bb9b7a5fcb191,False,0
+15dee3a7ed3d,fake/Wildfire_Video_Dataset/Fake_Earthquake_Video (36).mp4,fake,0,Wildfire,517,62edc94bfef74513b774c30268898e81,False,3
+3f7ad87a801a,fake/Wildfire_Video_Dataset/Fake_Wildfire_Video (1).mp4,fake,0,Wildfire,518,67a133817455ea1bbbd2a84f66f1581e,False,1
+2fa9db804c92,fake/Wildfire_Video_Dataset/Fake_Wildfire_Video (10).mp4,fake,0,Wildfire,519,8b5c1484c804e4c60a07042aee6dfd96,False,2
+5da812cf8a45,fake/Wildfire_Video_Dataset/Fake_Wildfire_Video (11).mp4,fake,0,Wildfire,520,d43ce9aa8a62395674771c39e0ce35ee,False,4
+f7e11e06e594,fake/Wildfire_Video_Dataset/Fake_Wildfire_Video (12).mp4,fake,0,Wildfire,521,8cb131062cc7684002de048d5a2c0850,False,2
+c9d5f5ce4aa7,fake/Wildfire_Video_Dataset/Fake_Wildfire_Video (13).mp4,fake,0,Wildfire,522,e7c09ae47588d29b9b4df397ffd0a726,False,0
+d1b2ca51c7ae,fake/Wildfire_Video_Dataset/Fake_Wildfire_Video (14).mp4,fake,0,Wildfire,523,3ff70f46f03eae08ff68aa4404535049,False,4
+4b1344def3d9,fake/Wildfire_Video_Dataset/Fake_Wildfire_Video (15).mp4,fake,0,Wildfire,524,3e700040b2b5eb1347ac2aec4c50f393,False,1
+79474cbcd6e3,fake/Wildfire_Video_Dataset/Fake_Wildfire_Video (16).mp4,fake,0,Wildfire,525,5a3381979eabf2ed258b11d5f5cdac46,False,3
+3473373fd6d6,fake/Wildfire_Video_Dataset/Fake_Wildfire_Video (17).mp4,fake,0,Wildfire,526,b62fce6b0063238990d1c98fdb6a4e84,False,0
+e1da2a1979f7,fake/Wildfire_Video_Dataset/Fake_Wildfire_Video (18).mp4,fake,0,Wildfire,527,d7bc4d9bb30294128609c1c68121e27a,False,1
+e964167391c2,fake/Wildfire_Video_Dataset/Fake_Wildfire_Video (19).mp4,fake,0,Wildfire,528,84a218f91f4836941420f090ccb7c351,False,4
+37ca24b9eacd,fake/Wildfire_Video_Dataset/Fake_Wildfire_Video (2).mp4,fake,0,Wildfire,529,e4f000253d1a5b7d485aa6ebeeb2c4fa,False,2
+ebbc1e227726,fake/Wildfire_Video_Dataset/Fake_Wildfire_Video (20).mp4,fake,0,Wildfire,530,e6752162c6fb10d2f49d7a28a6a75f7b,False,3
+097ada69fb05,fake/Wildfire_Video_Dataset/Fake_Wildfire_Video (21).mp4,fake,0,Wildfire,531,2385e547a9c7044dfdb8f390b008a1fa,False,0
+b586272446da,fake/Wildfire_Video_Dataset/Fake_Wildfire_Video (22).mp4,fake,0,Wildfire,532,4dc7e966000bd4c6f93fb22bf0597b0e,False,3
+63ca00c8e456,fake/Wildfire_Video_Dataset/Fake_Wildfire_Video (23).mp4,fake,0,Wildfire,533,6a485aec3826018aeb6c442285aa956b,False,1
+107b25304930,fake/Wildfire_Video_Dataset/Fake_Wildfire_Video (24).mp4,fake,0,Wildfire,534,7564540b9c1270367f26364f9d031ca9,False,4
+8877b96e10ff,fake/Wildfire_Video_Dataset/Fake_Wildfire_Video (25).mp4,fake,0,Wildfire,535,b095b116161b6406b10b3b8f56f99567,False,2
+fe35c59dace4,fake/Wildfire_Video_Dataset/Fake_Wildfire_Video (26).mp4,fake,0,Wildfire,536,e23cd3265655c5a1d4acffd6723e576b,False,4
+adad91f35e3b,fake/Wildfire_Video_Dataset/Fake_Wildfire_Video (27).mp4,fake,0,Wildfire,537,31c9205b81db1adc050e1e0ac9bea908,False,4
+62d82522e0c1,fake/Wildfire_Video_Dataset/Fake_Wildfire_Video (28).mp4,fake,0,Wildfire,538,feecc0c095cda4c9379e4a309a6253ac,False,2
+fc1a8529f651,fake/Wildfire_Video_Dataset/Fake_Wildfire_Video (29).mp4,fake,0,Wildfire,539,d4b54baa254f5100e347980a8182cf9b,False,0
+d8758854b09e,fake/Wildfire_Video_Dataset/Fake_Wildfire_Video (3).mp4,fake,0,Wildfire,540,35b560f6e6acb9d4df7511bf73f9fcc0,False,1
+427cebd5022d,fake/Wildfire_Video_Dataset/Fake_Wildfire_Video (30).mp4,fake,0,Wildfire,541,6e7d034faf30576597f29902446ff859,False,3
+580c29a44d88,fake/Wildfire_Video_Dataset/Fake_Wildfire_Video (31).mp4,fake,0,Wildfire,542,4c549e8a19d8af908bd021d39af946e1,False,1
+6c34e56e4da5,fake/Wildfire_Video_Dataset/Fake_Wildfire_Video (32).mp4,fake,0,Wildfire,543,b6cfb0ed3bddc6e9c13a162dcd6f8f44,False,2
+2fd62a00cb98,fake/Wildfire_Video_Dataset/Fake_Wildfire_Video (33).mp4,fake,0,Wildfire,544,8986956400c55f6fe3158e76106545df,False,2
+f44b729346b4,fake/Wildfire_Video_Dataset/Fake_Wildfire_Video (34).mp4,fake,0,Wildfire,545,6c37bdfb252b95a46948cf136a30aa63,False,0
+fe3d6d7dc9da,fake/Wildfire_Video_Dataset/Fake_Wildfire_Video (35).mp4,fake,0,Wildfire,542,449f75c4a4b57bd5ed14cb4db5c9c6eb,False,1
+521c4af37485,fake/Wildfire_Video_Dataset/Fake_Wildfire_Video (36).mp4,fake,0,Wildfire,545,700c951f0c8d6ce167db5f516aa94239,False,0
+3e365f02206b,fake/Wildfire_Video_Dataset/Fake_Wildfire_Video (37).mp4,fake,0,Wildfire,546,e88d1b79d9552f421e08b092b4520567,False,3
+dc8e797be843,fake/Wildfire_Video_Dataset/Fake_Wildfire_Video (38).mp4,fake,0,Wildfire,547,d748ef03619aa8b700008ef123dea9fc,False,4
+cfbbd32ff0ed,fake/Wildfire_Video_Dataset/Fake_Wildfire_Video (39).mp4,fake,0,Wildfire,548,11c5e027c474178ae58fcad86a62e81a,False,0
+7492735ef854,fake/Wildfire_Video_Dataset/Fake_Wildfire_Video (4).mp4,fake,0,Wildfire,545,af96cc62c644ab5db415e4c2af24bc60,False,0
+7a13f8a81d69,fake/Wildfire_Video_Dataset/Fake_Wildfire_Video (40).mp4,fake,0,Wildfire,546,4fbc4dc76c59196dbf0708eeacb967ac,False,3
+7f4a2ad93b6c,fake/Wildfire_Video_Dataset/Fake_Wildfire_Video (41).mp4,fake,0,Wildfire,549,6e3e733d1d6d52a804809ec4b5262a1c,False,1
+ac7dc2c11218,fake/Wildfire_Video_Dataset/Fake_Wildfire_Video (42).mp4,fake,0,Wildfire,550,913fe96ec44d25bc9ca2f65c13180513,False,2
+99218341dbbb,fake/Wildfire_Video_Dataset/Fake_Wildfire_Video (43).mp4,fake,0,Wildfire,551,99200330fde423466bb3dabf95fe29f4,False,4
+36b3762f1a9c,fake/Wildfire_Video_Dataset/Fake_Wildfire_Video (44).mp4,fake,0,Wildfire,552,1eba13d0d51ff0e0db14f8fc2baec254,False,3
+1c53538b57fe,fake/Wildfire_Video_Dataset/Fake_Wildfire_Video (45).mp4,fake,0,Wildfire,553,2e3e5ca3cac7b1085fdee67ec6e36fcb,False,0
+f17608ad2779,fake/Wildfire_Video_Dataset/Fake_Wildfire_Video (46).mp4,fake,0,Wildfire,554,89b0d4413126072ce154d4c5bcd79189,False,1
+6bb2847bc183,fake/Wildfire_Video_Dataset/Fake_Wildfire_Video (47).mp4,fake,0,Wildfire,555,2aa860e7aa943699fb03b27d8fd63dec,False,1
+10a6747f005d,fake/Wildfire_Video_Dataset/Fake_Wildfire_Video (48).mp4,fake,0,Wildfire,556,951294bc1c2f90a460a5ea6aac38fb75,False,2
+c6b72b1019de,fake/Wildfire_Video_Dataset/Fake_Wildfire_Video (49).mp4,fake,0,Wildfire,557,5ba54d4e85ce2d1249cb5aacf8f3436f,False,3
+224bb33dda88,fake/Wildfire_Video_Dataset/Fake_Wildfire_Video (5).mp4,fake,0,Wildfire,558,dc689749c37ed5804dedf1863f86a0c8,False,4
+d389cc06868b,fake/Wildfire_Video_Dataset/Fake_Wildfire_Video (50).mp4,fake,0,Wildfire,559,860d3ed349090be57c1c68a6a2da9e50,False,0
+9eef153ecab3,fake/Wildfire_Video_Dataset/Fake_Wildfire_Video (51).mp4,fake,0,Wildfire,560,a00f8dd898d77314cd1726a853a21b25,False,2
+a5c3765eb8de,fake/Wildfire_Video_Dataset/Fake_Wildfire_Video (52).mp4,fake,0,Wildfire,561,d2368de57cbc7dcc4183f39e52337f1c,False,1
+06bcf952eff1,fake/Wildfire_Video_Dataset/Fake_Wildfire_Video (53).mp4,fake,0,Wildfire,562,37d62a38929c4432e452b79c16703cf9,False,4
+f991ec6ef398,fake/Wildfire_Video_Dataset/Fake_Wildfire_Video (54).mp4,fake,0,Wildfire,563,25e6391200290b4cb1fd899db5c64147,False,3
+d443eb9bc7bb,fake/Wildfire_Video_Dataset/Fake_Wildfire_Video (55).mp4,fake,0,Wildfire,564,95da84c12d25a7313b7a269cec11e554,False,3
+3fba82a92c10,fake/Wildfire_Video_Dataset/Fake_Wildfire_Video (56).mp4,fake,0,Wildfire,562,7155f02309fd6916ee2cecea361f68cb,False,4
+0d89cbbfb5a2,fake/Wildfire_Video_Dataset/Fake_Wildfire_Video (57).mp4,fake,0,Wildfire,565,31e8f933a18485937fb5fab3ec198a01,False,0
+18c106afcb22,fake/Wildfire_Video_Dataset/Fake_Wildfire_Video (58).mp4,fake,0,Wildfire,566,11f7b7ab2506375d964fc13d63fdac10,False,1
+c7b1339c33a7,fake/Wildfire_Video_Dataset/Fake_Wildfire_Video (59).mp4,fake,0,Wildfire,567,1bf10a71d1b1b69d6985b43466a3d197,False,2
+3c97a0fb5abb,fake/Wildfire_Video_Dataset/Fake_Wildfire_Video (6).mp4,fake,0,Wildfire,568,a38b5be2587bec607f4cad8694bfd154,False,1
+6283e273a91f,fake/Wildfire_Video_Dataset/Fake_Wildfire_Video (60).mp4,fake,0,Wildfire,569,254547dbc63913ffc8c6ed02c2ac1809,False,4
+0e5529c01cdd,fake/Wildfire_Video_Dataset/Fake_Wildfire_Video (61).mp4,fake,0,Wildfire,570,cb2646aae0400088091434013302ea6c,False,2
+fa510386762f,fake/Wildfire_Video_Dataset/Fake_Wildfire_Video (62).mp4,fake,0,Wildfire,571,10e105bafc5c08736f13349e7764d136,False,0
+7b5eca49a855,fake/Wildfire_Video_Dataset/Fake_Wildfire_Video (63).mp4,fake,0,Wildfire,572,b2ef2620e16d50a641e080637d8d866c,False,3
+9fa296caecbd,fake/Wildfire_Video_Dataset/Fake_Wildfire_Video (64).mp4,fake,0,Wildfire,520,58b7b38db6cbbb0dcccb448aa6a03993,False,4
+d1587a8041f5,fake/Wildfire_Video_Dataset/Fake_Wildfire_Video (65).mp4,fake,0,Wildfire,573,5dbdfaed5823d14b6d6e9ce9cdba4707,False,1
+ccb596c1ceb0,fake/Wildfire_Video_Dataset/Fake_Wildfire_Video (66).mp4,fake,0,Wildfire,574,4daee9918055b4319cc5b59430a2803f,False,4
+729ca3cfbd88,fake/Wildfire_Video_Dataset/Fake_Wildfire_Video (7).mp4,fake,0,Wildfire,575,607926295bb06e819ce13174c7ab6d67,False,0
+b0f1105daed8,fake/Wildfire_Video_Dataset/Fake_Wildfire_Video (8).mp4,fake,0,Wildfire,535,1faf85da9f6ad223a8f625583887400a,False,2
+5144527e6d54,fake/Wildfire_Video_Dataset/Fake_Wildfire_Video (9).mp4,fake,0,Wildfire,576,b6e67fd0a08d8768a992f90c676dae8b,False,1
+009fe3996227,real/Avalanche_Video_Dataset/Avalanche__001.mp4,real,1,Avalanche,577,ad26a8b0099728a7774a8913225436ec,False,2
+a01911cb35fc,real/Avalanche_Video_Dataset/Avalanche__002.mp4,real,1,Avalanche,578,53d53ed2f640f0d17cd7f6e9aadc1161,False,3
+16f02fa2afef,real/Avalanche_Video_Dataset/Avalanche__003.mp4,real,1,Avalanche,579,d5ef52cf194b2f13ad0b3e000b5b6b48,False,4
+4571c4a610ac,real/Avalanche_Video_Dataset/Avalanche__004.mp4,real,1,Avalanche,580,22b1d15d7d97c0cd37a4e67b63aafbf7,False,4
+181236be4dc1,real/Avalanche_Video_Dataset/Avalanche__005.mp4,real,1,Avalanche,581,0e3fab69a0121a2c06e1fc1247e41b4f,False,0
+ca051dcdcdb0,real/Avalanche_Video_Dataset/Avalanche__006.mp4,real,1,Avalanche,582,bd836516f75627b8c51dc659635d9660,False,1
+8614497d2e9e,real/Avalanche_Video_Dataset/Avalanche__007.mp4,real,1,Avalanche,583,72333ababea8791a9172dab21f64dc9e,False,2
+1591a7a56e18,real/Avalanche_Video_Dataset/Avalanche__008.mp4,real,1,Avalanche,584,832bfe97c9fabe004e7ab0dec7379264,False,3
+7401c252cee7,real/Avalanche_Video_Dataset/Avalanche__009.mp4,real,1,Avalanche,585,532d38a8d38dafefa711a054371ace12,False,0
+94e69baf6aa9,real/Avalanche_Video_Dataset/Avalanche__010.mp4,real,1,Avalanche,586,56db8f786b7080a3271c27d65d4f066b,False,2
+daf8f36e44ba,real/Avalanche_Video_Dataset/Avalanche__011.mp4,real,1,Avalanche,587,5695fbc839a8ce969afa51e6508b371f,False,1
+ddd1529eb6ea,real/Avalanche_Video_Dataset/Avalanche__012.mp4,real,1,Avalanche,587,6fa89ae4f930be2f7e1fd0ddcf4a5485,False,1
+afa4c2fd92c4,real/Avalanche_Video_Dataset/Avalanche__013.mp4,real,1,Avalanche,587,f941a38cb4c385b1037dac12ff367a76,False,1
+ae65af37b545,real/Avalanche_Video_Dataset/Avalanche__014.mp4,real,1,Avalanche,587,142701fa6adf9ea65ffe1a6076cb8d1d,False,1
+1ab32881acb4,real/Avalanche_Video_Dataset/Avalanche__015.mp4,real,1,Avalanche,587,cbb4100b96050b5ee90156d49a2ef515,False,1
+986db9e81461,real/Avalanche_Video_Dataset/Avalanche__016.mp4,real,1,Avalanche,588,f141abc551f0b9ed485c07276a6dad06,False,4
+14aaac0635d9,real/Avalanche_Video_Dataset/Avalanche__017.mp4,real,1,Avalanche,589,2340ffd93708854c795c9ed1bbbb7be8,False,3
+70d18b8cd3ca,real/Avalanche_Video_Dataset/Avalanche__018.mp4,real,1,Avalanche,590,15274cd5a9fb7eabad931682704e56fe,False,0
+6a50c1a45a09,real/Avalanche_Video_Dataset/Avalanche__019.mp4,real,1,Avalanche,590,1d22cf3fd184c60fb07dc55a6f573e2a,False,0
+ba0d112582ac,real/Avalanche_Video_Dataset/Avalanche__020.mp4,real,1,Avalanche,591,14f46b71fc2c766ed55d15f025eaa007,False,1
+a294a4ab04f3,real/Avalanche_Video_Dataset/Avalanche__021.mp4,real,1,Avalanche,592,9c639ac5f26053d2903a9383a1aa930c,False,1
+7a1693768335,real/Avalanche_Video_Dataset/Avalanche__022.mp4,real,1,Avalanche,593,6d813040520e7305dc077ef7618ecf56,False,2
+1f00a76dbef1,real/Avalanche_Video_Dataset/Avalanche__023.mp4,real,1,Avalanche,590,8db7a025ed5d234b2b6320e520221873,False,0
+633add51f2fd,real/Avalanche_Video_Dataset/Avalanche__024.mp4,real,1,Avalanche,594,856c98ee9184e680c85e9b294ebfc10d,False,4
+00774bcc64d9,real/Avalanche_Video_Dataset/Avalanche__025.mp4,real,1,Avalanche,595,51cdfc6dc921610ac4e27aea3a741535,False,3
+8c55030e3d68,real/Avalanche_Video_Dataset/Avalanche__026.mp4,real,1,Avalanche,596,8cedfa5d291cb8ef37b1e392f9abfd76,False,1
+c2ffe5599c38,real/Avalanche_Video_Dataset/Avalanche__027.mp4,real,1,Avalanche,597,a3ec08e1013838668d7338fa6534f9ff,False,0
+b87734c0abad,real/Avalanche_Video_Dataset/Avalanche__028.mp4,real,1,Avalanche,598,2e1850bf4efa230f7fa36f1f7fa459de,False,2
+c6de57e1f37d,real/Avalanche_Video_Dataset/Avalanche__029.mp4,real,1,Avalanche,599,e7e29579d31c7ce479a1230f8e07ad90,False,3
+961c6f0f19a9,real/Avalanche_Video_Dataset/Avalanche__030.mp4,real,1,Avalanche,600,cdb537668c393b2f14aff515ee6d6e68,False,3
+bbbb445a7107,real/Avalanche_Video_Dataset/Avalanche__031.mp4,real,1,Avalanche,601,17ec7c4fe92930f8ab169a6bbf8369cb,False,4
+58e00511d10b,real/Avalanche_Video_Dataset/Avalanche__032.mp4,real,1,Avalanche,602,afd22faabe82039b675f0899c22d5fb6,False,2
+efd49c167eab,real/Avalanche_Video_Dataset/Avalanche__033.mp4,real,1,Avalanche,603,351a9998e7facb7139e9ab5c7a6eca0e,False,4
+aae97722bb93,real/Avalanche_Video_Dataset/Avalanche__034.mp4,real,1,Avalanche,604,569c94a7a19f7b4d69267e24fed965db,False,0
+3e304db5b12c,real/Avalanche_Video_Dataset/Avalanche__035.mp4,real,1,Avalanche,605,eff421acc12c8369f803b68aa0002379,False,3
+0e384058cf49,real/Avalanche_Video_Dataset/Avalanche__036.mp4,real,1,Avalanche,606,f848cc3f3378d0c6eb038be0476aa7a7,False,1
+2e14696a3fc8,real/Avalanche_Video_Dataset/Avalanche__037.mp4,real,1,Avalanche,606,ee0fb52f57b50e1e5c871dd3c79cca5d,False,1
+abdeca723436,real/Avalanche_Video_Dataset/Avalanche__038.mp4,real,1,Avalanche,607,606b5452f8b34422e622e16a3cd366bb,False,0
+ac2333dca530,real/Avalanche_Video_Dataset/Avalanche__039.mp4,real,1,Avalanche,608,35e86d9f228d92a33207e0da8765005f,False,1
+708309775b8e,real/Avalanche_Video_Dataset/Avalanche__040.mp4,real,1,Avalanche,609,d4d9e7698754c73fd4684a2fce26a2b2,False,2
+8bf358dcb3af,real/Avalanche_Video_Dataset/Avalanche__041.mp4,real,1,Avalanche,610,35d948f6b61faab9d15ac6c12f2d2e92,False,3
+b45e634916b1,real/Avalanche_Video_Dataset/Avalanche__042.mp4,real,1,Avalanche,611,4f5988ec759ef1db0345dbbed0599b04,False,3
+57ba72108304,real/Avalanche_Video_Dataset/Avalanche__043.mp4,real,1,Avalanche,612,cae91ea4cab335511ea3ac84790db2ee,False,2
+eb750eba1512,real/Avalanche_Video_Dataset/Avalanche__044.mp4,real,1,Avalanche,613,580e1036dc3fc598551b44af54a991ac,False,4
+b30c85459ea9,real/Avalanche_Video_Dataset/Avalanche__045.mp4,real,1,Avalanche,613,47fee0414747230b84696fb63f009ea6,False,4
+15d38eba2bd3,real/Avalanche_Video_Dataset/Avalanche__046.mp4,real,1,Avalanche,614,99c8dbfa8f48fbeb4bfe09cbe2a66d7c,False,0
+1b2409249283,real/Avalanche_Video_Dataset/Avalanche__047.mp4,real,1,Avalanche,615,18168cb4229cfa0d737763f290ea041b,False,0
+a7563dd8a8a7,real/Avalanche_Video_Dataset/Avalanche__048.mp4,real,1,Avalanche,616,95deb903c14702e626f4613958fc6d0b,False,1
+5a0a844acded,real/Avalanche_Video_Dataset/Avalanche__049.mp4,real,1,Avalanche,617,31b19b3a5bf28d6d619df2fd76c5ea28,False,2
+94842b771318,real/Avalanche_Video_Dataset/Avalanche__050.mp4,real,1,Avalanche,618,c6f0d7165bf85f56f926dd1a0cfdf6ca,False,3
+ab8770e1d083,real/Avalanche_Video_Dataset/Avalanche__051.mp4,real,1,Avalanche,618,0f676fea7276bc7b2e9c054b8d6a06dc,False,3
+a12fc52f300e,real/Avalanche_Video_Dataset/Avalanche__052.mp4,real,1,Avalanche,619,738b9adfc6e85ee55e24ab897165fbe7,False,4
+7b6f60d3169b,real/Avalanche_Video_Dataset/Avalanche__053.mp4,real,1,Avalanche,620,7f0ea683a2dca32b42fbd797c180c865,False,0
+a5e8937cdf2d,real/Avalanche_Video_Dataset/Avalanche__054.mp4,real,1,Avalanche,621,cd51f0d89e2fb433e5385447b688f2d1,False,1
+6b2fdfbfb462,real/Avalanche_Video_Dataset/Avalanche__055.mp4,real,1,Avalanche,622,84d3644e3460a7868aaa29c84a137955,False,4
+cbe05bbb3813,real/Avalanche_Video_Dataset/Avalanche__056.mp4,real,1,Avalanche,623,79aba3297b5b5db39d7293190b20fb56,False,0
+46d1ffde08c1,real/Avalanche_Video_Dataset/Avalanche__057.mp4,real,1,Avalanche,621,078cafdb8dab495d04bde2d96dc857cd,False,1
+7820f5400d77,real/Avalanche_Video_Dataset/Avalanche__058.mp4,real,1,Avalanche,624,d6fb882aa17148b08617e267888123e9,False,2
+3f0765c4101d,real/Avalanche_Video_Dataset/Avalanche__059.mp4,real,1,Avalanche,625,f17775555d181ef594314229ab7bf6ed,False,3
+0ec15971661a,real/Avalanche_Video_Dataset/Avalanche__060.mp4,real,1,Avalanche,625,6f593bc6a0f85788e459b47b8805a54a,False,3
+42c92c669813,real/Avalanche_Video_Dataset/Avalanche__061.mp4,real,1,Avalanche,626,a1468f30092e735771e2fb2f3ac93710,False,2
+c220d8dd1b26,real/Avalanche_Video_Dataset/Avalanche__062.mp4,real,1,Avalanche,627,04670f04ca6392eabafb9ec5b08fa981,False,0
+f8be666cea24,real/Avalanche_Video_Dataset/Avalanche__063.mp4,real,1,Avalanche,628,b2f71b443fdfc0ee14132cc7d3f3f75f,False,1
+30e2e59f5278,real/Avalanche_Video_Dataset/Avalanche__064.mp4,real,1,Avalanche,629,aaf7ac800d628141441f76bc18643bd5,False,3
+eb67db0c00f6,real/Avalanche_Video_Dataset/Avalanche__065.mp4,real,1,Avalanche,615,ceb521fd8bb22fd6b6d0b24d791c449f,False,0
+af6987484b5b,real/Avalanche_Video_Dataset/Avalanche__066.mp4,real,1,Avalanche,630,3173862f31a4b8934c6021b9ba4c68d9,False,4
+4e845b283ff1,real/Avalanche_Video_Dataset/Avalanche__067.mp4,real,1,Avalanche,631,ecf1eb94fd0238fcdeed838a2ee43a5f,False,4
+da60bc547383,real/Avalanche_Video_Dataset/Avalanche__068.mp4,real,1,Avalanche,632,ef29aed09810b7c5fa34c0fd72628e2f,False,0
+c72eee4bb17e,real/Avalanche_Video_Dataset/Avalanche__069.mp4,real,1,Avalanche,633,312b465a95c51107f723f38e25ad670d,False,1
+dd06d1199cfd,real/Avalanche_Video_Dataset/Avalanche__070.mp4,real,1,Avalanche,621,d11eaa56d9b58006a048ca744ac666e1,False,1
+d04544794383,real/Avalanche_Video_Dataset/Avalanche__071.mp4,real,1,Avalanche,634,90b2e14a4ab7786ff3a970546c4a7631,False,1
+059083348f26,real/Avalanche_Video_Dataset/Avalanche__072.mp4,real,1,Avalanche,635,3092e856cdc7bafd8c92a7b923365548,False,2
+c45ac3636094,real/Avalanche_Video_Dataset/Avalanche__073.mp4,real,1,Avalanche,636,7719dfbf357d60e0846c3222501fdaf2,False,3
+c630d7283cab,real/Avalanche_Video_Dataset/Avalanche__074.mp4,real,1,Avalanche,615,6ce1cfb13077527a9302556048c9309d,False,0
+f7e68d9fe69a,real/Avalanche_Video_Dataset/Avalanche__075.mp4,real,1,Avalanche,637,b1b99e3bc1c9677d3ee78de101acd5ec,False,0
+121afb5bbce7,real/Avalanche_Video_Dataset/Avalanche__076.mp4,real,1,Avalanche,638,101a748ebde0aed74993fb0d61bd6996,False,2
+e79bd477f27f,real/Avalanche_Video_Dataset/Avalanche__078.mp4,real,1,Avalanche,639,763b7d718fe9f513faf2bf0caccfbc57,False,3
+5d2c05b25020,real/Avalanche_Video_Dataset/Avalanche__079.mp4,real,1,Avalanche,640,fcd27dcae0f856f1d0c5a108b6aa0a3d,False,1
+2a15fe806e4c,real/Avalanche_Video_Dataset/Avalanche__080.mp4,real,1,Avalanche,641,bc772587212231bb872363aff5004022,False,4
+819fdbecfb36,real/Avalanche_Video_Dataset/Avalanche__081.mp4,real,1,Avalanche,640,584f8dce9ea645699f7aecd76c1774ed,False,1
+97576aea1474,real/Avalanche_Video_Dataset/Avalanche__082.mp4,real,1,Avalanche,642,bb86f3855ad914ec27c9caf455e40640,False,1
+f0320f505427,real/Avalanche_Video_Dataset/Avalanche__083.mp4,real,1,Avalanche,643,afad6bcce4c549a03851db02e7ab2310,False,0
+a326786faca7,real/Avalanche_Video_Dataset/Avalanche__084.mp4,real,1,Avalanche,643,e23e15fcabbeea2f740a82f80a91bd11,False,0
+4edc633dab94,real/Avalanche_Video_Dataset/Avalanche__085.mp4,real,1,Avalanche,644,0251ff768d21ea09f4e723303a751be6,False,2
+f0efc40e7a6b,real/Avalanche_Video_Dataset/Avalanche__086.mp4,real,1,Avalanche,645,35ba552818546c0ef6050595b82c27e7,False,4
+9be05b312fb6,real/Avalanche_Video_Dataset/Avalanche__087.mp4,real,1,Avalanche,646,85b8e190b2b1d8f9bf65b14613ad30cc,False,3
+8f8a5401aa57,real/Avalanche_Video_Dataset/Avalanche__088.mp4,real,1,Avalanche,646,5934046b0938f02b9e157b0bc3285928,False,3
+a5c5d30a0f1d,real/Avalanche_Video_Dataset/Avalanche__089.mp4,real,1,Avalanche,647,5f89f77e9503d93c47869ca6b5769a27,False,1
+d90071709bbe,real/Avalanche_Video_Dataset/Avalanche__090.mp4,real,1,Avalanche,648,b7d7337208b0c599f06e19e73eb68b1d,False,3
+40db2f945e11,real/Avalanche_Video_Dataset/Avalanche__091.mp4,real,1,Avalanche,649,353001309c7af8c9d88a0a39487055bb,False,0
+513d606c41bf,real/Avalanche_Video_Dataset/Avalanche__092.mp4,real,1,Avalanche,650,781d33e7aceb847478bb452d15332381,False,1
+01ab81a302a3,real/Avalanche_Video_Dataset/Avalanche__093.mp4,real,1,Avalanche,651,ea87f2ea18094324fec4743da20e01be,False,4
+27589e418f85,real/Avalanche_Video_Dataset/Avalanche__094.mp4,real,1,Avalanche,651,af6381c253328a0c2b5832962b772980,False,4
+d29e393dde96,real/Avalanche_Video_Dataset/Avalanche__095.mp4,real,1,Avalanche,652,9d9fee8ad3b2529a194ee801a5053d51,False,2
+759dd24ee767,real/Earthquake_Video_Dataset/Earthquake (1).mp4,real,1,Earthquake,653,c78ffbcd0794ccf3e390fcb0c5d9b72b,False,0
+c4acfa807142,real/Earthquake_Video_Dataset/Earthquake (10).mp4,real,1,Earthquake,654,7660115096b3c5dd3d13da693ca58c12,False,2
+0160b30baa97,real/Earthquake_Video_Dataset/Earthquake (11).mp4,real,1,Earthquake,655,75c6d28a7ba8db38d352f5e18fc19860,False,1
+09e4601109ac,real/Earthquake_Video_Dataset/Earthquake (12).mp4,real,1,Earthquake,656,23b489c971bae3b8612eac591b0cfdd0,False,3
+c9f0b11b4cd5,real/Earthquake_Video_Dataset/Earthquake (13).mp4,real,1,Earthquake,656,b1f6a547317b8a7484afab16accd9e3c,False,3
+f5cf76f8315e,real/Earthquake_Video_Dataset/Earthquake (14).mp4,real,1,Earthquake,657,982d903abdafdbca5d6e5b9fdeacc670,False,4
+66acb567e430,real/Earthquake_Video_Dataset/Earthquake (15).mp4,real,1,Earthquake,658,68dccfbe0f499a1e15f9405c7844c129,False,0
+b94d6ab1e086,real/Earthquake_Video_Dataset/Earthquake (16).mp4,real,1,Earthquake,659,25e2bb89e29718e6be2a022601e6581a,False,1
+d50df185c184,real/Earthquake_Video_Dataset/Earthquake (17).mp4,real,1,Earthquake,660,7017d61126e072e9d3405adc1693605a,False,2
+eafacdb2f954,real/Earthquake_Video_Dataset/Earthquake (18).mp4,real,1,Earthquake,661,c917e5045c4cf28d60f6e420d50daa1a,False,3
+535313a66b44,real/Earthquake_Video_Dataset/Earthquake (19).mp4,real,1,Earthquake,662,c2acdd9e93988c860542b7bccb43c27b,False,4
+cbe52157e53e,real/Earthquake_Video_Dataset/Earthquake (2).mp4,real,1,Earthquake,663,973bcd8d76724b296fd859c2e5b25d64,False,2
+a9b310168a35,real/Earthquake_Video_Dataset/Earthquake (20).mp4,real,1,Earthquake,664,adeb186ea32230c05efafaada6624dfe,False,0
+c3d4d67de109,real/Earthquake_Video_Dataset/Earthquake (21).mp4,real,1,Earthquake,665,5f0de2213d2fb5b26e7e40539955e843,False,3
+4754e0f33a0b,real/Earthquake_Video_Dataset/Earthquake (22).mp4,real,1,Earthquake,666,f35e598dcef21168b71a07a3f382312e,False,1
+f62dffe4609b,real/Earthquake_Video_Dataset/Earthquake (23).mp4,real,1,Earthquake,667,53e205809d000ed0b7d2a8608d2d20e6,False,3
+22f5aba04bd5,real/Earthquake_Video_Dataset/Earthquake (24).mp4,real,1,Earthquake,668,a3cb4ae8f0368b66ac9c38c260df5ef5,False,4
+6253365a1374,real/Earthquake_Video_Dataset/Earthquake (25).mp4,real,1,Earthquake,669,72ba102c42d53279d9897dd58d837fc7,False,4
+9f175d23dad0,real/Earthquake_Video_Dataset/Earthquake (26).mp4,real,1,Earthquake,670,7acf175f8a54030cdbddb32862a1b04f,False,0
+b0ed823a858e,real/Earthquake_Video_Dataset/Earthquake (27).mp4,real,1,Earthquake,671,e6bc81da8d1c6bce378fa427f58e7991,False,1
+aeeb81774651,real/Earthquake_Video_Dataset/Earthquake (28).mp4,real,1,Earthquake,672,382630f3b0ebe06a60cd8816c7a6d340,False,2
+21eeac1fb601,real/Earthquake_Video_Dataset/Earthquake (29).mp4,real,1,Earthquake,673,f6e1a18dccd78cd7c6e500f6ad62c9b2,False,3
+fc838254e85a,real/Earthquake_Video_Dataset/Earthquake (3).mp4,real,1,Earthquake,674,2f105265545a1bcace23e351cc4dfaff,False,2
+3c853bfc68bb,real/Earthquake_Video_Dataset/Earthquake (30).mp4,real,1,Earthquake,675,94dd976d389275a855e40c73aea8479a,False,3
+97bcffd511de,real/Earthquake_Video_Dataset/Earthquake (31).mp4,real,1,Earthquake,676,85fba840b9543866b8b58815f57dd092,False,4
+d6f33f4e299a,real/Earthquake_Video_Dataset/Earthquake (32).mp4,real,1,Earthquake,677,1013b3fe83a255a136ff3308310d544e,False,0
+2176cbfde174,real/Earthquake_Video_Dataset/Earthquake (33).mp4,real,1,Earthquake,678,1a181052187948e981325de0ecc3ae00,False,1
+e116987c886b,real/Earthquake_Video_Dataset/Earthquake (34).mp4,real,1,Earthquake,679,e032b7e2487f68d2ef7561074d68c516,False,0
+70333d2291bf,real/Earthquake_Video_Dataset/Earthquake (35).mp4,real,1,Earthquake,680,bc6a1ffc907e67f291eac449f8e93510,False,1
+1d4807feeafd,real/Earthquake_Video_Dataset/Earthquake (36).mp4,real,1,Earthquake,681,65c0599402588548e3752435c0a54cab,False,2
+fd317d942910,real/Earthquake_Video_Dataset/Earthquake (37).mp4,real,1,Earthquake,682,995c67cdb8c664fbd78c7e18f32643f5,False,3
+c8be8d561a63,real/Earthquake_Video_Dataset/Earthquake (38).mp4,real,1,Earthquake,683,fa8903549f36b9e819a2f79b05262e3e,False,4
+1f6c10e70d19,real/Earthquake_Video_Dataset/Earthquake (39).mp4,real,1,Earthquake,684,a79221528cff23e816e5a4e68a3b3356,False,0
+fb4dc4934095,real/Earthquake_Video_Dataset/Earthquake (4).mp4,real,1,Earthquake,674,6d292d6a70f931738c144de16ee7657b,False,2
+f2983a0cc6db,real/Earthquake_Video_Dataset/Earthquake (40).mp4,real,1,Earthquake,685,9809ffa67ce02b82378abf2ee1144b24,False,1
+c2fbb7f4983e,real/Earthquake_Video_Dataset/Earthquake (41).mp4,real,1,Earthquake,686,a34613e6079da955a775651e7c342b18,False,2
+ccedaa7ce868,real/Earthquake_Video_Dataset/Earthquake (42).mp4,real,1,Earthquake,687,11570dc2a511e8a3a5afb69df2262930,False,3
+367622cda164,real/Earthquake_Video_Dataset/Earthquake (44).mp4,real,1,Earthquake,688,85c4e13e78c53cf981bab291218f308d,False,4
+45f41523fb85,real/Earthquake_Video_Dataset/Earthquake (45).mp4,real,1,Earthquake,689,7555f5f957376a0484d1f2eb762b0565,False,0
+0b6347b2449e,real/Earthquake_Video_Dataset/Earthquake (46).mp4,real,1,Earthquake,690,0f6c4154542ec1950f4a16fa1df09a0a,False,3
+47081a4827a4,real/Earthquake_Video_Dataset/Earthquake (47).mp4,real,1,Earthquake,691,d56904c382bc2de5809f86a1214772ca,False,1
+246b4c0e76a4,real/Earthquake_Video_Dataset/Earthquake (48).mp4,real,1,Earthquake,692,d686ca0f66027646a2a483ebf4011f72,False,2
+641a852e76fc,real/Earthquake_Video_Dataset/Earthquake (49).mp4,real,1,Earthquake,693,b6f7d5d45124395f834f938bbc051482,False,4
+ec629c17067a,real/Earthquake_Video_Dataset/Earthquake (5).mp4,real,1,Earthquake,694,9a5302f35b1a2dda742359f36036bdff,False,0
+c0086f524096,real/Earthquake_Video_Dataset/Earthquake (50).mp4,real,1,Earthquake,693,6c8ec3426e52c2b0c10becc5d23df747,False,4
+26267f07b4f2,real/Earthquake_Video_Dataset/Earthquake (51).mp4,real,1,Earthquake,695,d9308098feb7c5e6b4ce7a67a129e61c,False,1
+221bfb645ceb,real/Earthquake_Video_Dataset/Earthquake (52).mp4,real,1,Earthquake,696,68bfc04b98493a9ca22521ee6cd7a2e9,False,2
+8dcdab4eeed1,real/Earthquake_Video_Dataset/Earthquake (53).mp4,real,1,Earthquake,697,fdd0987fa8918b1acb46b377467a45d2,False,3
+275d9ed5541d,real/Earthquake_Video_Dataset/Earthquake (54).mp4,real,1,Earthquake,698,bf6292aad2dbfdbbfc2f59c599afcb5d,False,4
+52b87b0934eb,real/Earthquake_Video_Dataset/Earthquake (55).mp4,real,1,Earthquake,699,ee3801e2e075cef7233350db852eb034,False,2
+f548efdb824c,real/Earthquake_Video_Dataset/Earthquake (56).mp4,real,1,Earthquake,700,6af77d9ea35606f302f938ce4266e9c8,False,0
+49c88011bcd1,real/Earthquake_Video_Dataset/Earthquake (57).mp4,real,1,Earthquake,701,eed124cd6eac363a6a4b0eee7349517d,False,1
+5e27b61b69a6,real/Earthquake_Video_Dataset/Earthquake (58).mp4,real,1,Earthquake,702,7515d9038e3fbfd007da6a68ee7c5329,False,3
+747a1d862682,real/Earthquake_Video_Dataset/Earthquake (59).mp4,real,1,Earthquake,703,9e9e5ba42e5957f6c5d3e74b78a60f2a,False,4
+5c076992d8d3,real/Earthquake_Video_Dataset/Earthquake (6).mp4,real,1,Earthquake,694,f57c8a5beb561dea8c39d0b330924c99,False,0
+fc6e5292c234,real/Earthquake_Video_Dataset/Earthquake (60).mp4,real,1,Earthquake,704,99e08ff5fdbd4a03e4664566a395fe18,False,2
+913e935404a5,real/Earthquake_Video_Dataset/Earthquake (61).mp4,real,1,Earthquake,705,e7d5162f3be6d97cd4bfa4e1faafac9a,False,0
+75b14fe112db,real/Earthquake_Video_Dataset/Earthquake (62).mp4,real,1,Earthquake,706,153eeb592f101770a5de0b9bc74f3cfc,False,4
+585bb0a03b94,real/Earthquake_Video_Dataset/Earthquake (63).mp4,real,1,Earthquake,707,9cf2a29bf9bff4c0b8b0042fbc46a58c,False,4
+0b4ab09cdae1,real/Earthquake_Video_Dataset/Earthquake (64).mp4,real,1,Earthquake,708,8a8a1620e61a7d65a3d2984f9bfec8e5,False,4
+54364e72b697,real/Earthquake_Video_Dataset/Earthquake (65).mp4,real,1,Earthquake,709,7f18463ffd663303c970bddc7e004073,False,1
+552d6858f1aa,real/Earthquake_Video_Dataset/Earthquake (66).mp4,real,1,Earthquake,710,dd05c9dda897f0d58000c850f0a91bad,False,3
+974246bd9b6a,real/Earthquake_Video_Dataset/Earthquake (67).mp4,real,1,Earthquake,711,fb3874c9b5ca5f2dd3f60bcfda9f98c0,False,0
+d1e94f3fb291,real/Earthquake_Video_Dataset/Earthquake (68).mp4,real,1,Earthquake,712,4ab7eb71fb7251906989d7ece18f89af,False,2
+3b2fdd78eba2,real/Earthquake_Video_Dataset/Earthquake (69).mp4,real,1,Earthquake,713,88ab3ffe83ee824ec713c3bef252be1c,False,1
+bdd130bab264,real/Earthquake_Video_Dataset/Earthquake (7).mp4,real,1,Earthquake,692,d4e6e979ffdf9737fb840d8dba9c395e,False,2
+496237650e55,real/Earthquake_Video_Dataset/Earthquake (70).mp4,real,1,Earthquake,714,68d7f4554e81839fe839c9956ec89f41,False,3
+90bd89ae5db4,real/Earthquake_Video_Dataset/Earthquake (71).mp4,real,1,Earthquake,715,e94dd72c0b0badc449933a96df33c5bc,False,2
+6bd2071ac80f,real/Earthquake_Video_Dataset/Earthquake (72).mp4,real,1,Earthquake,716,4e183b14cda9959b3b07f108cd5ae18f,False,3
+fb9ae7280b04,real/Earthquake_Video_Dataset/Earthquake (73).mp4,real,1,Earthquake,717,c6e0ea6ad50d9a8fc24cfa06b739898e,False,0
+bff623b60ff7,real/Earthquake_Video_Dataset/Earthquake (74).mp4,real,1,Earthquake,718,094900c62aac54cab13d118ae1253912,False,3
+61068d20010e,real/Earthquake_Video_Dataset/Earthquake (75).mp4,real,1,Earthquake,719,8a7736c2ac11f847cde1d70177eafa47,False,4
+2204027272f3,real/Earthquake_Video_Dataset/Earthquake (76).mp4,real,1,Earthquake,720,70a8f6e2acd09c786ee79fa48d3a6957,False,2
+dd856f3fab29,real/Earthquake_Video_Dataset/Earthquake (77).mp4,real,1,Earthquake,721,706fae20168bf98bf463f4d44792a0c3,False,3
+633cc0d6edf7,real/Earthquake_Video_Dataset/Earthquake (78).mp4,real,1,Earthquake,674,9ad704facb194187c95fdf19740436b9,False,2
+57013fb92733,real/Earthquake_Video_Dataset/Earthquake (79).mp4,real,1,Earthquake,694,e20458b368c1ac2ad340360925737a59,False,0
+8cb922709f42,real/Earthquake_Video_Dataset/Earthquake (8).mp4,real,1,Earthquake,694,98da283ce6cb8234ab20d075300f3990,False,0
+e38fab06d3c1,real/Earthquake_Video_Dataset/Earthquake (80).mp4,real,1,Earthquake,722,06b1edcc9272bbbbca623a0c1035d2f5,False,4
+865b10e98c27,real/Earthquake_Video_Dataset/Earthquake (81).mp4,real,1,Earthquake,723,77f99cbf2ea13334891e1e49796d6ea4,False,0
+ffd8f0db93fe,real/Earthquake_Video_Dataset/Earthquake (82).mp4,real,1,Earthquake,724,4fa23164cb3da7c66ed164a63b15fa1f,False,1
+bfe71534939a,real/Earthquake_Video_Dataset/Earthquake (83).mp4,real,1,Earthquake,725,11335e83afda30ceb9ada4241ce57410,False,0
+2feb15fa4d28,real/Earthquake_Video_Dataset/Earthquake (84).mp4,real,1,Earthquake,726,71b04f88524d3940d6889c8a9f24021a,False,1
+5231f273a825,real/Earthquake_Video_Dataset/Earthquake (85).mp4,real,1,Earthquake,727,c727f4d9400dfaff7c741f4185f91bd5,False,2
+2b194da57f88,real/Earthquake_Video_Dataset/Earthquake (86).mp4,real,1,Earthquake,728,6f96ed66f546563539ce43facec17b6c,False,3
+3a865ecab3e6,real/Earthquake_Video_Dataset/Earthquake (87).mp4,real,1,Earthquake,729,a7a56b90b07c2ec006069cef8976ddd9,False,4
+7cb63eb40260,real/Earthquake_Video_Dataset/Earthquake (88).mp4,real,1,Earthquake,730,2fa87085dd03d7de2c2087f61d49778a,False,0
+4aa8b476e750,real/Earthquake_Video_Dataset/Earthquake (89).mp4,real,1,Earthquake,731,3c48406fb2752a4edc30109873768e70,False,2
+d2fab9a1b2d6,real/Earthquake_Video_Dataset/Earthquake (9).mp4,real,1,Earthquake,679,e110064f74effd76f2d33127a9054519,False,0
+f014a6421222,real/Earthquake_Video_Dataset/Earthquake (90).mp4,real,1,Earthquake,732,826df719bd6a16e645fe2acd8a172b98,False,3
+c3b414e1440d,real/Earthquake_Video_Dataset/Earthquake (91).mp4,real,1,Earthquake,733,dd5b9589a144a508c0d2fcf75f3c0543,False,4
+58a0028c040e,real/Earthquake_Video_Dataset/Earthquake (92).mp4,real,1,Earthquake,734,44d0065251d01d8f9f5da455cc59b171,False,4
+9b8f8dbc1a93,real/Hurricane_Video_Dataset/Hurricane_001.mp4,real,1,Hurricane,735,ef6e3bf10aaea79e141f3909ad90cff8,False,0
+9bd246fba779,real/Hurricane_Video_Dataset/Hurricane_002.mp4,real,1,Hurricane,735,3716d92814101b55586c8e805279416f,False,0
+8e1eb94984c4,real/Hurricane_Video_Dataset/Hurricane_003.mp4,real,1,Hurricane,736,0fa0625636c8c6a6ddc255997a3a743b,False,1
+08d3ddd900d1,real/Hurricane_Video_Dataset/Hurricane_004.mp4,real,1,Hurricane,737,6431c9d1a2e9347ece94d8ac78c7e570,False,1
+070497b4e046,real/Hurricane_Video_Dataset/Hurricane_005.mp4,real,1,Hurricane,738,863849c31e5f3b196a98517210e3cc40,False,0
+3535039e6ef2,real/Hurricane_Video_Dataset/Hurricane_006.mp4,real,1,Hurricane,735,187ae571efdb6f14a122d52cc163a744,False,0
+15d4c9c14595,real/Hurricane_Video_Dataset/Hurricane_007.mp4,real,1,Hurricane,739,eb85b72160816823e5368c1a156bfc41,False,2
+908901114497,real/Hurricane_Video_Dataset/Hurricane_008.mp4,real,1,Hurricane,739,693bc71581d5df564190ec84c11be942,False,2
+9f77fc89fc38,real/Hurricane_Video_Dataset/Hurricane_009.mp4,real,1,Hurricane,739,9155c11e5d2bbf63611978a7c1bfc576,False,2
+0610ee307560,real/Hurricane_Video_Dataset/Hurricane_010.mp4,real,1,Hurricane,739,28563140716f80858a68c4c837b53916,False,2
+757deff78abd,real/Hurricane_Video_Dataset/Hurricane_011.mp4,real,1,Hurricane,740,08de3ae9922a103aba5482d85bc35016,False,3
+c970d3f8d4fe,real/Hurricane_Video_Dataset/Hurricane_012.mp4,real,1,Hurricane,741,fdb1033d5cd8aa1a5ff2ef7bf9b6c22b,False,4
+0bc3f3a822fb,real/Hurricane_Video_Dataset/Hurricane_013.mp4,real,1,Hurricane,742,5f50450157befe8ac5ba5e6cd3c83cfc,False,2
+6dfd8357376a,real/Hurricane_Video_Dataset/Hurricane_014.mp4,real,1,Hurricane,743,509ca85478e3365dd9ad92648b15c820,False,0
+468b0e227eb5,real/Hurricane_Video_Dataset/Hurricane_015.mp4,real,1,Hurricane,744,9f38c2f4049f0188ca58f085a14f5793,False,4
+081b7a032389,real/Hurricane_Video_Dataset/Hurricane_016.mp4,real,1,Hurricane,745,85abad7f7d016c763af2d08f8ae11cd8,False,1
+fc2d265d110f,real/Hurricane_Video_Dataset/Hurricane_017.mp4,real,1,Hurricane,746,89bdaae4aedd276266bc451642d986b2,False,3
+41f82eb4998a,real/Hurricane_Video_Dataset/Hurricane_018.mp4,real,1,Hurricane,747,9f94972c6adaa2e2f82038f9436c5927,False,0
+b7224818eb10,real/Hurricane_Video_Dataset/Hurricane_019.mp4,real,1,Hurricane,748,a5dd0d6d31bf2982322838c872812426,False,2
+d7110003f11d,real/Hurricane_Video_Dataset/Hurricane_020.mp4,real,1,Hurricane,749,74d25c8fcfa5ff4c3c9f17e9ace60dd0,False,1
+5a704b860e09,real/Hurricane_Video_Dataset/Hurricane_021.mp4,real,1,Hurricane,750,902cda62ce85dc8b854d49d3b1167a24,False,3
+0f54c653a9d8,real/Hurricane_Video_Dataset/Hurricane_022.mp4,real,1,Hurricane,751,0a39611592b74b5af39d2aab8a833fd6,False,4
+14277dff1fc8,real/Hurricane_Video_Dataset/Hurricane_023.mp4,real,1,Hurricane,752,49aea4cd4392733a0ccc9b31e3494667,False,0
+c98a6a109456,real/Hurricane_Video_Dataset/Hurricane_024.mp4,real,1,Hurricane,752,e6cfe3331f3c656b132e8eadb6fada9d,False,0
+d3266da1b237,real/Hurricane_Video_Dataset/Hurricane_025.mp4,real,1,Hurricane,753,904445e45942ad408b82e49ebb4b2de5,False,3
+a73202fe6347,real/Hurricane_Video_Dataset/Hurricane_026.mp4,real,1,Hurricane,739,5685541d780f2522f1c6b6b70c721fb6,False,2
+f1f763ce3361,real/Hurricane_Video_Dataset/Hurricane_027.mp4,real,1,Hurricane,739,595078f6363367feb9e2aafceb9aad95,False,2
+97104f438029,real/Hurricane_Video_Dataset/Hurricane_028.mp4,real,1,Hurricane,739,55bdebfaa0e0c1e68924e1961f8f82b0,False,2
+87877f9a780d,real/Hurricane_Video_Dataset/Hurricane_029.mp4,real,1,Hurricane,739,2c28653d488e0d8beb26da6be2e9c7b8,False,2
+0052771e82b5,real/Hurricane_Video_Dataset/Hurricane_030.mp4,real,1,Hurricane,739,b0f6e02c3103f5643e833b05babc9646,False,2
+4fa2ad471a74,real/Hurricane_Video_Dataset/Hurricane_031.mp4,real,1,Hurricane,739,b615baa9d056b066a20aca5f10b3547e,False,2
+0e306aa60299,real/Hurricane_Video_Dataset/Hurricane_032.mp4,real,1,Hurricane,739,878604111dd427680b945e16871c0f10,False,2
+0b0f021dafa9,real/Hurricane_Video_Dataset/Hurricane_033.mp4,real,1,Hurricane,754,9d8d6ae33a0d994c32138a0f309a40f1,False,1
+fb1fac89f42b,real/Hurricane_Video_Dataset/Hurricane_034.mp4,real,1,Hurricane,755,6330190121cdb91fcedc5930e1c45d03,False,2
+dac2644a07bf,real/Hurricane_Video_Dataset/Hurricane_035.mp4,real,1,Hurricane,756,a28e3b0eff4422238a33aa208fe3881a,False,4
+40be018f4686,real/Hurricane_Video_Dataset/Hurricane_036.mp4,real,1,Hurricane,757,46158d889389bc56f9bb0b3de6c06d2c,False,1
+f43ccb4e72a1,real/Hurricane_Video_Dataset/Hurricane_037.mp4,real,1,Hurricane,758,7f3feb73089bb9d99347aba352901bfd,False,0
+0d46d8ef280c,real/Hurricane_Video_Dataset/Hurricane_038.mp4,real,1,Hurricane,758,abf1863c7e918e959096853e7710453e,False,0
+14496f393740,real/Hurricane_Video_Dataset/Hurricane_039.mp4,real,1,Hurricane,759,92bc8130f71359a6907a0edadda1b2d7,False,3
+4b7640da43f8,real/Hurricane_Video_Dataset/Hurricane_040.mp4,real,1,Hurricane,759,53a96604b2c01f5f1baf06a4c2f7fa41,False,3
+ce1ffa4c1389,real/Hurricane_Video_Dataset/Hurricane_041.mp4,real,1,Hurricane,760,bd8005a4211cbf810ba679abec2a6396,False,2
+46cc7be498ae,real/Hurricane_Video_Dataset/Hurricane_042.mp4,real,1,Hurricane,761,68000ea58bb554f2aa2e5712b1568ce6,False,4
+63a215787830,real/Hurricane_Video_Dataset/Hurricane_043.mp4,real,1,Hurricane,762,7f00b286e8f50f8088e37a29a9c571cd,False,0
+056e9c2e4023,real/Hurricane_Video_Dataset/Hurricane_044.mp4,real,1,Hurricane,763,a709f6bfcb2248970d8858edd4868d6b,False,1
+dbd9302fd825,real/Hurricane_Video_Dataset/Hurricane_045.mp4,real,1,Hurricane,762,11d3703855b3ff020b5cc114bf0278cb,False,0
+8f523742bc7c,real/Hurricane_Video_Dataset/Hurricane_046.mp4,real,1,Hurricane,764,89befc8cf58577527aea17b3f8677abf,False,2
+ea02c213ba4b,real/Hurricane_Video_Dataset/Hurricane_047.mp4,real,1,Hurricane,765,02ef71cb72ab668458547ab59490cf68,False,3
+4a7792365a48,real/Hurricane_Video_Dataset/Hurricane_048.mp4,real,1,Hurricane,766,e92e083ceeb8f8967a8884aa4de791e0,False,4
+b11ca5ad598b,real/Hurricane_Video_Dataset/Hurricane_049.mp4,real,1,Hurricane,767,7a7dd31bf940f5589d14b8201f3d9e43,False,1
+627a4813c1d9,real/Hurricane_Video_Dataset/Hurricane_050.mp4,real,1,Hurricane,768,9a252505d594c3f06ea7cd4bfcb6126b,False,0
+9ada7a637ae1,real/Hurricane_Video_Dataset/Hurricane_051.mp4,real,1,Hurricane,769,525b25b6435c821ab11ca5ab247753f4,False,2
+c4d980d04644,real/Hurricane_Video_Dataset/Hurricane_054.mp4,real,1,Hurricane,770,44c920c98aaa4c12c0ac222143a7702a,False,3
+a75beb972f96,real/Hurricane_Video_Dataset/Hurricane_055.mp4,real,1,Hurricane,770,0d52bfda5fc8e10eed95f778974a6aa3,False,3
+794f7f838c2a,real/Hurricane_Video_Dataset/Hurricane_056.mp4,real,1,Hurricane,771,3c562a0d67a679e7a361f0453abefffd,False,4
+9d48990f7a56,real/Hurricane_Video_Dataset/Hurricane_057.mp4,real,1,Hurricane,767,23c1acd3b641ca140547e2a3f3bde2f2,False,1
+0eb79f5a9e18,real/Hurricane_Video_Dataset/Hurricane_058.mp4,real,1,Hurricane,772,e61ef7af35450587bf5499fec8e0be22,False,0
+e4b65694b73f,real/Hurricane_Video_Dataset/Hurricane_059.mp4,real,1,Hurricane,773,68ff898f21cb89499a1c74adc92b5f1c,False,4
+544c91275538,real/Hurricane_Video_Dataset/Hurricane_060.mp4,real,1,Hurricane,774,bddfbb972365860d5bd96c721408c06b,False,1
+f358a5accc33,real/Hurricane_Video_Dataset/Hurricane_061.mp4,real,1,Hurricane,774,ab8dfa35d7740565b5344068e18144a4,False,1
+e45c858fb088,real/Hurricane_Video_Dataset/Hurricane_062.mp4,real,1,Hurricane,775,22fc8182d84990ab451901f90023d8ec,False,2
+2df334c6b9f2,real/Hurricane_Video_Dataset/Hurricane_063.mp4,real,1,Hurricane,775,ca3ce71aeee9ae429c766f7c222ebb42,False,2
+0108977ca032,real/Hurricane_Video_Dataset/Hurricane_064.mp4,real,1,Hurricane,775,0e4e3a3c17181607f2e7c1a92027a90b,False,2
+e32b026d25c1,real/Hurricane_Video_Dataset/Hurricane_065.mp4,real,1,Hurricane,776,f00cee4fe8dbc97601b5831741b4dc0b,False,1
+704c63aa2e62,real/Hurricane_Video_Dataset/Hurricane_066.mp4,real,1,Hurricane,777,a14b37cfecc8020eaecf2aa9bc405e1c,False,3
+be522c60cfa1,real/Hurricane_Video_Dataset/Hurricane_067.mp4,real,1,Hurricane,778,3413c6ecb3b9d16035d8edbc25f5d8c7,False,2
+0becd307e6cf,real/Hurricane_Video_Dataset/Hurricane_068.mp4,real,1,Hurricane,779,6aec7191cd9094a9f41cf633a9bebd5a,False,0
+76abf5e3498a,real/Hurricane_Video_Dataset/Hurricane_069.mp4,real,1,Hurricane,780,0f26a8ceb7f35d93fc246ff09d960714,False,1
+1f8774e9918d,real/Landslide_Video_Dataset/Landslide_001.mp4,real,1,Landslide,781,6db9b036751fa55c03e5429fae4b1153,False,2
+9770e52a5655,real/Landslide_Video_Dataset/Landslide_002 .mp4,real,1,Landslide,782,eb958e2c4978584b7e4b13baf0824e16,False,4
+18ed3223c684,real/Landslide_Video_Dataset/Landslide_003.mp4,real,1,Landslide,781,5835bb674ac940e28b6b14b887fc03a7,False,2
+25bf6169f151,real/Landslide_Video_Dataset/Landslide_004 .mp4,real,1,Landslide,783,5baf74879eada928cbd7781d135a38b9,False,3
+794fc26e4073,real/Landslide_Video_Dataset/Landslide_005 .mp4,real,1,Landslide,784,7ef0ed987ea58b0b669e8ec991ecd5ea,False,1
+f4bb3f04be2e,real/Landslide_Video_Dataset/Landslide_006 .mp4,real,1,Landslide,785,da9178b21de1fbfc8c7ab43a0121f561,False,3
+44128036846e,real/Landslide_Video_Dataset/Landslide_007 .mp4,real,1,Landslide,786,dec77487ed5533601027797633d7505e,False,0
+497012b5a89f,real/Landslide_Video_Dataset/Landslide_008 .mp4,real,1,Landslide,787,6cf3108d5b08298bcd660273795e567b,False,2
+ae0178dbc400,real/Landslide_Video_Dataset/Landslide_009.mp4,real,1,Landslide,788,224105d47e0bd36bc65370313fde8d1e,False,4
+2aa474e167ce,real/Landslide_Video_Dataset/Landslide_010 .mp4,real,1,Landslide,789,eb0f7eca0670ce32b603f102460887fb,False,4
+890cf1dd9d23,real/Landslide_Video_Dataset/Landslide_011 .mp4,real,1,Landslide,790,608f05aa0cd943d7e416c1b93446cdd5,False,2
+1ccc59e7516b,real/Landslide_Video_Dataset/Landslide_012.mp4,real,1,Landslide,788,d96dd493d6121b61f68c57de483d2a8a,False,4
+d7b6c24919a9,real/Landslide_Video_Dataset/Landslide_013.mp4,real,1,Landslide,791,2dd5e8fdaf5ac73e9a0b9b5cf16cc7fc,False,4
+a303b8445345,real/Landslide_Video_Dataset/Landslide_014 .mp4,real,1,Landslide,792,8cdaf4d68242e5a1955ab185d9ec5290,False,0
+f11e3a44b870,real/Landslide_Video_Dataset/Landslide_015.mp4,real,1,Landslide,793,88a6ad5f64e837923c6bcd8d17ec1a06,False,1
+3abce1ffab73,real/Landslide_Video_Dataset/Landslide_016 .mp4,real,1,Landslide,794,2922c7390362418108ba1553fa55e30c,False,3
+26192b4a40a5,real/Landslide_Video_Dataset/Landslide_017 .mp4,real,1,Landslide,795,9c3f05926a1a44b6d82983398ff080e8,False,1
+c903a637c80f,real/Landslide_Video_Dataset/Landslide_018.mp4,real,1,Landslide,796,d116c61ca5e256b3a3b5cec1a36e59e4,False,3
+c2c275cdbc0b,real/Landslide_Video_Dataset/Landslide_019 .mp4,real,1,Landslide,797,aeafcdc743574e10b4356114bc7a7254,False,0
+419974c73473,real/Landslide_Video_Dataset/Landslide_020 .mp4,real,1,Landslide,798,3bb44e97876746f06db2a34d90be01d9,False,1
+543793e96266,real/Landslide_Video_Dataset/Landslide_022 .mp4,real,1,Landslide,799,8f182203fea15d89cae52b88a986c8e7,False,2
+e3166e6b91f9,real/Landslide_Video_Dataset/Landslide_023 .mp4,real,1,Landslide,800,1c9c3211da6e14a927e99a4e8653bb7b,False,3
+0ed5b206aa65,real/Landslide_Video_Dataset/Landslide_024 .mp4,real,1,Landslide,801,a5b03643a671b275d92ebf6d551a6010,False,4
+99b175fa2146,real/Landslide_Video_Dataset/Landslide_025 .mp4,real,1,Landslide,802,b84554ca4b347b69d160bdd708a7032f,False,4
+b035f75f02ba,real/Landslide_Video_Dataset/Landslide_026.mp4,real,1,Landslide,796,f6f81728afc0306b180dc00903485b28,False,3
+75d5084f728a,real/Landslide_Video_Dataset/Landslide_027.mp4,real,1,Landslide,803,09d0ae2f6372878436e754160c1bd7e8,False,2
+115eec3cd29b,real/Landslide_Video_Dataset/Landslide_028 .mp4,real,1,Landslide,804,09a98f4422874c0e49aea639972da9f8,False,0
+1040af6acb17,real/Landslide_Video_Dataset/Landslide_029.mp4,real,1,Landslide,805,8b4c10e7460033ac8ef613c7a7b4ba5b,False,1
+bc806bacd9fd,real/Landslide_Video_Dataset/Landslide_030.mp4,real,1,Landslide,806,36276211b9aea8020e946bdfe4d5ce2e,False,3
+905c900dc3a7,real/Landslide_Video_Dataset/Landslide_031 .mp4,real,1,Landslide,807,4a1b3d11b9fb694e485c75b86dc67d6a,False,3
+3b460c5bcd0b,real/Landslide_Video_Dataset/Landslide_032.mp4,real,1,Landslide,806,46d89e5018dd6976a82489255a976f0a,False,3
+f28649775c2a,real/Landslide_Video_Dataset/Landslide_033.mp4,real,1,Landslide,808,884e84fd572d44f6e36a70e98b13057a,False,0
+3e162e3a5097,real/Landslide_Video_Dataset/Landslide_034.mp4,real,1,Landslide,809,b33c6620e948e953401a0e63b2a47234,False,1
+9f410cbab7fb,real/Landslide_Video_Dataset/Landslide_035 .mp4,real,1,Landslide,810,701d9b7442095c6922f967a84eeb89f7,False,2
+537bbf010bb7,real/Landslide_Video_Dataset/Landslide_036.mp4,real,1,Landslide,811,c432af572f1b7ff9c32ad4d817a49b74,False,4
+13b885436bce,real/Landslide_Video_Dataset/Landslide_037.mp4,real,1,Landslide,812,1094509e456998e9271f872dbe685469,False,2
+4e7583649fb3,real/Landslide_Video_Dataset/Landslide_038 .mp4,real,1,Landslide,813,99766d64ddd00a5121fb86964cbf494e,False,0
+2c9200148c34,real/Landslide_Video_Dataset/Landslide_039.mp4,real,1,Landslide,814,1638de7a436f5b6bfaeacb10efbff65e,False,1
+c91010ccde97,real/Landslide_Video_Dataset/Landslide_040.mp4,real,1,Landslide,814,c2950ecb5dca54f5577e804a669643de,False,1
+bda021c36dee,real/Landslide_Video_Dataset/Landslide_041.mp4,real,1,Landslide,814,2ca4320daa7ff6e20f9858daa7ffb118,False,1
+27137621c74b,real/Landslide_Video_Dataset/Landslide_042.mp4,real,1,Landslide,815,b6d284201901b1412ff7aa66c3ea335c,False,4
+034f3d63f95b,real/Landslide_Video_Dataset/Landslide_044 .mp4,real,1,Landslide,816,0b41f2043f874481860bb50fdf7ee2ac,False,3
+a111bbdcbb7b,real/Landslide_Video_Dataset/Landslide_045.mp4,real,1,Landslide,817,b9230aad22c896394ae28f4fc58f9283,False,0
+9a733879db7a,real/Landslide_Video_Dataset/Landslide_046 .mp4,real,1,Landslide,818,3e72b47a51bf71944e1ce17e8d0360d5,False,1
+39e978a85d77,real/Landslide_Video_Dataset/Landslide_047 .mp4,real,1,Landslide,819,1ab4e172baf61b1f680d679b4ea4e145,False,2
+9661d500c0ad,real/Landslide_Video_Dataset/Landslide_050 .mp4,real,1,Landslide,820,48800e7a02c78b8a15065aa0a32dbc86,False,3
+2151cea27293,real/Landslide_Video_Dataset/Landslide_051 .mp4,real,1,Landslide,821,f32ad73e86335d61c23c815380ed2b38,False,4
+ee2b8983fb28,real/Landslide_Video_Dataset/Landslide_052.mp4,real,1,Landslide,822,272c1c4bda7cd9d8abaaa2fb4cab1311,False,2
+8deb632b7e2b,real/Landslide_Video_Dataset/Landslide_053.mp4,real,1,Landslide,823,e40dfa2db8bee2f7c4cebdc074bcd9d2,False,4
+1252d10528ec,real/Landslide_Video_Dataset/Landslide_054.mp4,real,1,Landslide,824,385430b58206e537f2b13a085d4729c9,False,2
+3c90c8681659,real/Landslide_Video_Dataset/Landslide_055.mp4,real,1,Landslide,825,44b2c8a213803d660bafa41eacb63293,False,0
+dba2ee14dc5c,real/Landslide_Video_Dataset/Landslide_056.mp4,real,1,Landslide,825,724d87163799f985f3a19da5a937774a,False,0
+fb5c4284137e,real/Landslide_Video_Dataset/Landslide_057.mp4,real,1,Landslide,826,32e97cc27180a24ddad48214729b496c,False,1
+65b522162620,real/Landslide_Video_Dataset/Landslide_058.mp4,real,1,Landslide,827,9caa6d2df7409fe32d61106bedbcaa99,False,3
+b1ba46aca865,real/Landslide_Video_Dataset/Landslide_059.mp4,real,1,Landslide,828,5b016a0f5a0de56bad6f2e2b1b270b8a,False,1
+afac888cc661,real/Landslide_Video_Dataset/Landslide_060.mp4,real,1,Landslide,829,3870674f8f5c4006ae2146391ea25bf0,False,0
+cfb5e4fe67df,real/Landslide_Video_Dataset/Landslide_061.mp4,real,1,Landslide,830,84416e0693325abc7cba2f9610fbc44d,False,2
+3d87f76f6d23,real/Landslide_Video_Dataset/Landslide_062.mp4,real,1,Landslide,831,97d53c16600c0163ab620f1ba4b0402d,False,3
+29d0a06bbad5,real/Landslide_Video_Dataset/Landslide_063.mp4,real,1,Landslide,832,196f38e424a0ced1a49a5f7cf06d7f36,False,0
+d96b75ce87b8,real/Landslide_Video_Dataset/Landslide_064.mp4,real,1,Landslide,833,4eab8845be0f6c4a2560173a59ba2e6c,False,4
+8a523a7224b0,real/Landslide_Video_Dataset/Landslide_065.mp4,real,1,Landslide,834,02bb1168fa9ac28c2d2ecc4cf8feb877,False,0
+943f163987c0,real/Landslide_Video_Dataset/Landslide_066.mp4,real,1,Landslide,835,01b31d07a69e1f3e5cbc357bf3903b05,False,1
+23e89f32cf6f,real/Landslide_Video_Dataset/Landslide_067.mp4,real,1,Landslide,836,6453cda3e8b67ac4fa538aa85a49cfa2,False,2
+f8e7520df456,real/Landslide_Video_Dataset/Landslide_068.mp4,real,1,Landslide,837,321b764e4cae95cac2aa0c404df41e13,False,4
+3af31ce46cf0,real/Landslide_Video_Dataset/Landslide_069.mp4,real,1,Landslide,838,02f935e113065e540d379f534b95358c,False,3
+074b7d3524c6,real/Landslide_Video_Dataset/Landslide_070.mp4,real,1,Landslide,839,b7d5b26d555065ba954dd21e9cf27e7c,False,1
+70f28fe0a785,real/Landslide_Video_Dataset/Landslide_071.mp4,real,1,Landslide,840,dd74cf047f251ba5e7d1fc2883e37d74,False,2
+6deb2bd04b4a,real/Landslide_Video_Dataset/Landslide_072.mp4,real,1,Landslide,814,fc905936acf11c55c18e6b9ff085bbc9,False,1
+9bb256cb3cd3,real/Landslide_Video_Dataset/Landslide_073.mp4,real,1,Landslide,814,d183da32f1bea100eae89393d647b6a3,False,1
+67a0e7646548,real/Landslide_Video_Dataset/Landslide_074.mp4,real,1,Landslide,841,19c3659e6d04b825b3afdd0d1813eca1,False,4
+65d2c74d6aa7,real/Landslide_Video_Dataset/Landslide_075.mp4,real,1,Landslide,814,b2c7c96a4ac95e8049a0ff71ca1cfa4d,False,1
+8b93d8132016,real/Landslide_Video_Dataset/Landslide_076.mp4,real,1,Landslide,842,c781e32e0d7540211118e42f5858fe69,False,0
+84b2a67c6e7e,real/Landslide_Video_Dataset/Landslide_077.mp4,real,1,Landslide,843,08f5640bfeee8637a22624ab3f1c77e6,False,3
+0fb001e92cf6,real/Landslide_Video_Dataset/Landslide_078.mp4,real,1,Landslide,844,74c67c8d01ae33b9e16356168eb4645f,False,0
+35ffdf452827,real/Landslide_Video_Dataset/Landslide_079.mp4,real,1,Landslide,845,7c2c7f7d2e955fa957c8b67e6977da58,False,1
+9e8b327b4f16,real/Landslide_Video_Dataset/Landslide_080.mp4,real,1,Landslide,846,e82b5751e0764375028075260ca2f380,False,2
+1e4c7bccda71,real/Landslide_Video_Dataset/Landslide_081.mp4,real,1,Landslide,847,f60b7c765cecb05b4db3b8d1be89ba3b,False,3
+baed95c63c46,real/Landslide_Video_Dataset/Landslide_082.mp4,real,1,Landslide,848,fb54cf017da0d3b7fb3daf315c71f985,False,3
+3ee70cad2f53,real/Landslide_Video_Dataset/Landslide_083.mp4,real,1,Landslide,849,14d3ceb1243bb1fd524cd729878d29c6,False,4
+562a2c641693,real/Landslide_Video_Dataset/Landslide_084.mp4,real,1,Landslide,822,a453e1195658249d1a9e77bd3d3d2068,False,2
+468b458a4ad8,real/Landslide_Video_Dataset/Landslide_085.mp4,real,1,Landslide,850,ac99d064504e604b73196cebb6ae5b5f,False,3
+f698cddfe75e,real/Landslide_Video_Dataset/Landslide_086.mp4,real,1,Landslide,851,3a395d71fbc06da410110d4e6e9b8694,False,2
+f12f12dd6522,real/Landslide_Video_Dataset/Landslide_087.mp4,real,1,Landslide,852,8d57241a2337698d31d730fef9581104,False,0
+8b6ed238e03b,real/Landslide_Video_Dataset/Landslide_088.mp4,real,1,Landslide,853,f95c8cc281a5ebcdb5a9e1a8dd2e9963,False,1
+cca0eb9b3a9b,real/Landslide_Video_Dataset/Landslide_089.mp4,real,1,Landslide,854,37da8a9aa99cf107383349225f9ff24d,False,2
+321435b3fa33,real/Landslide_Video_Dataset/Landslide_090.mp4,real,1,Landslide,855,2912ecfbca2219bee74da3ea2992926d,False,4
+280fbf9c28cb,real/Landslide_Video_Dataset/Landslide_091.mp4,real,1,Landslide,856,eaf3c9f8e668ac6fd67d276b65f46946,False,1
+6a660d9a5aa3,real/Landslide_Video_Dataset/Landslide_092.mp4,real,1,Landslide,857,bfb9fc3f932f1587ed72cfda502b794e,False,2
+7d761b0123f4,real/Volcanic_Eruption_Video_Dataset/Volcanic_Eruption_001.mp4,real,1,Volcanic,858,905a08210b71cb09bd7b42f21f270a90,False,4
+84305969b969,real/Volcanic_Eruption_Video_Dataset/Volcanic_Eruption_002.MP4,real,1,Volcanic,859,31a644c74d38b75855d9f41017506239,False,0
+e420b0b6d443,real/Volcanic_Eruption_Video_Dataset/Volcanic_Eruption_003.MP4,real,1,Volcanic,860,84104841dddff0fc6f556a21e87a2c58,False,3
+84c377c8a141,real/Volcanic_Eruption_Video_Dataset/Volcanic_Eruption_004.mp4,real,1,Volcanic,858,93f92e1f71cba364a48c920da40bf8eb,False,4
+84977b123f2c,real/Volcanic_Eruption_Video_Dataset/Volcanic_Eruption_005.mp4,real,1,Volcanic,861,e0111a3956a9590befdbc181caa59a4b,False,0
+96e6fd71b002,real/Volcanic_Eruption_Video_Dataset/Volcanic_Eruption_006.mp4,real,1,Volcanic,862,043b82ef448eebd372f66f03e2a72e46,False,1
+e3a811422f74,real/Volcanic_Eruption_Video_Dataset/Volcanic_Eruption_007.mp4,real,1,Volcanic,863,961e191381e533a92c8abfc82f833f24,False,2
+40813efc3236,real/Volcanic_Eruption_Video_Dataset/Volcanic_Eruption_008.mp4,real,1,Volcanic,864,6d63c6feb22dc631d2de0a1b829d37ba,False,3
+c6dd5f3a5737,real/Volcanic_Eruption_Video_Dataset/Volcanic_Eruption_009.mp4,real,1,Volcanic,864,23f40b1a41f0f051e8cbd14441c44109,False,3
+9440ab5bf9f2,real/Volcanic_Eruption_Video_Dataset/Volcanic_Eruption_010.mp4,real,1,Volcanic,865,66310ca5a93790a3503e6294553d3d79,False,4
+6d1bca2ba158,real/Volcanic_Eruption_Video_Dataset/Volcanic_Eruption_011.mp4,real,1,Volcanic,866,5579a0bd87836b0570de076a803d301e,False,4
+fbf6df3225a5,real/Volcanic_Eruption_Video_Dataset/Volcanic_Eruption_012.mp4,real,1,Volcanic,867,fd48d6393f378135ba0991362f18d84b,False,3
+d5c9390e3f1b,real/Volcanic_Eruption_Video_Dataset/Volcanic_Eruption_013.mp4,real,1,Volcanic,868,5048dbc85f16b6f6b05229af7bf910cc,False,4
+3f1c615b5b1c,real/Volcanic_Eruption_Video_Dataset/Volcanic_Eruption_014.mp4,real,1,Volcanic,869,bee00edf76e4f25f56fca6b292a5eb54,False,0
+b0ef4d03f2e2,real/Volcanic_Eruption_Video_Dataset/Volcanic_Eruption_015.mp4,real,1,Volcanic,870,d0e732501c5a4b2f1ab8adb5772e1322,False,1
+0bb948e2576a,real/Volcanic_Eruption_Video_Dataset/Volcanic_Eruption_016.mp4,real,1,Volcanic,871,22a6fbc91d5bc5f7b6f28f2a53a37cf2,False,2
+90694f17a55d,real/Volcanic_Eruption_Video_Dataset/Volcanic_Eruption_017.mp4,real,1,Volcanic,872,282ed3d49ca048d8a73d924339a83c0a,False,0
+c0b2a7fa1873,real/Volcanic_Eruption_Video_Dataset/Volcanic_Eruption_018.mp4,real,1,Volcanic,873,ad1b474d83743b038847e097656fa493,False,1
+5e3b862ecaf1,real/Volcanic_Eruption_Video_Dataset/Volcanic_Eruption_019.mp4,real,1,Volcanic,874,64530cb9fb0d25eaa955cd7eb3b9279f,False,2
+0ab7e454c2c1,real/Volcanic_Eruption_Video_Dataset/Volcanic_Eruption_020.mp4,real,1,Volcanic,875,7037cd401f2780a379795f605edb9e69,False,3
+872561019a2b,real/Volcanic_Eruption_Video_Dataset/Volcanic_Eruption_021.mp4,real,1,Volcanic,876,37a90aa6652975cc4a487401efc3b2b6,False,4
+b6e442f44493,real/Volcanic_Eruption_Video_Dataset/Volcanic_Eruption_022.mp4,real,1,Volcanic,877,b85d4e2462732356812b46068ae29b1c,False,1
+e13bf538c4a4,real/Volcanic_Eruption_Video_Dataset/Volcanic_Eruption_023.mp4,real,1,Volcanic,878,864d5bfff1a1574b389b7d0c25435d34,False,2
+0fa0a15e4470,real/Volcanic_Eruption_Video_Dataset/Volcanic_Eruption_024.mp4,real,1,Volcanic,879,3efb994fb5bf3f49232e41f9402b21b7,False,0
+a493da384ffa,real/Volcanic_Eruption_Video_Dataset/Volcanic_Eruption_025.mp4,real,1,Volcanic,878,c2828ca9820c4839ba6e066f61f420f0,False,2
+8d02801a57c1,real/Volcanic_Eruption_Video_Dataset/Volcanic_Eruption_026.mp4,real,1,Volcanic,878,c76a967e00f9a605baf94a0dfe23f124,False,2
+915e415fc1f6,real/Volcanic_Eruption_Video_Dataset/Volcanic_Eruption_027.mp4,real,1,Volcanic,858,cd58ba3fe0870dba59939a220593a369,False,4
+1ee0fad79d80,real/Volcanic_Eruption_Video_Dataset/Volcanic_Eruption_028.mp4,real,1,Volcanic,880,24df1e6b5a4f9fc2233eb0bacab28c98,False,3
+9d3ef99f3a26,real/Volcanic_Eruption_Video_Dataset/Volcanic_Eruption_029.mp4,real,1,Volcanic,881,fb6ecf948e98b0c40422189cb8096ce4,False,4
+a90a09b93dd8,real/Volcanic_Eruption_Video_Dataset/Volcanic_Eruption_030.mp4,real,1,Volcanic,882,eca20b4ec3fa5648bd9c885e08742453,False,1
+11e77a9be3cb,real/Volcanic_Eruption_Video_Dataset/Volcanic_Eruption_031.mp4,real,1,Volcanic,883,a1bc0e664c0c3a4d797b47281cbae59c,False,2
+9ce71f3f6d8f,real/Volcanic_Eruption_Video_Dataset/Volcanic_Eruption_032.mp4,real,1,Volcanic,884,b3950cc8834d097d36d43f0a4b5b3dde,False,3
+0364ad48f8b5,real/Volcanic_Eruption_Video_Dataset/Volcanic_Eruption_033.mp4,real,1,Volcanic,885,f0ae7fff2d592f0c7d01181abe714b95,False,0
+4181753e7862,real/Volcanic_Eruption_Video_Dataset/Volcanic_Eruption_034.mp4,real,1,Volcanic,886,dc370f75433db8f1c6d75390bc23c785,False,3
+6148492fac2c,real/Volcanic_Eruption_Video_Dataset/Volcanic_Eruption_035.mp4,real,1,Volcanic,887,ba29068774b62cb84efbafcfb5655455,False,4
+d2b591a6ca40,real/Volcanic_Eruption_Video_Dataset/Volcanic_Eruption_036.mp4,real,1,Volcanic,888,3b5f67a9d050bcaa02c1eb5930239b1b,False,0
+707fdd1dac1e,real/Volcanic_Eruption_Video_Dataset/Volcanic_Eruption_037.mp4,real,1,Volcanic,889,80f159e089f8be2c238c5c9c3a1b2964,False,4
+f6c673d0c052,real/Volcanic_Eruption_Video_Dataset/Volcanic_Eruption_038.mp4,real,1,Volcanic,890,5d45408b80c5f84a30d0b3ad0c535047,False,1
+9b27716e8bd8,real/Volcanic_Eruption_Video_Dataset/Volcanic_Eruption_039.mp4,real,1,Volcanic,891,3ca61da21d03b2fcdffba2e234555f50,False,2
+b79a081363a5,real/Volcanic_Eruption_Video_Dataset/Volcanic_Eruption_040.mp4,real,1,Volcanic,892,51a7a3c627336dbc486f73da2816191f,False,3
+d89c37c9d9bf,real/Volcanic_Eruption_Video_Dataset/Volcanic_Eruption_041.mp4,real,1,Volcanic,893,738e1de30b7c86bc06a38c534cf68e22,False,0
+f97920deba44,real/Volcanic_Eruption_Video_Dataset/Volcanic_Eruption_042.mp4,real,1,Volcanic,887,543ff21500ebb22f51a37ed5751bf9a4,False,4
+eeec689958d1,real/Volcanic_Eruption_Video_Dataset/Volcanic_Eruption_043.mp4,real,1,Volcanic,873,d0e51bfd8210eae77a5712be33057489,False,1
+b207ee29b224,real/Volcanic_Eruption_Video_Dataset/Volcanic_Eruption_044.mp4,real,1,Volcanic,894,0bbddc56036ccaca0e4786d04455adde,False,1
+fdd31c6a574a,real/Volcanic_Eruption_Video_Dataset/Volcanic_Eruption_045 (2).mp4,real,1,Volcanic,895,673bf42061522b78f7a553e6f3411a67,False,3
+cf7442b08786,real/Volcanic_Eruption_Video_Dataset/Volcanic_Eruption_045.mp4,real,1,Volcanic,896,b79e0d4ba1487d122a0bbaa9d17da29b,False,4
+44fa8c9d39b7,real/Volcanic_Eruption_Video_Dataset/Volcanic_Eruption_046.mp4,real,1,Volcanic,897,65e0372e3a19fdf66d77ea34d0000e95,False,2
+029daa5446ff,real/Volcanic_Eruption_Video_Dataset/Volcanic_Eruption_047.mp4,real,1,Volcanic,898,5219463f8c75ca68afadc414d65cdfaa,False,4
+f180ffc3f14c,real/Volcanic_Eruption_Video_Dataset/Volcanic_Eruption_048.mp4,real,1,Volcanic,895,7d339699baeccccf32d2c2bf94cedc5a,False,3
+029575f0ab14,real/Volcanic_Eruption_Video_Dataset/Volcanic_Eruption_050.mp4,real,1,Volcanic,899,52a66a616f857ee8ca06e77a44c08b2e,False,2
+3f4d8b527d00,real/Volcanic_Eruption_Video_Dataset/Volcanic_Eruption_051.mp4,real,1,Volcanic,900,a8ae4e38b320ac5d5ceda3f571393390,False,1
+95bb92f84635,real/Volcanic_Eruption_Video_Dataset/Volcanic_Eruption_052.mp4,real,1,Volcanic,901,a51f4a472298ae1e6ffd9d4f76076b8f,False,0
+f39f14ebefd9,real/Volcanic_Eruption_Video_Dataset/Volcanic_Eruption_053.mp4,real,1,Volcanic,902,034cd0f8efedbb53e7407e01b2d786fc,False,1
+6eb2b03e4f2a,real/Volcanic_Eruption_Video_Dataset/Volcanic_Eruption_054.mp4,real,1,Volcanic,903,9b69e685b1f7b9227c7f45103bf37fae,False,3
+964864640cf6,real/Volcanic_Eruption_Video_Dataset/Volcanic_Eruption_055.mp4,real,1,Volcanic,903,2f2174ef8aa7731b0d84920c4603b1dc,False,3
+e711c72d34aa,real/Volcanic_Eruption_Video_Dataset/Volcanic_Eruption_058.mp4,real,1,Volcanic,904,d2ca6946632eb4b1eb69d0c68b532768,False,4
+d400fcabf537,real/Volcanic_Eruption_Video_Dataset/Volcanic_Eruption_059.mp4,real,1,Volcanic,905,e8c820cc4a8531de20a2156544ec9872,False,2
+b7c2c9e5916e,real/Volcanic_Eruption_Video_Dataset/Volcanic_Eruption_060.mp4,real,1,Volcanic,905,708a2fd626fbfeee592165b2c736db2f,False,2
+747df94610f1,real/Volcanic_Eruption_Video_Dataset/Volcanic_Eruption_061.mp4,real,1,Volcanic,906,c966101720fcb77342267e2d88b3a52b,False,0
+ceb89260bdbb,real/Volcanic_Eruption_Video_Dataset/Volcanic_Eruption_062.mp4,real,1,Volcanic,907,3f4316724af59e7a2e6d30f7e7356964,False,1
+53cc7ad48fe7,real/Volcanic_Eruption_Video_Dataset/Volcanic_Eruption_063.mp4,real,1,Volcanic,907,e23b2d601cf6707cd378e5e71c5243d5,False,1
+c2c532085f7d,real/Volcanic_Eruption_Video_Dataset/Volcanic_Eruption_064.mp4,real,1,Volcanic,908,ebf71aabb2fedda1469732881d39c3fd,False,4
+285dabfd6aca,real/Volcanic_Eruption_Video_Dataset/Volcanic_Eruption_065.mp4,real,1,Volcanic,909,396d6107f34b724efad2c87f3bf3e358,False,2
+a56b1c7e44d6,real/Volcanic_Eruption_Video_Dataset/Volcanic_Eruption_066.mp4,real,1,Volcanic,910,aeaf41dd3dd7a0f8200746338b58bf89,False,3
+98e8ccf388b2,real/Volcanic_Eruption_Video_Dataset/Volcanic_Eruption_067.mp4,real,1,Volcanic,911,adf3a65ce857a523bb0764aa55632c44,False,2
+1554f6610b63,real/Volcanic_Eruption_Video_Dataset/Volcanic_Eruption_068.mp4,real,1,Volcanic,912,acdaf70db8c6410bba923f1663fa8338,False,0
+b18a2e3fc64d,real/Volcanic_Eruption_Video_Dataset/Volcanic_Eruption_069.mp4,real,1,Volcanic,912,5964720e6f64f0f31cb37c568e7eeb2a,False,0
+f90b6cc87460,real/Volcanic_Eruption_Video_Dataset/Volcanic_Eruption_070.mp4,real,1,Volcanic,878,0f15ee9a1af40cc3c47f0d86a82d5d82,False,2
+62f111b220a5,real/Volcanic_Eruption_Video_Dataset/Volcanic_Eruption_071.mp4,real,1,Volcanic,878,257c95340b700712675d9d373ef643ff,False,2
+498fd3eb0321,real/Water_Disaster_Dataset/Water_Disaster_001.mp4,real,1,Water,913,db74d79f5c850f86649b546725f2343e,False,1
+ca0b9ac3f334,real/Water_Disaster_Dataset/Water_Disaster_002.mp4,real,1,Water,914,55abd3a801cf9442e74fa6a26a9371f3,False,3
+5afd223c8738,real/Water_Disaster_Dataset/Water_Disaster_003.mp4,real,1,Water,915,fa8c22ea77694c84664a565877e1e211,False,4
+97e8986d3ff5,real/Water_Disaster_Dataset/Water_Disaster_004.mp4,real,1,Water,916,a61f6b21d245f0dde6a2dce1caca0573,False,4
+d35e960cab4f,real/Water_Disaster_Dataset/Water_Disaster_005.mp4,real,1,Water,917,565d3fcf658bb193d7aca195cca3a4ee,False,0
+71bf337e388e,real/Water_Disaster_Dataset/Water_Disaster_006.mp4,real,1,Water,918,aba08e3fa9061bc68ba1bf6c276369cb,False,1
+d3150aabce77,real/Water_Disaster_Dataset/Water_Disaster_007.mp4,real,1,Water,919,1b495b4bc2398417d3dc1843770a30b0,False,2
+21975da3a1cb,real/Water_Disaster_Dataset/Water_Disaster_008.mp4,real,1,Water,920,208347f4a60c7e1fac57c915abd362f4,False,3
+98a5db058689,real/Water_Disaster_Dataset/Water_Disaster_009.mp4,real,1,Water,921,91088104c85118dc995db3e6def99018,False,1
+552e6b370cf5,real/Water_Disaster_Dataset/Water_Disaster_010.mp4,real,1,Water,922,ebc84923c46b4068b612e3d9c857fdfc,False,0
+2b5b26b5ced5,real/Water_Disaster_Dataset/Water_Disaster_011.mp4,real,1,Water,923,234be91c9094ab5d53337b118fb91643,False,4
+a6ab1de323dd,real/Water_Disaster_Dataset/Water_Disaster_012.mp4,real,1,Water,924,d2a221d038b821084471b50f29d5c193,False,2
+09922453f54b,real/Water_Disaster_Dataset/Water_Disaster_013.mp4,real,1,Water,925,f467f9b8fc7960a52139c390ee674607,False,3
+01227ecfeac5,real/Water_Disaster_Dataset/Water_Disaster_014.mp4,real,1,Water,926,3782b31f3f87afe321ce029998e36bed,False,0
+18c3f24bfd81,real/Water_Disaster_Dataset/Water_Disaster_015.mp4,real,1,Water,927,d619ac022a202691c3485a6245c920fc,False,1
+dd2ab1f954e3,real/Water_Disaster_Dataset/Water_Disaster_016.mp4,real,1,Water,928,33c5258d6ddeb35343129d6465843220,False,4
+0a03338ac77e,real/Water_Disaster_Dataset/Water_Disaster_017.mp4,real,1,Water,929,b93da4ec1dc5693871781d462c154812,False,2
+547180467935,real/Water_Disaster_Dataset/Water_Disaster_018.mp4,real,1,Water,930,dd6506ec761c29a12a40ddd29bb2ad9f,False,3
+c08c326ab17e,real/Water_Disaster_Dataset/Water_Disaster_019.mp4,real,1,Water,931,956910f87c3b7497fe287807bbcff890,False,0
+66b7f0cc6852,real/Water_Disaster_Dataset/Water_Disaster_020.mp4,real,1,Water,932,1bb2794e62272cf98930b9c054f33023,False,3
+eb279b2ef7f2,real/Water_Disaster_Dataset/Water_Disaster_021.mp4,real,1,Water,933,41d36dda39d8357d011f1328fc605b26,False,1
+09a792619bb0,real/Water_Disaster_Dataset/Water_Disaster_022.mp4,real,1,Water,934,365a30d7a14de28e04489ac365b383de,False,2
+9f1e70906e60,real/Water_Disaster_Dataset/Water_Disaster_023.mp4,real,1,Water,935,2a7a18d17adb479f3bc9f7cce8db7729,False,4
+e776343376ab,real/Water_Disaster_Dataset/Water_Disaster_024.mp4,real,1,Water,936,56b3b30a0d41350362fc0fb383a3528e,False,0
+997edcd449a7,real/Water_Disaster_Dataset/Water_Disaster_025.mp4,real,1,Water,937,e567323032c2498cd4620e25c8bab6f1,False,1
+50138ca804f8,real/Water_Disaster_Dataset/Water_Disaster_026.mp4,real,1,Water,938,b236437d932ee9b62500a4638828efc6,False,1
+d7d7bb11bace,real/Water_Disaster_Dataset/Water_Disaster_027.mp4,real,1,Water,939,d0bcbf78d38c8c2f6e5f4198404e2a3a,False,2
+8ec4d07f7044,real/Water_Disaster_Dataset/Water_Disaster_028.mp4,real,1,Water,940,efe18eb012bf797f0407eab7a7658e4f,False,2
+b16c9ac820ad,real/Water_Disaster_Dataset/Water_Disaster_029.mp4,real,1,Water,941,55bc4084ab41fe9c9103b3473228ebe5,False,3
+f0909c349184,real/Water_Disaster_Dataset/Water_Disaster_030.mp4,real,1,Water,942,2730d587a347f85acb33ce32763a2192,False,4
+297959cc12fa,real/Water_Disaster_Dataset/Water_Disaster_031.mp4,real,1,Water,943,866855b11adc95703b9080f4d02cf97e,False,0
+964d228b1d91,real/Water_Disaster_Dataset/Water_Disaster_032.mp4,real,1,Water,944,e34d69cf627628a7b18951e532cfdd3b,False,1
+5359efcf6cea,real/Water_Disaster_Dataset/Water_Disaster_033.mp4,real,1,Water,945,e2a00e81286dc4de82e708ee5538172b,False,3
+721d7ed1851d,real/Water_Disaster_Dataset/Water_Disaster_034.mp4,real,1,Water,946,e79a875f8b4670aa736a4a8736b74e49,False,2
+67cd8eda5495,real/Water_Disaster_Dataset/Water_Disaster_035.mp4,real,1,Water,947,f2caf7fd40f0b18b10b03b04092c5e2a,False,4
+003d08b9da6c,real/Water_Disaster_Dataset/Water_Disaster_036.mp4,real,1,Water,948,dfc33f8a306d3bed3581e0129c6a849c,False,4
+63994bf0f4d9,real/Water_Disaster_Dataset/Water_Disaster_037.mp4,real,1,Water,949,afce3fb2d3462f7a7278b2aa99494be8,False,0
+83736e93e082,real/Water_Disaster_Dataset/Water_Disaster_038.mp4,real,1,Water,950,54d668d9dcb3a565793aee661aeb33db,False,1
+c783ebd21c17,real/Water_Disaster_Dataset/Water_Disaster_039.mp4,real,1,Water,951,705d51b0f05c9cd4e29802e11a712e15,False,2
+def24e132559,real/Water_Disaster_Dataset/Water_Disaster_040.mp4,real,1,Water,952,76958fe819505f44ae54ac9fd39bdd09,False,3
+f79b049e92a8,real/Water_Disaster_Dataset/Water_Disaster_041.mp4,real,1,Water,953,acb6951aee1f69d567f5023620ffec66,False,0
+c14ebe455c72,real/Water_Disaster_Dataset/Water_Disaster_042.mp4,real,1,Water,954,206c4fdf18420fe320f2b94abe9ba1dd,False,1
+d86fc40cedc8,real/Water_Disaster_Dataset/Water_Disaster_043.mp4,real,1,Water,955,736f26d3353d113a5aa07559acc9b62f,False,2
+6f0c2a6ec647,real/Water_Disaster_Dataset/Water_Disaster_044.mp4,real,1,Water,956,66dcf7af81ebe6afe7dba528e8b9ac62,False,3
+3230ccef9098,real/Water_Disaster_Dataset/Water_Disaster_045.mp4,real,1,Water,957,d823c07db03695420089728fe50a3a89,False,4
+a81b8adf75e7,real/Water_Disaster_Dataset/Water_Disaster_046.mp4,real,1,Water,958,35d8e7a9d8f91df8fde9f53c876a8eea,False,2
+6ada96cc7705,real/Water_Disaster_Dataset/Water_Disaster_047.mp4,real,1,Water,958,b6d382ce29c01bf40f72aebccc4cfe03,False,2
+2b08663bbde1,real/Water_Disaster_Dataset/Water_Disaster_048.mp4,real,1,Water,959,4c43e81541eeba92a56c3b201af90849,False,0
+710db408333e,real/Water_Disaster_Dataset/Water_Disaster_049.mp4,real,1,Water,960,845fd1e7e9653d48e6683aaee879d64b,False,1
+0f547d5199a1,real/Water_Disaster_Dataset/Water_Disaster_050.mp4,real,1,Water,961,2284f4b33de8342f2978757d883efa9d,False,3
+fa2c97ea5603,real/Water_Disaster_Dataset/Water_Disaster_051.mp4,real,1,Water,962,b894b5be04a76bdc599727585704f302,False,4
+92a4578e42ad,real/Water_Disaster_Dataset/Water_Disaster_052.mp4,real,1,Water,963,9a87080e8a522d91c5f1eded68d36a7e,False,0
+120d0986a917,real/Water_Disaster_Dataset/Water_Disaster_053.mp4,real,1,Water,964,d7ea442ef57da05d2395222a2fb47046,False,3
+533e421bfe5e,real/Water_Disaster_Dataset/Water_Disaster_054.mp4,real,1,Water,965,278741b1455086fdb760dbb18eb43bee,False,1
+95d92e8dcdca,real/Water_Disaster_Dataset/Water_Disaster_055.mp4,real,1,Water,966,008bd131c1404ad69677403fc4dd4cc6,False,2
+095e23293762,real/Water_Disaster_Dataset/Water_Disaster_056.mp4,real,1,Water,967,384dd397efc12c31d45e5d7958d43015,False,4
+9dac4230e826,real/Water_Disaster_Dataset/Water_Disaster_057.mp4,real,1,Water,968,a9385bc75766092f3c197a5fe65e5f05,False,0
+fb88043cd6c0,real/Water_Disaster_Dataset/Water_Disaster_058.mp4,real,1,Water,967,b47e97e5ef6fea643c359e2267f47d7b,False,4
+974998634b24,real/Water_Disaster_Dataset/Water_Disaster_059.mp4,real,1,Water,969,01b31501bc3206e9988f12c7f63306fe,False,1
+292536c07813,real/Water_Disaster_Dataset/Water_Disaster_060.mp4,real,1,Water,970,6cb46963a05b74be4abaed561143dc41,False,0
+f0f5cbce2a95,real/Water_Disaster_Dataset/Water_Disaster_061.mp4,real,1,Water,971,1559df87b1745f273b623d363f742673,False,2
+4415043db803,real/Water_Disaster_Dataset/Water_Disaster_062.mp4,real,1,Water,972,14aa4a2a923bb6be9658749df9201af3,False,3
+e8f975cae63d,real/Water_Disaster_Dataset/Water_Disaster_063.mp4,real,1,Water,973,be40ccf948afda2862e8cabecd175d02,False,4
+112f2f9bd52d,real/Water_Disaster_Dataset/Water_Disaster_064.mp4,real,1,Water,974,02000621429261fd700fb759a436a97e,False,0
+5d42aeb99c7e,real/Water_Disaster_Dataset/Water_Disaster_065.mp4,real,1,Water,975,9c827267fb40275d15016fd3cddc3460,False,1
+90a9218290fc,real/Water_Disaster_Dataset/Water_Disaster_066.mp4,real,1,Water,976,b5c20a9507de4028bf86849ec1547a4d,False,4
+be3267716b72,real/Water_Disaster_Dataset/Water_Disaster_067.mp4,real,1,Water,977,7a0c689011789ba96c707f56797379d5,False,2
+364c9a3c283c,real/Water_Disaster_Dataset/Water_Disaster_068.mp4,real,1,Water,978,eadce62c01f7924b897ddd8ebadfa630,False,3
+2c5ae32a6586,real/Water_Disaster_Dataset/Water_Disaster_069.mp4,real,1,Water,979,c3a279534487ccbb7070e3112f01aa87,False,0
+7cd4867b79be,real/Water_Disaster_Dataset/Water_Disaster_070.mp4,real,1,Water,980,aa23053fc861747f8a05a848da99d7a8,False,1
+a77bf70f635d,real/Water_Disaster_Dataset/Water_Disaster_071.mp4,real,1,Water,981,5e9237be38bde0b62976b18405e74915,False,2
+9710399a8a9a,real/Water_Disaster_Dataset/Water_Disaster_072.mp4,real,1,Water,982,118df63243c825cf35fb307ffd13893a,False,3
+dba33f053e3d,real/Water_Disaster_Dataset/Water_Disaster_073.mp4,real,1,Water,983,9f47d0aa07d6fb1e64031270ad50bdca,False,4
+396588f2fa11,real/Water_Disaster_Dataset/Water_Disaster_074.mp4,real,1,Water,984,7cc84ce0879525929c4ac6cb449a6d45,False,0
+836aaf073c1e,real/Water_Disaster_Dataset/Water_Disaster_075.mp4,real,1,Water,985,69fef8f2e5a44053492b49268ad78231,False,1
+d5a67a29ed54,real/Water_Disaster_Dataset/Water_Disaster_076.mp4,real,1,Water,986,f927c2a411e5ee1eeceb80911bbcc26c,False,2
+0f2337fc3204,real/Water_Disaster_Dataset/Water_Disaster_077.mp4,real,1,Water,987,d368c56f91e81bd05157b6f8707fe654,False,3
+0ccb8edd35eb,real/Water_Disaster_Dataset/Water_Disaster_078.mp4,real,1,Water,988,912c0c77a17ec3b2cb742b9089b0566b,False,4
+a98bd8f88e56,real/Water_Disaster_Dataset/Water_Disaster_079.mp4,real,1,Water,989,a0792f68cf5809a65076189d9807470e,False,0
+ee209d18e245,real/Water_Disaster_Dataset/Water_Disaster_080.mp4,real,1,Water,990,70fa9dc1b7436872dc84c7bdce4723c9,False,1
+713a78cef531,real/Water_Disaster_Dataset/Water_Disaster_081.mp4,real,1,Water,991,b6e5b74b10902350f82870f88cf26fd0,False,3
+9099812e88c5,real/Water_Disaster_Dataset/Water_Disaster_082.mp4,real,1,Water,992,625d5778cf17d4d1bf12ec2e7b5a27f0,False,2
+98a58f90aefb,real/Water_Disaster_Dataset/Water_Disaster_083.mp4,real,1,Water,993,8276fc7334cb514ee2868179689fc15b,False,3
+aa9d1d2f4928,real/Water_Disaster_Dataset/Water_Disaster_084.mp4,real,1,Water,994,a1045035c958483ac34ff14cbb2ffa1e,False,4
+fa29eb0efa23,real/Water_Disaster_Dataset/Water_Disaster_085.mp4,real,1,Water,984,4f825f791b49666e6ff6c003d5bdbb26,False,0
+89ba66a6103a,real/Water_Disaster_Dataset/Water_Disaster_086.mp4,real,1,Water,992,6953dc3eb3bcba2bf4af86d62a6f53bb,False,2
+1e02219e20d8,real/Water_Disaster_Dataset/Water_Disaster_087.mp4,real,1,Water,985,dc4a8fff42dec547a3520b91e82f0a05,False,1
+077fa3e03a53,real/Water_Disaster_Dataset/Water_Disaster_088.mp4,real,1,Water,995,21fdbc8c09e97c93ce70d43e47b8b0c6,False,4
+9208332179f1,real/Water_Disaster_Dataset/Water_Disaster_089.mp4,real,1,Water,996,e4f3e9e6fcb332db569fe2377e559d4e,False,0
+978b91eb63ac,real/Water_Disaster_Dataset/Water_Disaster_090.mp4,real,1,Water,997,33efd43aaca9a17f0adce44fada7c6e9,False,1
+0d838c86b6c7,real/Water_Disaster_Dataset/Water_Disaster_091.mp4,real,1,Water,988,da6235757dfa81d2bbc63dcc0157188e,False,4
+f1b4d43c6c42,real/Water_Disaster_Dataset/Water_Disaster_092.mp4,real,1,Water,988,25e5ec3d130ae47fc64b1a924ae675bc,False,4
+535cd68d9523,real/Water_Disaster_Dataset/Water_Disaster_093.mp4,real,1,Water,988,5c8cb878374ae5f769025014cbc0197a,False,4
+7a1614a63cc5,real/Water_Disaster_Dataset/Water_Disaster_094.mp4,real,1,Water,995,1f4efd789ba88df3a2132731dee19273,False,4
+bcb3c9daab65,real/Water_Disaster_Dataset/Water_Disaster_095.mp4,real,1,Water,995,48265029c70ee2276617b5ff93519098,False,4
+f3df9217ce0b,real/Water_Disaster_Dataset/Water_Disaster_096.mp4,real,1,Water,984,abb13c649184c6f474878e9e486119b0,False,0
+c0908f7ae1fa,real/Water_Disaster_Dataset/Water_Disaster_097.mp4,real,1,Water,998,82b51904ced8299f1aadc729598f6a70,False,2
+5cd05c83bd28,real/Water_Disaster_Dataset/Water_Disaster_098.mp4,real,1,Water,999,f63032d420ce42011a29a4f8bf6e0e9a,False,3
+8285ead157f4,real/Water_Disaster_Dataset/Water_Disaster_099.mp4,real,1,Water,1000,f25e995e7b73f93d61c01970480dc74e,False,2
+25da366639fa,real/Water_Disaster_Dataset/Water_Disaster_100.mp4,real,1,Water,1001,998cce53e57644a3b4bbc94015d0e775,False,4
+5de4f1b96ccf,real/Water_Disaster_Dataset/Water_Disaster_101.mp4,real,1,Water,995,7197624926c0587ba15f3124dec672e8,False,4
+2f742ca3e9b1,real/Water_Disaster_Dataset/Water_Disaster_102.mp4,real,1,Water,995,9d626045dcf38c9153e982216dd5af70,False,4
+227688e36a3d,real/Water_Disaster_Dataset/Water_Disaster_103.mp4,real,1,Water,995,e38d1150d550bbb0ba4448ea2ab662a9,False,4
+da1b9d3c3e24,real/Water_Disaster_Dataset/Water_Disaster_104.mp4,real,1,Water,1002,858f046ad32211740d0bd154d2f68249,False,0
+1acf388bf9d1,real/Water_Disaster_Dataset/Water_Disaster_105.mp4,real,1,Water,1003,43038e18a7cdaf902e80b5355ec0c871,False,1
+0d77a081cc8e,real/Water_Disaster_Dataset/Water_Disaster_106.mp4,real,1,Water,1004,c8c82f77b02cdf4ef6b25c9140cc3888,False,3
+4c78caacefd3,real/Water_Disaster_Dataset/Water_Disaster_107.mp4,real,1,Water,1004,95fe16568bf8087070999b8de8588a5b,False,3
+15adbd005314,real/Water_Disaster_Dataset/Water_Disaster_108.mp4,real,1,Water,1004,a7841df12a2bc23036b247a8a237b308,False,3
+284086013f0e,real/Water_Disaster_Dataset/Water_Disaster_109.mp4,real,1,Water,1005,04c29ba7bb5672a5efaabe54681ade84,False,0
+cf20f7bd5ec2,real/Water_Disaster_Dataset/Water_Disaster_111.mp4,real,1,Water,1006,5da194773bcc272a62d86fab5002a6d8,False,3
+5176fee1d24b,real/Water_Disaster_Dataset/Water_Disaster_112.mp4,real,1,Water,1007,8853fdcf33ebf6ded7a63edc29406292,False,1
+523ffdcfb42d,real/Water_Disaster_Dataset/Water_Disaster_113.mp4,real,1,Water,1008,51b1e40a0cb181a81de5024317a53324,False,2
+f5c80917ae33,real/Water_Disaster_Dataset/Water_Disaster_114.mp4,real,1,Water,1009,8ce84d02a0cb5563b8cacf05931929f8,False,4
+da4d41705dd3,real/Water_Disaster_Dataset/Water_Disaster_115.mp4,real,1,Water,1010,ac2c7d0122df892b1239e328ef544c03,False,1
+cc76357a50b6,real/Water_Disaster_Dataset/Water_Disaster_116.mp4,real,1,Water,1011,87c3b2f0a6a0d7291465e2590abaac11,False,0
+11aa60f8b976,real/Water_Disaster_Dataset/Water_Disaster_117.mp4,real,1,Water,1012,e4396ccce0c68c114f433ebd22d036f7,False,4
+3477d55486c8,real/Water_Disaster_Dataset/Water_Disaster_118.mp4,real,1,Water,1013,d196be12bf51fa2d0fae4226b2a0faea,False,2
+66530c79f56e,real/Water_Disaster_Dataset/Water_Disaster_119.mp4,real,1,Water,1014,4b121a239d753d95432c1e1135fe185b,False,3
+de0532bb41ce,real/Water_Disaster_Dataset/Water_Disaster_120.mp4,real,1,Water,1015,b4d0f4d0ad8cef8c4117e7201f86417f,False,4
+a15e83753740,real/Water_Disaster_Dataset/Water_Disaster_121.mp4,real,1,Water,1016,1709a8d76e2a9227cb087d5eab80ff22,False,0
+c80e957ae5c5,real/Water_Disaster_Dataset/Water_Disaster_122.mp4,real,1,Water,1017,9ae8eb5b344b2e0775e35df47e0809f1,False,1
+bc7059fee3b2,real/Water_Disaster_Dataset/Water_Disaster_123.mp4,real,1,Water,1016,d896bf2fcdece3ec1c3323f7c677caa7,False,0
+2b12b8367f63,real/Water_Disaster_Dataset/Water_Disaster_124.mp4,real,1,Water,1018,7bd97af965a08fc4a88dd0cdc65e33d5,False,1
+aae21d17c2b0,real/Water_Disaster_Dataset/Water_Disaster_125.mp4,real,1,Water,1019,d10a1c9e4fe72d9d666e7a4a60b0fce9,False,2
+97e43588792c,real/Water_Disaster_Dataset/Water_Disaster_126.mp4,real,1,Water,1020,586831be8e98ea4d3d813e12df938ede,False,3
+4d61bcd95782,real/Water_Disaster_Dataset/Water_Disaster_127.mp4,real,1,Water,1021,2671d78a9f5e3ad3f79b45a4f842430a,False,4
+cee02158b50b,real/Water_Disaster_Dataset/Water_Disaster_128.mp4,real,1,Water,1022,e85d24ffc42365f7bb58d99408c3e069,False,2
+fd2a08acb636,real/Water_Disaster_Dataset/Water_Disaster_129.mp4,real,1,Water,1023,5e627eac3be7da2c0c02d01539692c1a,False,1
+ca3faa3d61ce,real/Water_Disaster_Dataset/Water_Disaster_130.mp4,real,1,Water,1024,bd27fb6fc2669c0541c44ea3c5a900f1,False,3
+5f9129ca1387,real/Water_Disaster_Dataset/Water_Disaster_131.mp4,real,1,Water,1025,ee4f4ec315f0f6299c6d7ec72c3b2273,False,0
+ed481044a917,real/Water_Disaster_Dataset/Water_Disaster_132.mp4,real,1,Water,1026,442190e9b30e86ac2c4519674487e6ea,False,2
+149ffce550ad,real/Water_Disaster_Dataset/Water_Disaster_133.mp4,real,1,Water,1027,824c4497c12480331cb9ebffba67b4fa,False,4
+725a5a1fc720,real/Water_Disaster_Dataset/Water_Disaster_134.mp4,real,1,Water,1028,4428ef720c80f38075f1de8b9ee035b7,False,2
+466230dd7b56,real/Water_Disaster_Dataset/Water_Disaster_135.mp4,real,1,Water,1029,77e6641b5672fa948baed4e403e0a983,False,0
+3c3ec35ad160,real/Water_Disaster_Dataset/Water_Disaster_136.mp4,real,1,Water,1030,ad37e7e23834ca18cfcde358802a9d60,False,1
+969e8b44c8a8,real/Water_Disaster_Dataset/Water_Disaster_137.mp4,real,1,Water,1031,54a081b9d8b897c219eddaf2ee38e915,False,3
+72a3cad12f85,real/Water_Disaster_Dataset/Water_Disaster_138.mp4,real,1,Water,1032,47b9a93e4798ed45321de3c3a18c004b,False,4
+f7bf685cc946,real/Water_Disaster_Dataset/Water_Disaster_139.mp4,real,1,Water,1033,8143041102a5690422e17fa70e9d4917,False,1
+ed3d7e4ed1b4,real/Water_Disaster_Dataset/Water_Disaster_140.mp4,real,1,Water,1034,a1a45064f1b6a11dac024539ebfa7f80,False,0
+8576142387fe,real/Water_Disaster_Dataset/Water_Disaster_141.mp4,real,1,Water,1035,50a9ba07cf7c94e0a9a4d61fd434b560,False,3
+14ea85b97115,real/Water_Disaster_Dataset/Water_Disaster_142.mp4,real,1,Water,1036,22b4f52da69c2ec1bf18b7aa39e27b3e,False,2
+3f9c9bd25b98,real/Water_Disaster_Dataset/Water_Disaster_143.mp4,real,1,Water,1037,505d1f328f19b54a4a8549f195e86a87,False,4
+999952708b44,real/Water_Disaster_Dataset/Water_Disaster_144.mp4,real,1,Water,1038,fbb3a0e4098cfa4354387fa5f9d663be,False,2
+b5f94527af04,real/Water_Disaster_Dataset/Water_Disaster_145.mp4,real,1,Water,1039,e7ef326adff2362e0fc556e50743ae39,False,0
+c5db0fcb5c44,real/Water_Disaster_Dataset/Water_Disaster_146.mp4,real,1,Water,1040,b4b32749b3adc5477aba39bc5fd2ac01,False,1
+07cb635da301,real/Water_Disaster_Dataset/Water_Disaster_147.mp4,real,1,Water,1041,45a2104b8d4ce4b61330e2d126894ed0,False,2
+5a4937e97070,real/Water_Disaster_Dataset/Water_Disaster_148.mp4,real,1,Water,1042,c4ecdb8a33ddb3ea43ce8dea3a62dfc8,False,3
+8abd97f6fd18,real/Water_Disaster_Dataset/Water_Disaster_149.mp4,real,1,Water,1043,e3185db16dcd202981e8468a36deb0eb,False,4
+ad27b1fce7f9,real/Water_Disaster_Dataset/Water_Disaster_150.mp4,real,1,Water,1044,a642690687c48fee6113c0435de2235e,False,1
+4a6540ebebbc,real/Water_Disaster_Dataset/Water_Disaster_151.mp4,real,1,Water,1045,bde9872a82346c43fd4543bb7b26d36a,False,0
+ffa7b4116999,real/Water_Disaster_Dataset/Water_Disaster_152.mp4,real,1,Water,1046,5314ab28843df9b4b8ef1a79740d1cb6,False,2
+4b11dd1cd0ab,real/Water_Disaster_Dataset/Water_Disaster_153.mp4,real,1,Water,1047,5bd03eb85c66f40da4ab17ca434e66ec,False,0
+733c39e3efad,real/Water_Disaster_Dataset/Water_Disaster_154.mp4,real,1,Water,1048,5c349c9ef6796ddcb4e5feadce3ab009,False,3
+82faf6a8b4c1,real/Water_Disaster_Dataset/Water_Disaster_155.mp4,real,1,Water,1049,73808bac9061cd5ea350d025c74c6e75,False,4
+aaf758c5adeb,real/Water_Disaster_Dataset/Water_Disaster_156.mp4,real,1,Water,1050,e81d76308e852b9cfac5f22dbf60222e,False,0
+c812265f1a13,real/Water_Disaster_Dataset/Water_Disaster_157.mp4,real,1,Water,1051,a6da528078a1aab41b782fd21a9e9a88,False,1
+71870d39b00b,real/Water_Disaster_Dataset/Water_Disaster_158.mp4,real,1,Water,1052,8cd83b99815e6c931db49c039c0e5e65,False,2
+ddb50a4c5596,real/Water_Disaster_Dataset/Water_Disaster_159.mp4,real,1,Water,1053,4c40f7d8ecba84aeca53e1235c9e65e7,False,3
+376753a26d04,real/Water_Disaster_Dataset/Water_Disaster_160.mp4,real,1,Water,1054,8336be20e2bbc1aa6d5d9b04a2041926,False,4
+9d163256f3fc,real/Water_Disaster_Dataset/Water_Disaster_161.mp4,real,1,Water,1028,516a62a1ec0607a400002a4b2bb3c9fb,False,2
+dc2b8e3642d5,real/Water_Disaster_Dataset/Water_Disaster_162.mp4,real,1,Water,1055,03618319777eb6d0ea6aa63f3a2ab5cc,False,3
+99b4ef1d5289,real/Water_Disaster_Dataset/Water_Disaster_163.mp4,real,1,Water,1056,f35bab0355ec3a1b7711dd41761e7a02,False,0
+d1c8669a9345,real/Water_Disaster_Dataset/Water_Disaster_164.mp4,real,1,Water,1056,e6399013639683ff7a562d225669d95f,False,0
+e2aa3daa4cb4,real/Water_Disaster_Dataset/Water_Disaster_165.mp4,real,1,Water,1057,73ecd5759026101718819ff3e9f2786f,False,1
+4bc958bfb100,real/Water_Disaster_Dataset/Water_Disaster_166.mp4,real,1,Water,1058,9fec31eced03d85b49c81baa8cc9cc61,False,2
+3f423a0873b2,real/Water_Disaster_Dataset/Water_Disaster_167.mp4,real,1,Water,1058,8cb5608ea7d3e77816bb5bac84365699,False,2
+4c1b7024bd59,real/Water_Disaster_Dataset/Water_Disaster_168.mp4,real,1,Water,1059,6286dc3dce1fc24df82a33d410c4f588,False,4
+d7dd6614d7b5,real/Water_Disaster_Dataset/Water_Disaster_169.mp4,real,1,Water,1060,b4672692911cd77593955c90340e4d2b,False,3
+b5f8263fc239,real/Water_Disaster_Dataset/Water_Disaster_170.mp4,real,1,Water,1061,5602914d3122cb3a1b46ae7a657ed6ca,False,0
+7644df9656b9,real/Water_Disaster_Dataset/Water_Disaster_171.mp4,real,1,Water,1062,d9500de70be8f7d42ed63631afaca34a,False,1
+9bc03d7ee9f0,real/Water_Disaster_Dataset/Water_Disaster_172.mp4,real,1,Water,1063,0e359baaf5347dcbef8d15428508ccf1,False,2
+ec37f0eb5fe4,real/Water_Disaster_Dataset/Water_Disaster_173.mp4,real,1,Water,1064,9a40ea6503ef198f7a43892d0be39c45,False,3
+9d71329c7c98,real/Water_Disaster_Dataset/Water_Disaster_174.mp4,real,1,Water,1065,a1aa0d1733baed1f729d2405e273a951,False,4
+029eb8b429c2,real/Water_Disaster_Dataset/Water_Disaster_175.mp4,real,1,Water,1066,4747671d90ec442238bde2f34618f68d,False,1
+3c99f5713a61,real/Water_Disaster_Dataset/Water_Disaster_176.mp4,real,1,Water,1067,95391028b02196cca3fb876fc90c2b00,False,0
+f6c0fcd0d699,real/Water_Disaster_Dataset/Water_Disaster_177.mp4,real,1,Water,1068,b1f9e016e93264ad3adae662e25a64c5,False,2
+d1b90902e1f2,real/Water_Disaster_Dataset/Water_Disaster_178.mp4,real,1,Water,1069,6ed70b468a7740ff3700008a7e3ba250,False,3
+c338aeeff090,real/Water_Disaster_Dataset/Water_Disaster_179.mp4,real,1,Water,1070,06ee268bdfdff322e08a1da0a721e3e3,False,4
+1c77f28e55d0,real/Water_Disaster_Dataset/Water_Disaster_180.mp4,real,1,Water,1071,b88a06702ec1cebebbdce7668ab53055,False,0
+c528f185db85,real/Water_Disaster_Dataset/Water_Disaster_181.mp4,real,1,Water,1009,91a5615ea504133c5500919973a6972c,False,4
+a50423309085,real/Water_Disaster_Dataset/Water_Disaster_182.mp4,real,1,Water,1072,ca893724987dd40e214bc8b137519700,False,1
+a7ab1899bc24,real/Water_Disaster_Dataset/Water_Disaster_183.mp4,real,1,Water,1073,3f953c076b438c40379e2105a5bb4da5,False,2
+4f7cb1cb8c58,real/Water_Disaster_Dataset/Water_Disaster_184.mp4,real,1,Water,1074,507cbdd27c437aa671ae037414bd1e40,False,3
+f91db6c07ee0,real/Water_Disaster_Dataset/Water_Disaster_185.mp4,real,1,Water,1075,535a400bdc833a34e313efcda4d0bfb5,False,4
+9fa45a5bc13d,real/Water_Disaster_Dataset/Water_Disaster_186.mp4,real,1,Water,1076,54c61d0006211035bcbc7450b4fc2305,False,0
+bd78cdc5e6c9,real/Water_Disaster_Dataset/Water_Disaster_187.mp4,real,1,Water,1077,e2e683e63b8925bfb9326206fd26b9da,False,4
+f1b8e93424ee,real/Water_Disaster_Dataset/Water_Disaster_188.mp4,real,1,Water,1078,b4326ac38b5e03f1aeed2b895b53206b,False,1
+c5560cc50e32,real/Water_Disaster_Dataset/Water_Disaster_189.mp4,real,1,Water,1079,924e6f0d14f6bcafcc9c714d8117764f,False,2
+7e85f6a1b4ea,real/Water_Disaster_Dataset/Water_Disaster_190.mp4,real,1,Water,1080,bf8ac657654d955022aa090351255216,False,3
+e2479b483045,real/Water_Disaster_Dataset/Water_Disaster_191.mp4,real,1,Water,1081,f7ac48a3ba90ee5d78be4e0c7d8dda23,False,0
+5c1566eea070,real/Water_Disaster_Dataset/Water_Disaster_192.mp4,real,1,Water,1082,534038e9f8c835802deb898aef69c7db,False,4
+5bbc65309772,real/Water_Disaster_Dataset/Water_Disaster_193.mp4,real,1,Water,1083,ee10597cf8e25f09df0ef34b556c1eea,False,2
+ce3324432869,real/Water_Disaster_Dataset/Water_Disaster_194.mp4,real,1,Water,1084,2171eb4da2abbfb7242d4e3453f8b492,False,4
+2e577fbbbdb3,real/Water_Disaster_Dataset/Water_Disaster_195.mp4,real,1,Water,1085,ddb82a42df690a721818ec73d70523ec,False,1
+72442d8e87b8,real/Water_Disaster_Dataset/Water_Disaster_196.mp4,real,1,Water,1086,e73eae70b9d7cc2eaf4fdcc77ca64442,False,3
+187389ff9610,real/Water_Disaster_Dataset/Water_Disaster_197.mp4,real,1,Water,1086,efc5147f814058f9ffcd1e88a6e20d97,False,3
+f3bc3c0ac5c8,real/Water_Disaster_Dataset/Water_Disaster_198.mp4,real,1,Water,1087,3d36e4b53ebf1887d893690f4d475c39,False,0
+e8ca021e9cd3,real/Water_Disaster_Dataset/Water_Disaster_199.mp4,real,1,Water,1087,79ef1ac958a344fbbb3f4a84620a2251,False,0
+7b80243bf4e8,real/Water_Disaster_Dataset/Water_Disaster_200.mp4,real,1,Water,1084,2360d11e36391e108cae2c1c89dfd935,False,4
+86e71a357331,real/Water_Disaster_Dataset/Water_Disaster_201.mp4,real,1,Water,1088,49d0064ff00f2797c86132c95e6c33cb,False,1
+9b2654271e2a,real/Water_Disaster_Dataset/Water_Disaster_202.mp4,real,1,Water,1089,5738980c8b4e34f9fc972b09a6b9b8e6,False,2
+f165fd39531b,real/Water_Disaster_Dataset/Water_Disaster_203.mp4,real,1,Water,1090,e680eb993b17f1f2a98be9e0ee2ded2d,False,3
+971d7ead983e,real/Water_Disaster_Dataset/Water_Disaster_204.mp4,real,1,Water,1091,fe30c7f8bff1966b26df37d669f675ab,False,4
+dac7ec8bc7d8,real/Water_Disaster_Dataset/Water_Disaster_205.mp4,real,1,Water,1092,f9e14696e4e6d41c8f83f90fdefbf07a,False,4
+b853e32efb18,real/Water_Disaster_Dataset/Water_Disaster_206.mp4,real,1,Water,1093,5575e0ac9ca50319b183cf3c7e237f05,False,1
+dd682550857c,real/Water_Disaster_Dataset/Water_Disaster_207.mp4,real,1,Water,1094,e3d624c7f45a2dbabcf34837c257bf66,False,0
+4a14cbd3c2b2,real/Water_Disaster_Dataset/Water_Disaster_208.mp4,real,1,Water,1095,775456b3fe67c25ebbaa31914815ff65,False,1
+5bca4e5a2cf7,real/Water_Disaster_Dataset/Water_Disaster_209.mp4,real,1,Water,1096,775e77282edaba584051a3085a589d2a,False,2
+cd069797b8a4,real/Water_Disaster_Dataset/Water_Disaster_210.mp4,real,1,Water,1097,f588fef557b74c51a36951312cb15f01,False,3
+f7803f5a9ccd,real/Water_Disaster_Dataset/Water_Disaster_211.mp4,real,1,Water,1098,a08aee99eb505904407d1e1fb914f078,False,2
+0eceffa9d813,real/Water_Disaster_Dataset/Water_Disaster_212.mp4,real,1,Water,1099,a2b62bbd6c7ac1464a151c76f2d80d16,False,0
+2fa926663e1a,real/Water_Disaster_Dataset/Water_Disaster_213.mp4,real,1,Water,1100,16832effc423357dec6cc09c9ba49aaa,False,3
+331be595df5e,real/Water_Disaster_Dataset/Water_Disaster_214.mp4,real,1,Water,1101,6d3c780a4388af5ad5273e074819b884,False,1
+3c1973cb0b34,real/Water_Disaster_Dataset/Water_Disaster_215.mp4,real,1,Water,1102,c9bdd341551f3a2d8285c60ea6d9ccd5,False,4
+72079aaedd82,real/Water_Disaster_Dataset/Water_Disaster_216.mp4,real,1,Water,1103,a6e62967b91a65be98045da91b333bf1,False,0
+86bcc6640d23,real/Water_Disaster_Dataset/Water_Disaster_217.mp4,real,1,Water,1096,cfa2c6f8a494d61e82cfa860a1821972,False,2
+0a856db2ef57,real/Water_Disaster_Dataset/Water_Disaster_218.mp4,real,1,Water,1104,1fa3da0f150ac46390be4898d3c2081b,False,1
+49e3c415f707,real/Water_Disaster_Dataset/Water_Disaster_219.mp4,real,1,Water,1105,adfadd8eda0a95bbae62cdc020b3c35e,False,2
+734039c5b7bc,real/Water_Disaster_Dataset/Water_Disaster_220.mp4,real,1,Water,1106,d85afe3625530ad57fe9fd68b092c92b,False,4
+8f5fcdce2712,real/Water_Disaster_Dataset/Water_Disaster_221.mp4,real,1,Water,1107,01c5aa9d9159d61cfb45e8f88d96e35a,False,2
+a0c7d68b5987,real/Water_Disaster_Dataset/Water_Disaster_222.mp4,real,1,Water,1108,399a6e37cd43546b36d16b22e2db219a,False,3
+e70bfa1c502a,real/Water_Disaster_Dataset/Water_Disaster_223.mp4,real,1,Water,1109,bd95f32afc52bd1711244a9dd025f1c9,False,3
+c87f3a5a1b49,real/Water_Disaster_Dataset/Water_Disaster_224.mp4,real,1,Water,1110,43ddd65f0a1f7d7fdae604160e1d3d73,False,3
+d65d37e381e9,real/Water_Disaster_Dataset/Water_Disaster_225.mp4,real,1,Water,1111,7479ff48d4a6a644e3abbb2dd7f49078,False,0
+e732e0ec4687,real/Water_Disaster_Dataset/Water_Disaster_226.mp4,real,1,Water,1112,ac0edcd8da20a8379fba225aeb1e3af2,False,1
+0affbe75cb5a,real/Water_Disaster_Dataset/Water_Disaster_227.mp4,real,1,Water,1113,e3bfd6a9b815855ba295f5b464978a04,False,2
+397b19c9405c,real/Water_Disaster_Dataset/Water_Disaster_228.mp4,real,1,Water,1114,88e683f7b67d883d1377dd6f935590fd,False,4
+cb59a71b96dc,real/Water_Disaster_Dataset/Water_Disaster_229.mp4,real,1,Water,1114,cb458ac7dad4ce5cea157829130902f8,False,4
+9b43163a8eb3,real/Water_Disaster_Dataset/Water_Disaster_230.mp4,real,1,Water,1115,f19ef5091040cf4b89c8d8ed6531e44c,False,1
+ad40f0b9b15a,real/Water_Disaster_Dataset/Water_Disaster_231.mp4,real,1,Water,1116,8f556b0f85e34de572ab84d7ba8e0b10,False,0
+2386f2f7d7fe,real/Water_Disaster_Dataset/Water_Disaster_232.mp4,real,1,Water,1117,0d4838b2ce0f383cb8837c40561156a5,False,3
+9a5750de4659,real/Water_Disaster_Dataset/Water_Disaster_233.mp4,real,1,Water,1118,f86b67b0ded8deabf7b4e69d93d23770,False,2
+64f7bbbdbec8,real/Water_Disaster_Dataset/Water_Disaster_234.mp4,real,1,Water,1119,47989b6d037445729e503ba11b93ed18,False,4
+5126b586d0c3,real/Water_Disaster_Dataset/Water_Disaster_235.mp4,real,1,Water,1120,ab3c0d34f4ba707e1042ea95103e1d56,False,0
+8b73753af87a,real/Water_Disaster_Dataset/Water_Disaster_236.mp4,real,1,Water,1121,4563f0b16754b334a4de7b4c424e5733,False,0
+2b5113ed7261,real/Water_Disaster_Dataset/Water_Disaster_237.mp4,real,1,Water,1122,b1fed953202bb0c75a13d644ad56d299,False,1
+82b6bfd567af,real/Water_Disaster_Dataset/Water_Disaster_238.mp4,real,1,Water,1123,1ce672817767ba41124d604fe82682c9,False,2
+12cfe6bbd0ab,real/Water_Disaster_Dataset/Water_Disaster_239.mp4,real,1,Water,1124,d6115a5b4bf8e2108ada977614c72ad7,False,0
+737672ebca01,real/Water_Disaster_Dataset/Water_Disaster_240.mp4,real,1,Water,1125,1a9d69a1ed239958dfed5e0b21a8d526,False,3
+185bb8d75560,real/Water_Disaster_Dataset/Water_Disaster_241.mp4,real,1,Water,1126,874e30c8c3eaf29ab8ab55e8cdfca748,False,4
+f1be0e55c646,real/Water_Disaster_Dataset/Water_Disaster_242.mp4,real,1,Water,1098,5550f9bd63a9a2792ea2033b1198670c,False,2
+007776891ef1,real/Water_Disaster_Dataset/Water_Disaster_243.mp4,real,1,Water,1127,8fc93cbc5d10b55f5f58aa691b769b20,False,1
+120e8d1caf7d,real/Water_Disaster_Dataset/Water_Disaster_244.mp4,real,1,Water,1128,620cb28cdb74cd12e30c1708eaa10796,False,2
+bbb916f3ff95,real/Water_Disaster_Dataset/Water_Disaster_245.mp4,real,1,Water,1129,4f399b33bef189b04fb85207d8ddc1ee,False,4
+c734bef825d5,real/Water_Disaster_Dataset/Water_Disaster_246.mp4,real,1,Water,1130,cefc4b6994a3a11a4015828d487138ac,False,0
+fc206b5caff2,real/Water_Disaster_Dataset/Water_Disaster_247.mp4,real,1,Water,1131,f9cc865e8f877d9a9ed90ac3240b6b73,False,2
+4a67b7cdc7d3,real/Water_Disaster_Dataset/Water_Disaster_248.mp4,real,1,Water,1132,32206e814f845ab2601a157fabf847e4,False,3
+178be1f618e7,real/Water_Disaster_Dataset/Water_Disaster_249.mp4,real,1,Water,1133,9d8b4524d7fdaa359fae83383cb3a182,False,0
+bc04a194911a,real/Water_Disaster_Dataset/Water_Disaster_250.mp4,real,1,Water,1134,8c9ffd598d6addb88c1f813b390e55dd,False,3
+1a353db5ef38,real/Water_Disaster_Dataset/Water_Disaster_251.mp4,real,1,Water,1135,08b7406bb2d936f0ba825456e25e76d7,False,1
+22bd5f8329ea,real/Water_Disaster_Dataset/Water_Disaster_252.mp4,real,1,Water,1136,91f9dc0fca192f8d5e0fd69a74f9aed3,False,2
+cae9c060471e,real/Water_Disaster_Dataset/Water_Disaster_253.mp4,real,1,Water,1137,afbc5dc6e83c3a218011f31e99c90923,False,4
+689f6f4d021b,real/Water_Disaster_Dataset/Water_Disaster_254.mp4,real,1,Water,1138,b723d72f909535cbce15320d32718f2f,False,0
+e4eba945984b,real/Water_Disaster_Dataset/Water_Disaster_255.mp4,real,1,Water,1139,163ac6fc2f78d03c7a4b46006f6db966,False,2
+540df70c197d,real/Water_Disaster_Dataset/Water_Disaster_256.mp4,real,1,Water,1140,a282f5402d7407ebc03ab4b8a9c95331,False,4
+985c8301e40d,real/Water_Disaster_Dataset/Water_Disaster_257.mp4,real,1,Water,1141,f86fc1e0423b2738a4bfcd139fb49278,False,0
+e4ea0f8545c1,real/Water_Disaster_Dataset/Water_Disaster_258.mp4,real,1,Water,1142,165961de7e7001a143af6bea1aabf99c,False,1
+a2c7c667f4b8,real/Water_Disaster_Dataset/Water_Disaster_259.mp4,real,1,Water,1143,67eaa3223e35bae73ba5aae203a9cd77,False,3
+d080aaa81dad,real/Water_Disaster_Dataset/Water_Disaster_260.mp4,real,1,Water,1144,e460039c92e60d3f016528054e89720e,False,0
+cd5e8ad34200,real/Water_Disaster_Dataset/Water_Disaster_261.mp4,real,1,Water,1145,92f9dab62ed098ba39ed76be74a1cd9e,False,1
+cbb500d1aacc,real/Water_Disaster_Dataset/Water_Disaster_262.mp4,real,1,Water,1146,a755518b57bb8fb4e93063a8cf94a541,False,3
+51090d67d9a1,real/Water_Disaster_Dataset/Water_Disaster_263.mp4,real,1,Water,1147,e4c86c1e15e40ca0bef31171385e3194,False,2
+6b02046684ab,real/Water_Disaster_Dataset/Water_Disaster_264.mp4,real,1,Water,1148,1592deb7b2713fb301d35b09d4165063,False,4
+db63bbe67701,real/Water_Disaster_Dataset/Water_Disaster_265.mp4,real,1,Water,1149,694afa8ad06068d4d0410bebc4b09bed,False,2
+3fba7dad9b43,real/Wildfire_Video_Dataset/Wildfire_001.mp4,real,1,Wildfire,1150,a387b62f9021f3627441cfaaa746de2b,False,0
+1917e8ffae71,real/Wildfire_Video_Dataset/Wildfire_002.mp4,real,1,Wildfire,1151,503bee6a68ba4861efcd12f0d1f4c93c,False,1
+86e275ab9f71,real/Wildfire_Video_Dataset/Wildfire_003.mp4,real,1,Wildfire,1152,501d92ca52e3b0dd21fd08db9f6a8340,False,3
+5d87fa760efa,real/Wildfire_Video_Dataset/Wildfire_004.mp4,real,1,Wildfire,1153,8ee8ea16ae9a260749a37e26c3afee78,False,4
+521f3f43f69b,real/Wildfire_Video_Dataset/Wildfire_005.mp4,real,1,Wildfire,1154,81a58d0b8a21e7207455972b6830f57b,False,0
+5325d5accfc7,real/Wildfire_Video_Dataset/Wildfire_006.mp4,real,1,Wildfire,1155,27dfe036bf4fcff56b478e6d580b1c56,False,1
+88b5f740337d,real/Wildfire_Video_Dataset/Wildfire_007.mp4,real,1,Wildfire,1156,ace4755372da049e9b63384d8c0b723d,False,4
+dcbe6e1f4301,real/Wildfire_Video_Dataset/Wildfire_008.mp4,real,1,Wildfire,1157,a1f9ccd5a8cf0127d40a3f54b8c27468,False,3
+8f888a15cfbf,real/Wildfire_Video_Dataset/Wildfire_009.mp4,real,1,Wildfire,1158,46565be91b4e70c473a2d0a317a996ca,False,4
+6b187c938688,real/Wildfire_Video_Dataset/Wildfire_010.mp4,real,1,Wildfire,1159,539d3fcca0ddc9e820ae978debc0eb68,False,4
+8819e61294c5,real/Wildfire_Video_Dataset/Wildfire_011.mp4,real,1,Wildfire,1160,f898b744af7b2200697d5e550c91c2f9,False,3
+8fe0580f6054,real/Wildfire_Video_Dataset/Wildfire_012.mp4,real,1,Wildfire,1161,095684d7caa79b7f083bac695c554c3e,False,2
+8baf30e8c416,real/Wildfire_Video_Dataset/Wildfire_013.mp4,real,1,Wildfire,1162,63a4b0a6eabd8490ae8691c4025fb5ac,False,0
+50167acf0e73,real/Wildfire_Video_Dataset/Wildfire_014.mp4,real,1,Wildfire,1162,1fbbdd0f0eb978a0f618f3254e97a9e8,False,0
+cd7a1da4b2d5,real/Wildfire_Video_Dataset/Wildfire_015.mp4,real,1,Wildfire,1162,681c75a1945d67d6416ddba868431244,False,0
+0bee6ddf34d1,real/Wildfire_Video_Dataset/Wildfire_016.mp4,real,1,Wildfire,1162,aacc3098e8a8a2b51fa6a70dfca3bd4c,False,0
+e8ac8854440a,real/Wildfire_Video_Dataset/Wildfire_017.mp4,real,1,Wildfire,1163,e6424b6f6d69ce2684c1c0a51ee7080a,False,2
+d38afa34e7c0,real/Wildfire_Video_Dataset/Wildfire_018.mp4,real,1,Wildfire,1164,f2657d2db7303ebf48d89906d7299654,False,1
+679ce1566691,real/Wildfire_Video_Dataset/Wildfire_019.mp4,real,1,Wildfire,1165,91fe6c509d4701a122bfa635d16a3875,False,3
+c09669111983,real/Wildfire_Video_Dataset/Wildfire_020.mp4,real,1,Wildfire,1166,3d84dda3928440a830aa461e5489fc46,False,4
+0b1b50a801ee,real/Wildfire_Video_Dataset/Wildfire_021.mp4,real,1,Wildfire,1167,177e5ea8fdb9da01a766725ba3836408,False,4
+6a51a7bd0012,real/Wildfire_Video_Dataset/Wildfire_022.mp4,real,1,Wildfire,1168,3b29324464bf0233ad0b025a320877eb,False,2
+0903ce142973,real/Wildfire_Video_Dataset/Wildfire_023.mp4,real,1,Wildfire,1169,b32a7e76c9352e58e817d730fc1bf070,False,0
+100d5f62c21a,real/Wildfire_Video_Dataset/Wildfire_024.mp4,real,1,Wildfire,1166,7c7b31270003809be453de94022b6cf7,False,4
+3148eca8a942,real/Wildfire_Video_Dataset/Wildfire_025.mp4,real,1,Wildfire,1170,1942d6e38a86f8bc5e811bbba7002ee6,False,1
+8595d9852fcf,real/Wildfire_Video_Dataset/Wildfire_026.mp4,real,1,Wildfire,1171,5c9a9ef8d0d9a0a779f43b5b57b85a26,False,3
+00925c28bc4e,real/Wildfire_Video_Dataset/Wildfire_027.mp4,real,1,Wildfire,1172,34f5c187f988586f17d450eb83397ce8,False,0
+927989de8c31,real/Wildfire_Video_Dataset/Wildfire_028.mp4,real,1,Wildfire,1173,08b97924f86855fbce0dfc305f2ec1bc,False,1
+2e4d289640b5,real/Wildfire_Video_Dataset/Wildfire_029.mp4,real,1,Wildfire,1174,fd2490309a662c883c22f66595ad5805,False,2
+fefaf2f8fc2a,real/Wildfire_Video_Dataset/Wildfire_030.mp4,real,1,Wildfire,1175,5e6896928dca7fe7ca290f73e53e374d,False,3
+41569805f835,real/Wildfire_Video_Dataset/Wildfire_031.mp4,real,1,Wildfire,1176,cfd20d81ade574a0bfbf34be4ef1c797,False,4
+c087156eb29a,real/Wildfire_Video_Dataset/Wildfire_032.mp4,real,1,Wildfire,1177,f522f3788556ad3b9200fdb46cee25f5,False,2
+5806a4b6faf7,real/Wildfire_Video_Dataset/Wildfire_033.mp4,real,1,Wildfire,1177,b29d0ac391d4d71d76df1374f28612ff,False,2
+3d1bd376c196,real/Wildfire_Video_Dataset/Wildfire_034.mp4,real,1,Wildfire,1178,5d51c8114b517fff39adb37d134ca315,False,0
+97edd6f34c17,real/Wildfire_Video_Dataset/Wildfire_035.mp4,real,1,Wildfire,1162,a2d25552b9742724e16f447d3a979068,False,0
+c6ee055bd84b,real/Wildfire_Video_Dataset/Wildfire_036.mp4,real,1,Wildfire,1162,5c5f45f183e21cc8ea0b8e00cb0d36ff,False,0
+f39f5b66db1f,real/Wildfire_Video_Dataset/Wildfire_037.mp4,real,1,Wildfire,1179,6cd7bf4aeb09e208a8d8764dc48cb181,False,4
+18e9166e0526,real/Wildfire_Video_Dataset/Wildfire_038.mp4,real,1,Wildfire,1180,7611ff73958f151b6b4485d0e76d6c66,False,1
+a4e68356d198,real/Wildfire_Video_Dataset/Wildfire_039.mp4,real,1,Wildfire,1179,9f0b90a0e696ba59aa8150e086fdb588,False,4
+b0d79eec44ed,real/Wildfire_Video_Dataset/Wildfire_040.mp4,real,1,Wildfire,1181,fca984c8a91e74ec72976ce1b3d633b4,False,3
+4621d959f4e7,real/Wildfire_Video_Dataset/Wildfire_041.mp4,real,1,Wildfire,1182,cf268cd5a75cf33e3ba7d7a491bb6832,False,0
+4caeb6615ab6,real/Wildfire_Video_Dataset/Wildfire_042.mp4,real,1,Wildfire,1183,14d58468e8e8d1334aea17014cddeb32,False,3
+d570f7025ba7,real/Wildfire_Video_Dataset/Wildfire_043.mp4,real,1,Wildfire,1184,41a46a5e4dfac3f50b358c92b1dedc6e,False,1
+8f431ccaa9e1,real/Wildfire_Video_Dataset/Wildfire_044.mp4,real,1,Wildfire,1185,a3a324449270314ec1190a53d5081b48,False,2
+9f61e4b140a0,real/Wildfire_Video_Dataset/Wildfire_045.mp4,real,1,Wildfire,1186,58fff2938e16512dd801998b26b35713,False,4
+4c48f2f22ad4,real/Wildfire_Video_Dataset/Wildfire_046.mp4,real,1,Wildfire,1187,a1fdbc8573f9843d67d5c1297a360133,False,1
+ef9e412f1915,real/Wildfire_Video_Dataset/Wildfire_047.mp4,real,1,Wildfire,1188,519474fbaf6f351f69c9b5bc4518e318,False,2
+ab412a575d01,real/Wildfire_Video_Dataset/Wildfire_048.mp4,real,1,Wildfire,1189,788bed35ffc8ba25e844a78fab9d0b2e,False,4
+8ba6f1b71161,real/Wildfire_Video_Dataset/Wildfire_049.mp4,real,1,Wildfire,1185,a1f55776b9d85543bb8abd28493ae756,False,2
+56450300b23f,real/Wildfire_Video_Dataset/Wildfire_050.mp4,real,1,Wildfire,1190,4530cc11107572bfcf36327c867fce06,False,0
+ecd66d66af78,real/Wildfire_Video_Dataset/Wildfire_051.mp4,real,1,Wildfire,1190,26e8efc0e2fa8967d49613fe253f5f07,False,0
+339061ea38c0,real/Wildfire_Video_Dataset/Wildfire_052.mp4,real,1,Wildfire,1191,18b9fd11763b63bde34c79270761821e,False,3
+886df908e7fe,real/Wildfire_Video_Dataset/Wildfire_053.mp4,real,1,Wildfire,1162,fe38bc025fb20cbc8f6e8c9b72c40085,False,0
+85154d369e44,real/Wildfire_Video_Dataset/Wildfire_054.mp4,real,1,Wildfire,1162,09c0507e6a98be16943010021199210e,False,0
