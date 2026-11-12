@@ -3,7 +3,7 @@
 Code, data splits and result files for the paper
 
 > **Gated semantic–temporal fusion for detecting AI-generated natural disaster videos on social media under a shortcut-controlled protocol**
-> Seda İşgüzar, Onur Polat, Özgür Tonka, Alper Talha Karadeniz, Kazım Kılıç, Zafer Cömert, Muammer Türkoğlu
+> Seda İşgüzar, Onur Polat, Özgür Tonkal, Alper Talha Karadeniz, Kazım Kılıç, Zafer Cömert, Muammer Türkoğlu
 > *Submitted to Expert Systems with Applications.*
 
 The repository contains:
@@ -110,7 +110,7 @@ See the paper for all baselines, statistical tests and analyses.
 ```bibtex
 @article{isguzar2026gated,
   title   = {Gated semantic--temporal fusion for detecting AI-generated natural disaster videos on social media under a shortcut-controlled protocol},
-  author  = {I{\c{s}}g{\"u}zar, Seda and Polat, Onur and Tonka, {\"O}zg{\"u}r and Karadeniz, Alper Talha and K{\i}l{\i}{\c{c}}, Kaz{\i}m and C{\"o}mert, Zafer and T{\"u}rko{\u{g}}lu, Muammer},
+  author  = {I{\c{s}}g{\"u}zar, Seda and Polat, Onur and Tonkal, {\"O}zg{\"u}r and Karadeniz, Alper Talha and K{\i}l{\i}{\c{c}}, Kaz{\i}m and C{\"o}mert, Zafer and T{\"u}rko{\u{g}}lu, Muammer},
   journal = {Expert Systems with Applications},
   note    = {Under review},
   year    = {2026}
